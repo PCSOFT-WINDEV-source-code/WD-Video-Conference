@@ -1,0 +1,152 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Video conference
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Video conference
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Video conference
+    internal_properties : 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
+    configuration_id : 15571958594028232064
+    type : 1
+    generation_name : WD Video Conference.exe
+    version :
+     version : VI200066R
+     internal_generation_version : 3
+     autoincrement_version : false
+    icon_filename : .\video conf.ico
+    language : 2
+ elements :
+  identifier : 0x4af4493c00150018
+  elements :
+   -
+     name : WIN_Dialog
+     identifier : 0x3fe085e658d00070
+     internal_properties : CAAAAAgAAAB+5FZKeSaOoaRJNDyVpkpfRAcDG8ek/sueR5orq4SQuHSKRusm0ux6BTGrFZ1TL6Fr6w==
+     physical_name : .\WIN_Dialog.wdw
+     type : 2
+   -
+     name : WIN_Smiley
+     identifier : 0x40110e3a00001615
+     internal_properties : CAAAAAgAAAB41qD8S3A4Y3oL8n5XYQyF+p/J6dilIp+C/nxSzVNB7w0h77JslKq4R/Pty0uFfXNd5Q==
+     physical_name : .\WIN_Smiley.wdw
+     type : 2
+   -
+     name : WIN_Correspondent
+     identifier : 0x3fe193d8552ed79d
+     internal_properties : CAAAAAgAAAC7l+MnhMFpcktcNzOUp09E3fqAkELYsmBT6yyvMg0JN/EDM+4n0e19GAT++ro2wjaepg==
+     physical_name : .\WIN_Correspondent.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x3fe0760c7cc116b5
+     internal_properties : CAAAAAgAAABfO7drWAUtPodoU9/whFtodRRMVHR+vtaOmI5UedbEbIScVttL9QkZ5FBKtn5yDoJKyg==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : Global procedures of WD Video conference
+     identifier : 0x3fe0749a1f36777f
+     internal_properties : CAAAAAgAAAAcenSgH0Ts/0ZHzqoTYRjxhitF1SvI3fqcM2bW9HsRN90BL3KgWHaEEw+Jdz+xSb8JCQ==
+     physical_name : .\Global procedures of WD Video conference.wdg
+     type : 7
+   -
+     name : WIN_CONFIGURATION_TUN_STURN
+     identifier : 0x455c7d3502e26560
+     internal_properties : CAAAAAgAAAD6UCJmRQIqNT/MYYW7zjKb2GsXD7EEpbhfzHAVJcBchKC+QpNCgCV8YMU/uXl3A/XfZw==
+     physical_name : .\WIN_CONFIGURATION_TUN_STURN.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Video conference.ana\WD Video conference.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADmGjs6MdjOPwcmeH55B8rXyH19b4zuS3b68viNqZpQ5UrwNwKPoM0DKTGJ46w8ViHrnDj9lsdKilJtj3fNGuS9KC709wMBDWMveWjq12jxkmgC0PGYVpSJAeX0/d94RcoqgWWZHGquU21t/vkOzg5jkMfoiZjXr28ShL9rmxd+B0anCKyRL8mGw0KGIZCk+LOi
+     code : |1-
+      GLOBAL	
+      CONSTANT
+      	// Name of the sockets used
+      	
+      	
+      	csRequestedSocketName = "RequestSocket"			   				// Socket used to perform the requests of presence
+      	csFileSocketName = "FileReceptionSocket"						// Socket used to transfer files
+      	
+      	// Name of the threads used
+      	csRequestThreadName = "RequestThread"
+      	csFileThread = "READFILE"
+      	// Numbers of the ports associated with the sockets
+      	
+      	cnRequestSocketPort = 16000					// Port associated with csNameRequestSocket
+      	cnFileSocketPort = 17000					// Port associated with the csNameFileSocket socket
+      	
+      	// Messages of the protocol
+      	csACKOK = "100 CONNECTION ACCEPTED"			// Confirmation message
+      	csNOTAVAIL = "500 SERVER FULL"					// User not available
+      	csENDCOM = "700"								// Ask for the end of communication
+      	csREQ = "100"								// Connection request
+      	csFILE = "300"							// Request to send files
+      	csFILE_ERROR = "503 File Error"			// Error while sending the file
+      	csREFUSE ="502 CONNECTION REFUSED" 			// Connection refused
+      	csMessage = "200"							// Message
+      	csFileRefused = "305 File refused"				// The outgoing file was refused by the correspondent
+      	csEndFile = "310 FileEnded"				// Message for the end of file during a send operation
+      	csFileCanceled = "315 File Canceled"			// Message for file cancelation		
+      END
+      
+      
+      // Manage the Contact file
+      HCreationIfNotFound(Correspondents)			// Create the Contact file if necessary
+      
+      
+      // Open the presence socket
+      OpenPresenceSocket()
+      
+      // Manage the threads manually (each procedure is not a critical section)
+      ThreadMode(threadCriticalSection)
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Video conference
+     identifier : 0x4af4493d001d0086
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

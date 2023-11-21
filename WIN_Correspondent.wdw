@@ -1,0 +1,243 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Correspondent
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Correspondent
+ identifier : 0x257fdd5209aed7e0
+ internal_properties : CAAAAAgAAACPOA7dKIFzou+94faHqcIBIT/px3/yRnTKveUw1wuDOFpMiWrN6ST130lMtsqPt+xSy1z0P1L3IxzT5OfNNCvE5lKH+IpAIW298T6HrddkEOvgN4ARnv5ywav24qoVLSQHrEAO8yizIwFx5c+NIxBbr3ouXmkTpCnYiBhz0GD0GB9+g/DxNA7l7M7YfUJqWNsQGobUBhZSI9u+8qz8KUYSvgiKR2Kc92MNQy1w4hDZKL5x6mjVxhkTOLFlzYBiO7zCe+7C497VkwZN3S/i+rUZUb9uZdnKyUD7skyRwEEnlC4GzQPrEbVXYEgkM7mGKlBbGTure0Jqey4L3jHxG5LG765xbdk3y4/qKT/euvHO78B0AsIzePUDMxORK1aCT4/4oNrSLdytQndTya149ZjZcdptz3AHxIMqFjjmT9c2MsLaujijmdrAkBYhxBtIelEWiUFDjRFlzs3luCVrI1H4yvig+EFmNc8m6ToQViZUMe3e6srJ2LI2y4K/5lKIccmFBnucY7txT2NiXaGOs3mdZECww+ajd2UOD44Li+rWcrR6xcO4RgtasMtXM2zbM/Dt95zICoLCW5efAK/z5njS95glMTi5s68COVkgVprb/RcGGEPn/+G5p99K0TVktrQP9/wnaquyroFqteObCV53k5cIjk4+CWOZJCFH8R6AWldx0xmQhqH570C0L89Snz1vOIBvx5dm8O6SpF0gbgL/EIEUx0GW4aQnp9qtK3+AAaDIo1HLaQtXArrRXSiB0OWLA0u0q8s2+jP+PP2zCu1flLWDbHttoEeH6OzIhsZ8alILThqP2Ldojifz3mnh1gZB4EXXcGs=
+ properties :
+  width : 342
+  height : 178
+  widthClient : 340
+  heightClient : 146
+ controls :
+  -
+    name : EDT_NAME
+    identifier : 0x257fdd5209afd7e0
+    internal_properties : CAAAAAgAAABSNBHrgidtQQcSaErLnMw00Kqr7V+qcNYO4DdOXq7n78punceWKH2U8dI2GthAyAaCnFF8stcIxv/8FJ8wfV1KDAebzBVuuAAIzGHwAdFn1X2jW1u5H8aHco594RBCBa0VTpFimBtMsvoUpJtf3fVAuYnWwj0/GGvcAivYaOsDxJojICbd30xrhm4PYDlTxRI6YFiBvr7qlbGCzlnRaU/lgvkJJSKAHXmwC8/tal2N1DxBOqt8m6ucpJLXJgd9xDE+kcl/nASuzrvNliJYyaD2dZQhIq4qZgiKBv1J6/wD8WQxajkNpGGS1WAS67kvEA/4w/KbsQK/90dx9X4MKBwkAam1Zyzeql3aS8UD0pdFS0CFvXilyUNn3fNHXvL76eTkrpc8IZpp28P+8cwWpcNCoY8Lb3ZtDEusbPZfInezWJ+TmW87C3/VUh+ZTiW8Z9TUyzKDQ8bpehoP+TAGAIcWx08wHaBoe0YTPxCP9W7Ho4PMP2VaK1iq5/0yR0dcmFV873yx78mPIEe1gZJY+PHzAZMAo8MBGtszToq04R1Cfv9LSbIPoKzGqsgcrdMySIE03bQblhA+VGOg3b0Tlqg52qUNWJv/I51047jlsVMvl2kZ4wek3yaZ1XqWDiofR+CB3wRZL7nwwN5nJ8XLXzfvJE6N6P5JAXDPAtIaqheMN7G/Rl/3eyPpD7g7pyw80kzoOJ9+xhzMqZHTB8IyMSd6PwGatxzy2NcS4Bue4jJ3BbKwLLCsGypxMUPh6Ojc4+dTYEs3pJ+qypztMjpsIDa8FghMIY8ff+XCTWMO2lX0J7ilJSLKy8mGVvTtRToEekPp4Yt30bMYedflrHWjTv4Ahv1zLiYs5gPnbq0DiQdMFkZ6rLwrel4KlNbpH1v/C2MZdooHkc0u1mfFezbb66NOcqODgBc5W71a39wvZkPhOOy3qhcG7m/QYMqAeOatxcm5SLzGBZ2SAO0J7xNIUTTRKZvX9B6UXgriNaI6AFsSa7Y6wWToIbZP+opwthxFAC3D0EibctseWbZq4TKNreymWSNGKnOBLap+fSqGRyPzz5ZyslCBQ1wfk0sQ1VC8BQThXp13/rwmrMs2BvmgacEGA0wEW77NvRMcVEySPQWtnud2hpv9VcZB1DQ4htX4wNT7Cppbve2W07kAUBvnsSDeA6vkaOgVnFMV/lFwZLzNCF6siZn5wuovDJ50zd7lA8dw3Y8K7pPJr5ReOEWKSWBq6yr70gtFnEkkZE4y2mVHcNkjcFOUETJ9HB2YBm/eHsD4B1Oc7qrs20yWSlqDc8+Udhqi85LxAUy3lMLtOtMPKNhdcsHsulXGOgLeJ74dLUv11ZHtBqCLqPPkJwewdPqTjmLMjSSbuUgBkc7fYlO36ivUP1PM/Ec=
+    properties :
+     x : 19
+     y : 16
+     width : 278
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : EDT_FIRSTNAME
+    identifier : 0x257fdd5209b0d7e0
+    internal_properties : CAAAAAgAAAA3HWKyZ4bvsnyqThSPILVbbuLfGxbXAlYLrDA2HV+5+SxfdeQq45j/l+cdy1VMXzUbOjkk42Ai1nrCZIl3WiThGWDeh45jjSZlSzHRvC6sUabwB79B/6KPj68PULpKEtF3bvgObcsBL7/2RAv9ahIylI9dU0fjsanfICfhGQhayJBM8S7ntvwPkdLvHzlvTMrfpFptkfX6uLfmBIoGTtkw8+rMtf9Y4SwT0R/MAq59heUiSgYNs2WWo0ndEY8I+TY/ZQg+pm1aGnv4rjrFkIk0YNF2Ie1kvpP7TfsKq0IrgeFbaWP9ZZbR+dHKGUm302NUMvW2iN7TZKYyABYFQHGLuWGUx772wDa5BWZhNHJ/QdP5h4n/6CyNNQNntey/av/Jq/djrEhG/Ukl7vpMOTHWlq9D7F287Ol4xQJ+mYQL/BtcAAsFBXnISkEPtZIpRD5RTtpUivazqIf/1b/+yooPQoxpuD6qU2z43V/TKKpyYgIy0sNG5aoQuTSe7K4D0iyRu2VPTZ5VqfnT5WtH36cKvn63VPy9nAkCx4hpybl6QCEwgHhDxphc7JsqGg177vdnupGcIROF7/FS4dlaqqlzhzKRvkSUi8QoXbIHI2eRFBwBHrF+1sSCMWodA+MGlOKSP3FOptuP11yJOUcXSKWdMYsJGSQFnl6zafxU9Jz1G2MAnWEHMNCTQVr1cHkvjRaat2h0BBpsX24EQUl6SyHGGly+ND4pT8j6L2/RJ/BrkFtqzkxrel3OtXlp3JHbiBQEpyc5U8OeY/m3aiMraJXAfaTbCvlfociyPMn0E+E+XyFJQ8tPi8UodAgBmUdKphQktZJu2NYlSl0b5sPZOj422Zdrf+5uAAMCUkfrT+DPxeGHEC5EHuUI20b8Et+crHQuLIWEDGoRDEHRI3ZFR3DasdSGELAdTYtcUe8bHNattt9lqn6PdJMxk4ACG9Beppm1y5xbqviJ8X+rKzm9WkFidOV+q1BMmLABK/KKftRlrLJ2EnMKpNccr6+uRmHrOaQDYP7vlX6ZX7cgmRFwusQIX/4Ue3QVz3mplYM0fC/ErKS39m5VdqgVskqTSijaQ5H4tj8HbXOriGA0KEUmPlYHn0O/tbeK+5TGQu7nVolrrw192Ec+T7Wb0RyCEuGqhqG2YNDg1GV035lfehqp+FeOdgOVjEuo2Ajg0V+T6PUMUz8EPgDA6uWNDfliD5/pC6WwD7EGa3MW33npOIkrDX4b+ueNCbqpF5vWGcC/7nBNQ4ZGfKf+OVrBUzq2QoMBFHOB0q+GobL4BykaNGQL/TgRGQhSsRVvC/8q63oggDbO0YnOpgdH2kHG3H53UpYDWfwtD5qQEhXF6FZM1KJVzI4WuZPso9lP1WGXaTWo9O7wITdyak8A+k1xFE6L0A==
+    properties :
+     x : 19
+     y : 41
+     width : 278
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : EDT_IPADDR
+    identifier : 0x257fdd5209b1d7e0
+    internal_properties : CAAAAAgAAABj8yPAc/Uw04mvZH8pWav17zxtAJQpYtB/k+ozxDeKaaucSXGIMqrjsQ5z2rsdnzs6MWvE6x6nAQlscVCoAeVkqc4Cbthfjs7mViz89HLgZkVibBVX5rcV9HEfH2SbmVCMkCVbr6xa2z69wt+bAjzlSEx3MEteJ9ALiFuwEdEN+FwPakcHmJiVcbSpybiYLeZCRfk0V7UmZITMVnwHmYIe7JHLtMjoi1M2p3/uW0+VGBaaUFEiNg0M/+T+1UV3+4N/Z7zydPw/a6J+AQ3OwSf0NRYvZfCeuyJE9Rnv671C5RwNcMS2u7KEPgngsD358mTWoprODCspWdrwzcNjcHKoY3p7c1B4YvUvZPW+bBgyVVxJqYRuCZNIyUDqCfifvxn+t7urvrGirOHLkWH66WnQxlnfUCdVj+nhhj0I0GR9vK9fbVlh6Xv0u78iv52U/oiHI9kqSJKQQyObvbAMrd9QL5PwQaWZaQ5hbp7jz8x/UzRZHEPg3TTXJjhalDJA9bq6U4WtBsZsR4h7AL5fpO4v9AgIxAag3Rcn1PyOnM1fCnqxYVcaO4E7Jb2jBXj9tWTQrT10jb7MaVolQ59H9eErT0UJJAM/I3gw8uKqPk2qsA636C/UWvUMWYadx/99zsgVvxRCE8TWOm6FNRDSiNRlt2EQzHJINKmVYqHMg0omAif3RgkSgpDtQ72gpCXOoQzM+t11h4Rc8X2xcQUX98GUzeWCFLdGXnksPKtJe+Y1KTr+zlE3hYbliaFzQZ9II6HBtgXKIc38ohhLtHuzyvAYbqyEToLVXYXGZ0GrwQF8gc5xRSeB6e+kxI4rUqm4zm+p4/G8RBNow0HPkhJy2AZK5L+ZzaeWkK2htC8E3Cu65iqEkqkuhnbaAL4V4Kofee0vwkL6upW8LJVR+zMCr3miMhMvQYrz/b/s4/xylyOrwvoPDi6nJpXQ9AoMGV1DVZvPtMywbYanefbYKkOKPsVIGkTMxGAj2ee7ELmG7nh7ErP/an4gGPewLz2vdHC6vbKS4WXrGEKviHVrlqorTmP5bo419sE2mlkNClOaQXRitFlXi9GwXZ49ad32NK1ijbTdPO/yb4Aahs1GeooTle2IOURYjF0L0WMYHoI34HX1BtOksOzQR9QTnuy0pzAmLKJ1QETMKEcW7znWmiROkdgwKaOYPyE10CfNyK8191i3UKpG3zh6IjqnoC6Qjr3pe6EGkd8lI1G1kZ6Ck09cqmsDruyI2X3LiANXdY9Er/d+qj6DNJwzFsV37s/mRFJspc2saO7+it8uhB27WBn7s9Q2ur21/crBBLPnSrq3hDcHooFqeRdGSo/ZXsYtgvJuQg49iNBF/qxffjLIK82DzvliwDpYicocHu1ABf/L37F/40Ma0CQQaRB1gci2oOVmjA==
+    properties :
+     x : 19
+     y : 76
+     width : 278
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_CANCEL
+    identifier : 0x257fdd5209b2d7e0
+    internal_properties : CAAAAAgAAACvseZFH9m09RhuNVOFDvZzUiH5319BC2MxlCtOED5KTc6XnQYAZkhnEhAvANsmip6vZMDiUnFqiNuJMGpF6T7do29pT/ZwiaQzeX5ieALk7DzyUUWTfZzVhglQjG05tLrhVshSVt/q/sa6QRmdlq1ESUVLG3YKBL0F+g4cumxefO0hdPrTAMFuG8yWW6q0EyDyPswnABN9g/UAMgHPiKQoVlyRlNw0//zH+Em91KzBY+sPLOW2/uo0X9a5xIrGshM5ZD4N9FkaqtZJ49LHNyScA/8R8aD/hQXKfv+j/gZzSPSYzLICv2G7FpUlL9mVacex81XhlWzgDbZlh7OnqIiqW77X1YUtYwYM6pO9Bp9zaP6YxGyem35k4INsFoGB2/Tg6uPR6zrtxvRTVI3acV4wrCv7QRr6vlmKKqJXSH1iMJhqwkNxjQbg6zYDCPHduT5KbESwmWUXHYIqfnQ2yLi0ofhTZ44sO13BpLqAxjWrufHpvvrJZArJL+hlVrdK/DaF/ZAwiTO4lZx8Q7laclE7CiDKMnoKgthzR5N/2XOEHy5AB4sAp53ySJyZ9a3/YQLOpO49pCHw9gACyFmV88jOvwTGGgtsJs++gQfrbXAy31GlXat8sf8Z4o/ZZ3eb9xHGRg11o0KG9ygRrvs+gIzWNcB7Ko07I3aNRcQESOYOMe8xPu6SNCCDcznIxmaMXC02V8tkqvMQ0FUF2mf519Ze1pU2isfwi/LSbv1u0yqrLjcHlfuzIsJ5AqqxJAS6bloIXemiKSboY4VoDH6uEoADe3oomPQYmysNisvmzMnc+4AOZF448ADgYqZnf93Vv6AqRh7qNJDUc9JgR+2RQH6x9xxSX5mftGSkQOb9iIBm+hEZBC10W21zZGH+4T/Y1MzE7Cel3i95ZoqWyK9mMo6/s7Wd2jMFBu5/6cgwnEW+nj7UbeeOWnGgZnCibpg5bZaitg==
+    properties :
+     x : 241
+     y : 107
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // If the information was modified
+         IF GP_INPUT..Modified = False THEN Close(WIN_Correspondent)
+         
+         sMessage is string // Variable intended to contain the confirmation message according to the entry mode
+         						// in the window
+         						
+         IF gfnParticipantNum <> 0 THEN
+         	// Add a contact
+         	sMessage = "Do you want to cancel the addition of this contact?"
+         ELSE
+         	// modify a contact
+         	sMessage = "Do you want to cancel the modification of this contact?"
+         END
+         IF YesNo(sMessage)=Yes THEN Close(WIN_Correspondent)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_VALIDATE
+    identifier : 0x257fdd5209b3d7e0
+    internal_properties : CAAAAAgAAAA/a33Dz4wMu8SWU1AqYqMX++8V0vrzCdGzTubolnG5+4+545AK8t8QsitvTVXdWabLlRF9Dd8JfAx12DQLcWpDovxh80w1keKhY6nuHtUnBRfNumoDKCROgpfpU19HdPhFzzXnjuI6X2R8saJh/J36BJWSWOjAvjVuQMz4CWcaDMvmrZqIS+E7vCR/lyMzCJQHErY7OA2kIPyBUUNqWHmOZsZKtTx9H+WTIYffrtWf5N6UmhqEfG/ThUCc9VblhrtOna7gXvH77kF+dXxRUhUVFt/qP9F0pHdnD6bgSNPAdXBl71Q3daG5ivK08aby3JadJNTpAy7jkmfNNnQsv1lMy1upxUFZwljTv3+8PG15E5uxpuzSYJE1dXQmiEqC2LuU5Hq9aIBwimdtKFScf+wwTWJN4Zz2fS6ZkA1HDhTj7xYyz+WWMmv2BzFmV8GE2/2dyPqhkdP9hccjd9AOU7KA93E2TLqR8Typlw1FC8jHpS4429aXeWsWuGSry1lfrfekS8omDsNmfN0XOv6mzncxfTfjE5nJWuarY6Tl0dZyvz67qGcvMoM7Wy6c72kT2pFSygBHm7FkMkZx8wtP4sWge0LA0DQFzpoc10B83oVgbISLMi0kzO35KhTw5yepIrYZvoGPFb6PERDakbCf1nGPBwzcKpDg8lyAaFSWNIH36m67u07kbeTygAMNl9hwGuQorVvNnuINZbJkK+EWJmYvY420fxEbn86Zh1dcnAQZUNtG+5G8D4Z/m8btSbDyCtIDLMppQHTUzAON9ulgquRf7UwYueSiDgzw6btlEyXtwyNQ2FeRSG1l19guxVGBuS3RTuG+iFXE6Gvy8BmATIk5afP36CAA9DcT4AEPRCdWpYS7IhnQZ7t0nz3XcFlihvWB5+x7ENH2eZujYgiogNbg4Nk3e6uNzixH/S3MvPxs+LJ5zjCtPR0VVU7p9g==
+    properties :
+     x : 155
+     y : 107
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACEutynWrQFIuEUMLMeNrV2XwIK2abmQLDBRqItBB79AUyKnZMOthXIcHE+VfNC9i9oHPekkaEea4qmm03x9IAXcje/3lmyAk6T+Klow+5I2s2TkD6UxBM=
+        code : |1+
+         IF EDT_NAME ~= "" _AND_ EDT_FIRSTNAME ~= "" THEN
+         	Error("Enter the last name or the first name of the correspondent")
+         	ReturnToCapture(EDT_NAME)	
+         END
+         IF EDT_IPADDR ~= ""  THEN
+         	Error("Specify the IP address of this contact")
+         	ReturnToCapture(EDT_IPADDR)
+         END
+         
+         // Save the position
+         nPosition is int = HSavePosition(Correspondents)
+         // Search for a correspondent with the same IP address
+         HReadSeekFirst(Correspondents,Address,EDT_IPADDR)
+         IF HFound(Correspondents) THEN
+         	Error("A contact with the same IP address already exists")
+         	HRestorePosition(nPosition)
+         	RETURN			
+         END
+         // Return to the position
+         HRestorePosition(nPosition)
+         
+         // Update the HFSQL context
+         ScreenToFile(WIN_Correspondent,Correspondents)
+         IF gfnParticipantNum <> 0 THEN
+         	HModify(Correspondents)
+         ELSE
+         	HAdd(Correspondents)	
+         END
+         
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IP_Address
+    identifier : 0x257fdd5209b4d7e0
+    internal_properties : CAAAAAgAAADUxp7K81276AlLRAWut32S91JDvHXw3bCCnx0CXsNU0cx33cwWieCc1jrf6TvKGWvezW7TUOKqp+WJZYvEjssVmuTq8Z04IkF640g/EcWYXqKrZEtdQ0JB37brbBc0vCRq/E1dx7XCLEiLaIDIfTFJ5zosZELC5R2/1TLLtnuTPA5kTlONPBO9W7NJ/0z1mgm220T9L1fNM8667Ykq9gKGs5/CK2ucgb5eWJLWkEvnPptc1uiVREcpT5FhSBePoUfge+fCevhzuiQdYXsyH751NgrkxHRc170J4hOTdNBcfiRqMqfGdFMAVt7S4wFNxWe9iKLE92tA2D4DY11ZEKg+ICZuETUT/FdIZOKNuZObYhgaAfvrQlVHcN91Yr0RfcrEEQjbwXdwn93hEqW/gOD9ragXUXCg8L7EITJv9stwz8ILwzvfXAPGrfRFAq4j5+GE/7TrzX5q3fF7JC+lKpYJ8iwa87rmLvl7pXrfh/wFvITpVWWFqvfPIWbq/EBhD3YKn27qsVc6Ruv7BpE=
+    properties :
+     x : 20
+     y : 66
+     width : 117
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x2680c8720c2c8890
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAKsgJTZAX51rL5B1WTMvCLI737yVR32mCE+7N5VoMCE5lTu1xI02PkOoUWd+wAPbRNQiHBV5EHIDtcftbz9JLrNJprA4ob5WGybThVwOfKjL6O2ekeWYhhWQY4aJg9
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAD4lkU62tXPAPBsbgTZlpgxbUyHG66gNq6dHcpotd05iqRo5Rs/vEEC/in5yhlJJleKjH2LRnjlGqy+RfnK0FIUzPuxR5UsjZj6fMPdG3W7Vpv8TyhlDgpJTDRVFQ1scUYx2xEqn1zbiMIGa0m2nppnSu87YeO1pRNu8E31HcAkhxcyj9dc5/uhmD9+bMZ8xCz8qRUS2PeswkricLMzD6dqtHkXcMbPXDy+N4PprBrcIj63z40PALWDyuaLlvnxSdAxj4bOClrYOmPnmL+O+JtnrjvONb+nafK/z6jeymTVZdr+SZAmm7NWjVhHPC2LvQ0Ibcb6EKaFYzpukbJbpHvGJdaAzMgYWc5z9SJqtO3inFjBgthbLaOmJ0tk6u+8W6g8J1Uj1xwDo4/PHAnaNtXTRQFTQhEm7aKgBGyHNYjZX8RCY1cuCr6OrvVaohV/STbmHI4JjaCC8a7pwhRv9D1HEnoIBbyrmFjDkVk=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE WIN_Correspondent(gfnParticipantNum=0)
+   -
+     code : |1-
+      IF gfnParticipantNum <> 0 THEN
+      	HReadSeekFirst(Correspondents,ParticipantsID,gfnParticipantNum)
+      	IF HFound(Correspondents) THEN
+      		FileToScreen(WIN_Correspondent,Correspondents)
+      	ELSE
+      		Close()
+      	END
+      END
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenCorrespondant
+resources :
+ string_res :
+  identifier : 0x3fe193d701aed79d
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

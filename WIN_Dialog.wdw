@@ -1,0 +1,1710 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Dialog
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Dialog
+ identifier : 0x257fdd550a7ce2e8
+ internal_properties : CAAAAAgAAAAlwmnXMc+xiQPNFUhgbIeVm7y3gMJtHPHr9U0wfUNu3hLf62HjaZGEWbWZqqQgso4wBrlGwa5+ZChS8Z2yncdJknTOsEyE7R3rsleg7hSduQe14YishXGxP1nBfhifKc7g8WLxrMxuKqiejDrAikC37VRqX6nbKz/lKWx9IPu/22VcP+1GvOtKVscvLBM6ZinM5QvQdLNirJz4mC3xrXxdHu9zriKr8E5ffggml42IMfpBJUU46xgLkqsPzRgMUJZofkAm4qptOp4W/z7t2HnTcWGvLSQSAE+Ty05bJPG7/v+4Ljo+74pFu2bltHRJWmVfNaBH8ns7oESNVhpGNYqOJK3xBZPTOjvK5hffhywV2B3nA+GpdsfVp1Ejj50OL1ma5fVbKLxDhncxYKC1SloNlZ0Epebn8YzhQjLIxHjoBDeEAjcUpIRvvERs9lIFFOv7OU/6Vngnl52/44ni+rHE32r8DfSnC7Aia3vww/3qR7ySyBfk0/D75RIMfq8/r4/qhjGvyO41Bhtsrj/pUgkJgShB4U57piGVUMLQrfK/1WrrDDuyTNCS3yQTpPANpCt1TZtkA0SVAGI9Zf7fVmxr6p9DYwdxHUbcBvsSSamyR6pu1NmZFej8Cr5ihuI07lhwRGQnDh3V0IjrXdCpGUBkAuoG+2pU4tUGX3gnnoXKXU03NRHjA8cAQegLnfq3zUw8ePzehdS2wb6IclV0M8Px8mkGby2ZIWNpxZM+dpN7dCDLcCkOqYS5rAhEvYh543YB75X2bY3uG6DXMTFVguL8TKe2qhvLQ1pzzAQ=
+ properties :
+  width : 614
+  height : 432
+  widthClient : 612
+  heightClient : 400
+ controls :
+  -
+    name : Static_Connection
+    identifier : 0x257fdd550a7de2e8
+    internal_properties : CAAAAAgAAACrUiXwpCJhfajxjcV/T5a0ru4Cx4yJeB89e8oo86PZzwLXaqbQpdsutjnU5E/ZjTh5NOa7fsZ6Bvnv7LhIOn71oWgMX9cRxcWPhRg9N0uSV+v65e2CLLQT1mtJU0HZPnZ9zWJcaEEpS683hSKK4P0jvFSA7kIyg6+kt7zRMhCABZeoCeb6gjMoY69bxzyGVKQSq6z/pQQmXv8vdNB1iSTzERU95wHemLanVljGmHTnt6vZAJdK6wgGfd5rgRRlP/IQO3/F3IQhjGckA6rc4ooJEWXW8EAIrc4MhV4w3tIG0mJHdITM2s3XMqi+EwOQe4Ps95OlTXby7KdyWmHN+ErVrkI4KUFMH8MAQ47DvyWxMKaBYxXY2plntluqymDUzcn8a+F2PDC1X/7Y8p46Wh4CCzwIG7WNXotKw5ENmqUUBicV8W1pj0xxQrKtA374fS0nYj85lQI/xEmp3sIkspOKYeXrmUj5B8m4KYRd04G/gvWJRUmYYVgjkqddMk6uMpyVpdetxPUK6i7iT9/BvICqm/ITgb2v9rpQF9XQunjNf9Ug0AR4/n+ak78=
+    properties :
+     x : 18
+     y : 11
+     width : 407
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : Message_Table
+    identifier : 0x257fdd550a7ee2e8
+    internal_properties : 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
+    properties :
+     x : 17
+     y : 46
+     width : 574
+     height : 173
+    columns :
+     -
+       name : Column1
+       identifier : 0x257fdd550a7fe2e8
+       internal_properties : CAAAAAgAAAC2+huyt9+ExTgjPV2bSoS2KoFxLr/LXrFR0bGNgkvsoF3VuZ6nr9J0OWoBrW3hU0ethCxC2kpTx4D4mz3SPNKTUMgrVS2XjDo7eOCNDle+vCtKHEK89TLkQYxPjvThS91BZKjU+9RSDMyQpzeYsum8a+c8RqD9TYPIHXay5nJ8p6qP43Gdu1EYTAQ1vMA/uLXK5rDdCx0EDequik1G9HyZmes7zA==
+       type : 2
+       content :
+        internal_properties : CAAAAAgAAABkcLZZKzuHTJ7D2MJvNQb5LOVsb8GHW+xrJBsDR4yRUUaZV0iESsmcArmJ68JZqGYC9s1pPRFMMie/HFQ9FK1+gWUHHQdEpLsoi8D50wrvW6P7sDcEcU7g2xVjXkfEPZvO9cBs6kuXxfPOpxSOszOz5ksNQrxbZroq/wyEQPVLfsP4b0Ca6dC/EKHFdXSupIslWmo1mpJnCq6vIkZcO1MQYPCSUW56zeS4V93pvKGQabqQc6RFlUMDa19bSrBAawmUlnJTleidsKoVymyC1v9heoilKg4Ded5wcwziLtgDcbqU8t8fKMPzVppkud1Z4QLgLxp4s03D9I/wKmnuhTFHsdRh4ywkD7cAHDbG58AgYz9qYOh7AXv2ClOZYi9eQ5m3I+2QygWKkHD+8KNeyy7UPrQc3GKHNV5mWYsUyLOZmxA+OyVBZm92Uv8mIB1pA9Akv0oNTgdZ2uBquon96l/wnkogaX4Rjg1GQ+yfgMk4KmuraRwJ+AWJTuaGM74wetsoauL50ED+JInPxDnq+05Ymy0W6fS49dCQXIfTapmwgugqfJGwPqpg/tYHEurzQN00ISp5R1PDSkQ6Ay9Ac9bgNXVY6ourWNma1DHq6SeoljGz9M+6xFoipLZNmkodA+3q8Crq0CFoUR9r5vB9/OXJAOO62chng2+NZrVmRn4nRIudm6oPdZ99aa8JxmT91HSFzg2ILL4zmhn/4AzPsR3PPFjgKmG6wPYFF3NGPsdvkm7T9vV6b8vnoL8VbpdvJ4C3VoxwUg3NHNo594ZujEx3crvoWVw6USQwOBSPOQQJwyezbDOZyUu1CZhJ+HHTvfZBlklnAUDBBE1nRrp9aiP5lrnw2aurxjNavA3TCBHw4K6AQNebHimS3sTYZZP4o990UMkscKCT/KPqUS4cM/9Cp8Mr7V0H4a1/pamXpEo3v63zPCMv4Hp0ELnApPYY6vZt9YgxydnhxUOtCr0G0vHnFB34YNnzRaed+XzXiDMiEcA=
+        type : 2
+       code_elements :
+        internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           type : 41
+    type : 9
+    controls : []
+    code_elements :
+     type_code : 9
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 263
+        enabled : false
+      -
+        type : 262
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : SC_RTFControl1
+    identifier : 0x257fdd550a80e2e8
+    internal_properties : CAAAAAgAAADezoMpfoP4GAYwdwYTEvzlmPm06c8QrcXDR8SxV8nYFuVoQdfQrKqi3x90Nwr93JPw/ULTZA0Q2TEGW7enuB8xCoDQ6ImjkyV5WuIeIAlT2+dahFZxUzmW0I4qqRCSqn5EJxLQkc4SK0BgmaYl+MfszcFHmRDgGUfjiJq1eGJwnztcBxfPr6p3wStvNJNobKqTBCGbh9dGTgwBSgGijMlSfmT2ppwIp6hXkOBeJthfSH+Nke9PBOmGq5HtX93iYP8gXR5qQ7La5icbI9JZCWe8bPogwvLDo8DHKvgtGXg6fubLJXy6CVEdBgjcJGOAu7njPHMeN/OOvJbk+weANB1OIRYDw8DMS9GfDBwTVsnk3+QM2MrT0JVopyI0itLTm706EPmRUB+pTrIG9BHghKTJdSDKtWaEbd3i80/ca+nO8SiFya31/8so/31FT+qPDrs9twgh/oas0F9mxQVRJwlAjn9Emlq95k+OqFBM6aZnAop2gY2M3Si/0GFBe7V6Gha+UXIS4dLmK70Tqj1zcygykq6Bni/oXiaoI9OIybFlqKhZIOctHKhtZS3O1AOBFAnOaFJuhHJto4y7E86K6Wpq3L1gyPxQp1rD2dKGLu1e7KnZP5G6TLxLv42TWQ4XCyA5TXMLbf4YKaImKb9VB5KLnT7ot/UactkwYfBFP0Bmft+W3jgLs1v8OZBJWTGuXpQrYN3NX1tLpbrKowOi52HU64nhgLTC79wVEn65iiK7k1jOitSloWibNKUWYHpRRQD6a729sKsNCaYtbePMZbtUg9kODNiWtkGp0tXxVLIPboSsravvGIzwuJTeNGHqofQ8nv/568Jqg9FhN0m9
+    properties :
+     x : 16
+     y : 218
+     width : 576
+     height : 126
+    controls :
+     -
+       name : BTN_StyleUnderlined
+       identifier : 0x257fdd550a81e2e8
+       internal_properties : CAAAAAgAAAAsloNpXScez+il+1OGVCUVq0NlPuBIZE6k9794Qh5QBrQU4ewdKu0TXivwSqf4vJQxI4AjD1YZkOIXuwcpcgMs7PwqGfLGbhcd5nqKvpCTT5QGl++w2nwb8A6xlGxLtb7x7M4U7k101a2u9PQpajPR8selJqs2EIU4nOocSLZl82z6PwuAsEOv1fqOEvfwS0BxZ/8S5/6sHeAT1Vnqi7c37G4f/mewb1zvMO7TXfuNy8J9f6FlESBsU32IHF3GUK0fT5cCktdCUTiwCnDHx2JR7I/71xarzMQnvImo/sC8Sn2sBlxF8ojSI0P6khPcHo1V83LobGWN6A7CMZ5i+qti0HSpoBF2OdExW2CXEuLdyExvnRp/EzDuW4N+AqCJdq4cDiIbUiM8jJog45OiC920xEhmtiEB5LEsli4VzNWA94W7USzBCM7DsrOLKNQCGuwYhlt+uydMyOAvJhyByBBdBPxD2Qortar8WTAt3Cxdj0B6CWVHC7+lFSRwPedkEOxZsjQJLPhEIgvDQgzEKPor1wV6moCAJPG1PS0IGKPoaUpyJRTiluR0RpyajiVnxwoUNXaW1oh9JDHif83mT8QHv1fv+WM4FUy70Zl3EH5ajz3S7qj+SCW174bVL5IDb0S6eCws2S0uFmDcXma1V/s9CaVmZTSyEM2ra9QAqs89lZkk6eihYiYFQAypTIin5fTqd+8Vm8EnjGt2LXfQi0/Gt/sQGwJigVxZoaJ8cR1VSfGdOGY3e2e6YX+ibaqrDV29EQS5TVLhqgd30og3SLu4Z10g+O+ouDq+cGVMGUnu33Cq6cWKNeJWL/FJ5iuv84d5TdA0Asjj0rp5Xp7Navf0jtePEG05ZisC4Qg34RhMbwbr9Nl4tJtVYlBgc+nczDJZSmzsPuprU4sVGFM+jz+yDVvJOvyic8hHhBMkxILh5ExX7dtabrU=
+       properties :
+        x : 415
+        y : 16
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Check whether the text is already underlined
+            IF RTFSelection(gsInputControl, rtfUnderlined) = False THEN
+            	// NO => Underline the text
+            	RTFSelection(gsInputControl, rtfUnderlined  , True)	
+            ELSE
+            	// YES => Write the text in normal
+            	RTFSelection(gsInputControl, rtfUnderlined  , False)	
+            END
+            
+            // Give focus back to the edit control
+            ReturnToCapture(gsInputControl)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_StyleItalic
+       identifier : 0x257fdd550a82e2e8
+       internal_properties : CAAAAAgAAACkNmzt9Bu3j77CRXQKgeo/TcshJpLPKi+galIEVrotfqnno+HP+0IdSUM837jaqU1E8AeKzFlURCx9bjMSWZBfFLHocesPqYAvAVeTbPg4HOxqCduEeGiKAPiwahpWedx19pOh438GhQT51+eQfONM33LD6R74Ac+20w45Su77NWdqOYaL9NwRp28eTuYDiyDLoEQi+5/PaOckAuhoAELQYszNWY9B5F6x8t9I//X7zoSu/cJXKHkAfZDc8xrnGr0JIxvCp9Rtz4c9EKfbSeM5zlLnMZKwuPZrv04fBvEmtiWMnRL22lf5io07qBnHG9lHA++mL2SFUG60UawoRiiB2is0s08twOqjxCL6j7hS6k9Etq/oEHbO3RjuNithp2P01cU/VYFgOZsoBDQmdUr9ji+aag9d5MrG8eOYF4uDfTLeh7KP2IvRODH0Io0x0KhzgSiWAgCmODbG5ejDLr4iE1GH5YS86YFohd1jSunuJ46ANiuQyY063VLbZAJv1H1mxUXXE9/0nQCwaDN9KV+2gnhuG1AcQ7IVQsz8/QGAhDzvcINlXy3jGjxIzMccCLvKT+Egl5Fx4/0gpHRkFKlj3ReS0bCpwc/TvaY27PeXSf22U8Cjbw0ybD2rhTtV1Us9z0AGLAxMdY68mbfoyFjF8wF96e9FXuoxEWVfoPVRcC2HMTsDctaKshtEhIIqh7uHj0fq3zYfwNIDhhAgYBgh6Hg8ZM7w7HG2TGyWShL09uaz0bLihv1nqQ0fTBZd4Mmx8GJj7aUvinxjjg/QEZL+4y2JBENR99zpQTtNp8kGC8p59tiwi52cFg7Xw9LhJGcfu+kfD7l3M1+u8qb4kg/bLZvJZY8VPshqaUXFPOB/aea0c/eDeMylTQl22F1jhangCngbOQoZObfvt7UeTzKH7rxcXXbsx+EGMbosI9p1k7Oz
+       properties :
+        x : 386
+        y : 16
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Check whether the text is already in italic
+            IF RTFSelection(gsInputControl, rtfItalic ) = False THEN
+            	// NO => Write the text in italic
+            	RTFSelection(gsInputControl, rtfItalic , True)	
+            ELSE
+            	// YES => Write the text in normal
+            	RTFSelection(gsInputControl, rtfItalic , False)	
+            END
+            
+            // Give focus back to the edit control
+            ReturnToCapture(gsInputControl)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : COMBO_FontSize
+       identifier : 0x257fdd550a83e2e8
+       internal_properties : CAAAAAgAAABfuiJ4LYzWkcavcD5+Xn/CYedzjPTOFJFri7ddzOIGVM2Xgl6k8tLL6ZlcmKmDUpcCvZ/h/dSkd33tlWi1GK+dB50djHHUdhAA85artWq1VDGVXvPz9Crd+ClfEZ71MuToE0DNLqlFxEoNJUad2dwHq3XmQ3pEUsEWGwSOxdSP93d0KDtFurv50tn/uwhkzaq8rx8UHjI4tED1FFjZ6nsVNApi3Xf1OP9fLoCsNG5Y/B71dhIXPT/2uwvPH7OYu5c4NTnxWYYxZYbkZLv/JjuG26hPHZll2BvJk0spaBDLB3QHTA9xr3nbdhzxdM/oY4cihEZS0H5Z+xoaK0iyptTqONwvZvhpREgevU1pNf2thh5E7k27fVYmsw4D1+3O/Ij8mqBVZWOe+otPX3sJI5GBPCoq3X8+bTlPjqxmFleaiaWvCRTxwXMSMGxTopU2Q5V5bR/ShKO15NnvDPd7i1+Xn3RKooMMXetoYN9t1jhZq2B5cEfPV9rgeXylcR5B2lQpbGQA1To7ScxiR8a02gP9r41F8PFsUgIvCjIcxT7t+72XOKDUzKzjFgYjEAxgteIR93JAJ4UwN/jBUMJ0aosx8BMUrqnv5TF844Z8KFpgziJDrGDEHrTARjcxnKhrEM26u3PppV2cKBlAzCeJXsADKW+kk3/yOLfdW/xHHE63FZ3bccy8Nvat3vCF2vaY69MGqC6fAhNYjrFMSHEs1odh4RMAIkkuztWjkVBbgehIEXDsX/nuCNyRmSs4rIxdMareFQnQa5vDmnDdrM8ut5gn3zyug/jmC94m26FqQVgQKhl7HlKqjmuyugHvOGD5UOreps75Mihn1WMI52fLsZH0+0VUxwZHqq4FPftM37zENEjIpGE7cN+WrY26/6zaUtPgOecWxCAXecK7meXfdP3QdWTbHI26ufZPdTNRfm0Wz7T1nBBz8uMLbSdHEc1gkoudemJ5lehQ+bygmDu5Nw0NuFcIXxrnAhRE/3hzDYkUkaT+fUH9ZxlVcS47NHqCVk8YhQfhsAwbYNOgzJNgq2rnUmJurbqVkGCyN3TuG1AyZUDyzzuoqsvgbYt29ykFAUDKf3cmfiuVx/9OCnb81qkrMgmFJ1Jks/uyk+wGrQshaR2MSovVR3D0bY4R5/RkYKQ0zz5AF6r7Ud3Q0Qv8ouHIOrESpBnjV/DXrhqmSvMzSKki+Q2Cdg70PUHCKidxXS9zN8Yo7p7LWDJs3G99eCbe5m92ElAJ5ryGg3fFG/9tUoW7ffXsdw0/ht1tpD/y6FH2xQpbcDDuJ4oMCWInIO5IObBHMK7MBcxCEI3hZT6UZ3V9d5FGVW4Q51HrvskgTJwYEi1gK2ExtlaY2A2dRnJwZyf1hu71q/P0wWMaDntA65PMSbSy3njS/T15u0qhGRnEBomNnnXs0vaqEo+wzru3NlPw+fZxrRxMKX28exA6BooeHDe08Bcn/w9NACUSwiQ4uUB92+C57fqSgCt0hkp93tO+dj3X8X3G2izA+WgpR+nhyRsU8IzgynolSr+iyn179Anw9tWSn6POQEJyNOypsxpxfHtQ3PQw+mh3DObBQs5U43uGbUYiFrf80fpQMCZ5RcaEircegMozgy5gTS6XtkTOCKYhQqgQKcVkw3w0rbkVqq7giT7+9RVSvaWQNtyLkRQ9xrTs30Rc+IoMMTkCaugrtIXjbdxsUlkmXhhKkieuqGFNm3nbdtR0mjTUj3CAPPSvFbkXgDMZwvzWsUbtq4epjCr09KqUe3gD/CyavFGxr2h31KkGL5ErSCiHxxWKz4fv1ZBpYOVQ3A==
+       properties :
+        x : 289
+        y : 15
+        width : 52
+        height : 25
+       input :
+        internal_properties : CAAAAAgAAAAOB1j9uit9kPHQsyjQqknGKhUcAIMizVQaPH2Y//63/8NY9XVCdODs/muiF9b1NlWAg5RJLh57jOyXNJCok/26ox28PoU+iP3J2UD9E0lqAbtegi152zvjAqcp5YnSvOY6IPKy7giJ6KNYltF2xFTo27lSaXYMVrk6xM+BwJCrLf8gglslTmpNR8lTf4d/mo9w3QE++BJ1m76GjpoD+CWauVSoErkA2llmPHNV41zQndYn01vv/2WOl4hXqdB1bjq4MJyQoWbZhmwmb1glbX3s5H0V6XyIIeIpkai89Yf4KksL+oJjjLDJEmHRTwWtCvV1GJeyAJGeCfvi1u059b62L5OEs0gYhHBA+V95lC/rGkH6QkXANbymO3HzyuUQFco6J9yZl6iAOQC5+cZZWkZ5OyA7phf+7Ufouhk4KncrICdFCRuemoYN32b7522skRSBSXYGYbjc67JfJ5RjjM/Y9/0U+ftRAwM5yKVE5MGqnYIWgvKu1/4OK2FgtfvDZPoK3LHl6XBMDqwyXQhwmGBkerx9g1t6Js2sGyibi2htlqrvToNziwEbu9AlFg2ua1Vlx+eFoQ==
+        type : 2
+       dropdown :
+        internal_properties : CAAAAAgAAADj1Lz55LQ28XZ3TSz+1w4ORuv0U6XvCHxVAtQd532lXKJm4lU6EG1QtbgZnnj/pLB7nL3WfQigcJbboHevTum4k/pzPhKqWPE6ioS9/epfOUB4oSdWAwNu5cII6jslJFEayJfa8dSL/U04q6xZ+kCAziAm9a4pZWTxfutIQZS17EM+iw6d3Qf+zj9L7keGqxOYyQOrvqnHNnhPgHB/Y3o1GETJAyYJ4KWxHH0v0/Nql1tJ1I7YlOdlU68kRnivfr/o98K1NaSqElM0lL7SG2PlW4DClYrqfwZ85i67lgyXuwC/P5v+Ym8kZy/puG5qvRxlRDDaKb3Qkgdqm14wr7PzxOnO8NLB2y/bzyLq14/bNRsxjDWLu2IG9SpTZqnJMqUUYZs4ZDSyVEo1CknHOINvslz5zVUyv/Uq/aPJYnP82lTALyVslKsll78VDPtmdk5NFdyYOtlbkQmUEUGKMKvMoCLXCwaTSh7fbkWBhNyVOF8m+6wnb/g1EuRhDuphBQEKcA7ffOJChG6+XzKfHFpTQPzV+Fgb9jOBzkeMsMJj0NTBdhYMba5XKlnlacEo4VB7yAdbQvsD5jfjS5RwfQ+GZPQpIIhmWs9laGnuIatJQ3tnPORVzcf+ZBScYRy7mV1BtohVboHiyTBkXWctntxXamc4FeX46ECPk8FhSN0/4pO3HL4BlbrwU1Ujwy2IlMSa4ByoXWb+wKQ+39IE97P4NMhsfWMuBB+3xEfCWBbx+8s9kXGQ5a+I+2fnqrQ3HCsyYqAxc2yrW2jfeP1R6BQeaE+wI/yp0skVXQSBqCm3xjdIXyYCxZTRl6Dn8eMV3hfWb3lu1GLjJPanKHQ+sCQSdCSacMQ=
+        type : 7
+       type : 14
+       code_elements :
+        type_code : 23
+        p_codes :
+         -
+           code : |1-
+            // Position on the size = 10
+            COMBO_FontSize = 10
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           code : |1-
+            
+           type : 15
+         -
+           internal_properties : CAAAAAgAAABPKakwX0SdVtFqh8hsZwbfsSvubMa3R4sJ8EsmiNVJiZvW2NglwnWhEvlP1oyyS5wBvFjUxhoZ3a10Vwjl66dL4mr7Dm5z+133ybF/gwXJ2eiim7L3dq3Mh19kX2QEtCc24rZsK5F0cM+Ss+g=
+           code : |1-
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Resize the text
+            RTFSelection(gsInputControl, rtfFontSize, COMBO_FontSize)
+            
+            // Give focus back to the edit control
+            ReturnToCapture(gsInputControl)
+           type : 16
+         -
+           internal_properties : CAAAAAgAAABPKakwX0SdVtFqh8hsZwbfsSvubMa3R4sJ8EsmiNVJiZvW2NglwnWhEvlP1oyyS5wBvFjUxhoZ3a10Vwjl66dL4mr7Dm5z+133ybF/gwXJ2eiim7L3dq3Mh19kX2QEtCc24rZsK5F0cM+Ss+g=
+           code : |1-
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Resize the text
+            RTFSelection(gsInputControl, rtfFontSize, COMBO_FontSize)
+            
+            // Give focus back to the edit control
+            ReturnToCapture(gsInputControl)
+           type : 33
+         -
+           code : |1-
+            
+           type : 17
+     -
+       name : COMBO_Font
+       identifier : 0x257fdd550a84e2e8
+       internal_properties : CAAAAAgAAADL1o5EidjC/aqL0NN08fVKCLwf/Ho9iCLIshnlkcv+DkMhq5nmrPW1uS9u4UhyUYqc5c57y3q7f9/b65DR//awHY4Mp+NlGE4RUNzcNIN2CIxQi6jn/vj8QdeC2ebf7UJap1Js8crd5G+kUyDJ3ljqPVq3cxVu0L0hq7IM9V7jx0k+c2gtDFIJMgUDUt0ZCSkTCvNoPg+ZroZYZJnSIOPztkWfE9BmJT26VYQ8Vy31BgxxcdSMriyMZ6Wsuk5Cfz/uSoFwa0yA6ArM3k08lXYIau8qSVurvvkjfJ8VClV9LEdqyxpPLfy729/DpKXZekpoCtrrQRfm/pHfIx7e/tMaUUIGrUpDSW7Xo0S8XAG8+J8N0TqyiMSAwRHgVZnqEdNrAGM2w3dm/TNoj7G6mxyBX7fyFa2G0JGDoOxDV725acg8or1jgFGfd/jtfEFP9opdaJCrIETy+onkuUmUUVCJaS+R7nqnOLin5gJVSUtoxMm1ugmn3jHCSnFeI8p1ddVz3/pnUmX7c6mNjnf/aTJ6RCFLSUHHWnTPBKF3bxNxja/8acHcUuE2txp5pxw6GkWBzah9OqwqbeFiX6tO69wl1enmP2m6FNu77LpekslMKoB9+Sp+Djd820EeuvDG4IsAZ5WGOUxyTEbEe/DYwYEF0mFW+sGDxLqnLKZaRcKyWnTPSpYCkYu8op9I5HVKzZah1BNtDi7cmDEYgr5bBbIXM3xiGqFhkJX+b1iqvBbEgv4MZwkLqG82lg3GJoshHgpj6JuSY5MB1NRG8floCG0+XvytTFTI4w/Z8tc4NoC/IMZRSEeDrNtZWRa+6e48SBSsBrZ1eb9NRsNGAsP21isBMRh/R8N6XAfw/+5Pzz5Rog6RQb6ujT2vs0EmhmtuNY55r2rVXUpDg05wP3Su9P1hPBcvMvzz3GXbdQN0C1SWQnS3P4UNxKc1gUDYexZek+3OrZUauu4aMVY2+y+hM2tl0WoEYAoyud4ssSnB3NrZFH+1nmcOPdXARPBR/JhyAwapvAyTYSUiGZdNnh6ziWNaNLTdSojyM+Bp6Uhge0srVJ5JN00jMKzXtszzaotTSfuRlNPF0TTgXYJuEf7WkGfRdqeKhgOIW291FAY/DTJv6palWUcLCSgXKFyS1KpJdWGNLWnXeuzB4L6PNOMEMEil5Ar/tdnZ8YXY0Hk3o6edrdoUs2MjLMblmy0Amkx3bGb5KN2BMzLyjAPkm2oKB5N5evPf5q5S33ABaFPx1fMSjNOyVJWAMg6iNVS/wV+iXO1aA0DighbJ/OFHtgA/jUa7OE+vooEyRIWr8y/indV2qVbGrdL4R1HxZWB0c9UVeCemo3NhXmWRntpEJ24g4cxlZVNmCr1rQ9y0IRepmRkkz29mVy1y+jz1nYAPIw5s3QQQSYK0Vh4CK6yDsmuO71VIrHc4Vhx1Jazq4eOzyQ4VrYlHO5E8Ud+ZPuAs8L8jEPEDT3mT6vSgWRZczJ1sgAtF0SAzCClEcftiDJr8Zq8tFN1d1o+jtr0uMHRdYQZPzzEMsPjHbYVDihNKOZ6VHjzpW39zwSprP/xG99BmIT1C4AOpCLVi41Crw+oIClTrR++BQ5E6yCWrhLVSYAWeCX73AVaXC9qftGcI4+2Mr4KuVQ/zFdV/fip2CuFUmDJQKJ4lLi7DkN9mIO0fU6XEbT/aw30/BUhqhPtW9JbQ7lcSJZCVgPgjEuEQ3n+hgNMczYBEADQPNq6CC8ExttvWmhhCuLZWlxS6PjnUP1z76sFe/h8CLWesJK+4pWz1MODUlvXuq+sLyeTFPIG8SA==
+       properties :
+        x : 81
+        y : 15
+        width : 198
+        height : 25
+       input :
+        internal_properties : CAAAAAgAAAAOB1j9uit9kPHQsyjQqknGKhUcAIMizVQaPH2Y//63/8NY9XVCdODs/muiF9b1NlWAg5RJLh57jOyXNJCok/26ox28PoU+iP3J2UD9E0lqAbtegi152zvjAqcp5YnSvOY6IPKy7giJ6KNYltF2xFTo27lSaXYMVrk6xM+BwJCrLf8gglslTmpNR8lTf4d/mo9w3QE++BJ1m76GjpoD+CWauVSoErkA2llmPHNV41zQndYn01vv/2WOl4hXqdB1bjq4MJyQoWbZhmwmb1glbX3s5H0V6XyIIeIpkai89Yf4KksL+oJjjLDJEmHRTwWtCvV1GJeyAJGeCfvi1u059b62L5OEs0gYhHBA+V95lC/rGkH6QkXANbymO3HzyuUQFco6J9yZl6iAOQC5+cZZWkZ5OyA7phf+7Ufouhk4KncrICdFCRuemoYN32b7522skRSBSXYGYbjc67JfJ5RjjM/Y9/0U+ftRAwM5yKVE5MGqnYIWgvKu1/4OK2FgtfvDZPoK3LHl6XBMDqwyXQhwmGBkerx9g1t6Js2sGyibi2htlqrvToNziwEbu9AlFg2ua1Vlx+eFoQ==
+        type : 2
+       dropdown :
+        internal_properties : CAAAAAgAAABBy5iAYLPzVZ2X2toYDfzELDOgmUd9NOMpCvbzTVeiXCTEkWsSsQpIxZLEzP5Sno8njFwuLOH5+l0jGuxqRk7KhR5v8dFwn+Rz1qaKm1gk1ZFeHk/+ZBoVskp6q3pllD6NzdHrN65zTRW2HsCZOASFVmDnJ64OSfNsXr3ITv/jmWKDVjPWLHNXEjzSCAyRrwzAkycAoEH4X6bm3HMBVW5lc4GTOt7eqC65Lxau5vrnSJ5fpLHWmmjHGOaE78SOwZzqkPdig5MSLp/dV8ddrT/Lt5mhxewhzdrSFz/M4nhStaRF/Cirhnvb5UzcaUAW25K/DTJq2xyVBpD1F25RHrtEviAK6C9iMieZlCjBag4yTeM76Qf16MYm6mnM5tiKsh3WD6zakME77vZntyQB/2hj868PXNfgXBLndIo7wxArNl/dTUH5GaqTqFC0gcbm8+hiO+KUVScN4d8lzbl1TA3EoayX+HFpKyCnAo+Ae3iqdFepmSzW5LurFk3jw9ZcoIHcwcbdixtz7CGZUTF7z6jLPNzIr6Qh5dO+BCpJuNJ/2NiiVu/6CR5t0HyPwp6ZujB/IaG8JQXsqaSbsTABII7gQq3hOxGJmcksN3x7YfX207j512xz7+EnJyu+n8MoMWMr2QiqdLnvGTMcoExGJ5ZDuhwtLSvlMHYvAKE5GUqVZ4MFeS43yZ5DZ64tnpp/Im/E3aOWYrfN/QJdjiAN5iSf2Cvqesnu/nxCR2w8u0td1t02DEXfa1/sS3Vnf2bZa+iHSDuEquMctM06llYiOFmOIU7C
+        type : 7
+       type : 14
+       code_elements :
+        type_code : 23
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAABlbKQ3EU+YTWvEAS/4pGK1ygQWzJ9VtKmdDhyeGp1DARRhUSEA7y3zUl0y//HYDSwn263LiJnGO5h11QKTS9Osb9OzdzZNiz3LdKztZ4EwJ8VqH20nrTM2v3Ap913JQErzHwBKNB0dbPxGBJ8y0xFloE9VC/0AhdmcfccuCb/qaQ==
+           code : |1-
+            sFontList is string = ""				// List of fonts installed on the computer
+            sFont		 is string = ""
+            nSubscript		 is int = 1
+            
+            // Delete all the elements from the list box
+            ListDeleteAll(COMBO_Font)
+            
+            // Retrieve the list of fonts installed on the computer
+            sFontList = FontList()
+            
+            // Extract the first font
+            sFont = ExtractString(sFontList, 1, CR)
+            
+            WHILE sFont <> EOT
+            	// Add the font to the table	
+            	ListAdd(COMBO_Font, sFont)
+            	
+            	// Increment the subscript
+            	nSubscript++
+            	
+            	// Extract the next font
+            	sFont = ExtractString(sFontList, nSubscript, CR)
+            END
+            
+            // Position on the "Arial" font
+            ListSelectPlus(COMBO_Font, ListSeek(COMBO_Font, "Arial"))
+            
+            // Call by timer the procedure for formatting the text
+            ModifyFormatting()
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           code : |1-
+            
+           type : 15
+         -
+           code : |1-
+            
+           type : 16
+         -
+           code : |1-
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Modifies the font of the selected text
+            RTFSelection(gsInputControl, rtfFontName, COMBO_Font)
+            
+            // Give focus back to the edit control
+            ReturnToCapture(gsInputControl)
+           type : 33
+         -
+           code : |1-
+            
+           type : 17
+     -
+       name : BTN_Paste
+       identifier : 0x257fdd550a85e2e8
+       internal_properties : CAAAAAgAAAB1dVAAUiYtxXA9a/reszSWrXl0F7AxHoh50vSR0+R77HSkGv9lCm53DTKLjRlaSWdxTGkwKNGT8lenVdB0yX2j03exDWJEj+yd3badWHTIyFMX/l+KbzSGR3KYN+plCvRuZQsKvSIIMUBNg5zAMcLWMF4Ow9vuQDnm8+0gCRR2qdIrbeLJnRmFqZzaztTvgTM8nDWKyCYORaAV8hzFuD91qh7UIaTfJsNPf8v201WEEUFf0w7bzGzf8E/+N1981UNfznY699IkxGBw/BSbECyaf4vAAaZj/wRJyQQBRpR+lqqJ0IY0WqzWJmBTicyDmgOl+TVH7z1daUzquUuKUpDUCdAqkfZX+DgmF+xdiqfsU1t2wfhfUpSyfilV4I6PL9tLT5qU2lOeX/qjM1gyXGsiVhOupto7lN7NLGvNvsEEetOr670F5fc+eZiaEV13Pg/EKahzWBJTeUiT6DcvqMAPuExjFGbkJVE/IwJS8ZjH9XJyg8DiK87w4n3ZxifDT/4mkkR5qpIV91PbVUHNoxoJkW5TTbXle3Gbw3LqOJPw1JRSGOBrI9MUopQVnwcMWPgXXjnMVUI0VdBkMQdG7YLJP2l8THZWpZqV55OR0ruYhY0ZHHYmnkZsfdN8W+xVI+pUXt8Xojx+CJbeySOKyz3tVBz9sEKs1pQKBf2/wo77WCPwws4a5Wwlw3jFzgKm7HFpMK+8tJG3KkvhaHIEQatNtCLFmgc5ef4DNeGYLRHgfyODftqDZNQWZtBB1l9wfJh0vireBRyB5zn1aTxQZkPSXh7WeTpIIOEsZ1jzP2m60ce7hFLXzpWgv8U3EQodGH+1ZRbyB3VKoiEFe+WbWwXVLZDF+GHFkdOqL9q1VYgIExpAv4EPcHCns0jDjpVChCwo1r2+NEuJyisu8N/CDX338XKimtEpbg==
+       properties :
+        x : 53
+        y : 15
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            WM_PASTE  is int = 0x0302
+            
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Paste the text in memory
+            SendMessage(Handle(gsInputControl), WM_PASTE, 0, 0)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_Copy
+       identifier : 0x257fdd550a86e2e8
+       internal_properties : CAAAAAgAAACN3SgISjEaTFcEokMXkD/jmOSpLJFyt/jw2ywJdIDq6m1fOxzpWvmwsuweHEpwLw+lacbt6Cq0quQ4qk/bef4BJvKIGlj70DQPjr84e2iNa84ODCsDjJCywCPoh2kzvmPa08Crk4gDUje/RUqyaV2dMYaaO4GwW3ax8yKcQeMrHqN03tEQqHYUfHHjj9sXpyvq6k1kKu46WZwvNHAfLJG5HOBUoypTFsdb5dGyDfGCKZuRDxTd1BCT9Gmod63U9+OFDMLQDR5sQGSSiviFfPYSlRFQq2SHtyQl29bx3MwAUjD/iHgixjwm2s4lHYbPWAtv89G93fml5RR0z2u4yqZ4V/bSc0TbmFw2+eI5pHveIzXY7YYRupBmvtM/SOTXlbNBhdaC2Cd2G5IVOfBoBFEaQJ0qDCyruEp9SqEZ2K1e8mnxk5d7iW+CAS6YuUtn6BsqD9BlvoYTobQ50rRQaY9+MRdWI0XpXkbQtl2vPtEK+I9BwpsVxEOlV+S4V7TckmFDEetEfcta+KB6NEIe9Elwjo1yLAQ+IPJoAjF7pYSHS2UNs1+6qJxdy184jAA9T4+0VRDvOKN5drG3hJST2rXcmDSXJ4l/grf2ijZGX4hLIGbsv1X1819FatozrPmmVuXpVda6ZW3T3Ts1qAy3sCyUvYdA4w2ZX4W7WEB8i/tyDzi/IWEl5ln2EAcsdw+/MwDuP57Ht56YS1jwp3NdziJ8DYVQjRr6bpOUiAxFtgDfXEYCrZOMDy3VURVl14K6buh8E9R5w/sgQOKTjuKNXAXC8nfoyV7bVIElSY5grTP0EuV7Bi8/cEs0Q6zmDG1S6izMaPKcX6lAS56B411nLVXCrlWDuvnhlDedg0iXmTP7UGHM3DrUfctBvRsWtshf6Rg8Hg1gxv0lBJne+Dd6I8Xd11qakunRFg==
+       properties :
+        x : 27
+        y : 15
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            WM_COPY is int = 0x0301
+            
+            // Paste the selected text
+            SendMessage(Handle(gsInputControl), WM_COPY, 0, 0)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_Cut
+       identifier : 0x257fdd550a87e2e8
+       internal_properties : CAAAAAgAAAA9D03RF+RJSvyiMEx8qi/pWaVpk/UI9ZH4lSTQjotN3GkRg/WfwXdeNk/iHIdivYB/L1aZ153ayY/LsgGtpEKye8ZNOIKMqGAlupyOxIvN6p/53E5jyTJkJHHf/fGg6c5YkSCpVKBtbI4VQ12pu9+Z36+2DicDsM8B9OJ+cQ73Rz50RoTPSoyug3GU0pQSAQF/KoyBJO/aH1C65trS7LdbNM5b/hOzNOaYWg/I+G5iLiQCMvkfR3Y7+lysMzjZSmYCDJw1t+7mlHI2WupBByxtNm5079iPpw1XEE7aoLZvn8Noo2EUNP/0Dds8uhffxfnf0G4Sycsu9s+zOOFFt/6Qj3kV2C5fhgDOL6w36ARYpNw1IHt2VbVW3YsIfDR7t0i5Vs2XjYFPzccOboNV0VyuGpwqx+BtLHBySenH/vgHMykKE0elGW9i4lTe8K8n09xmLU9UvH/ZQppXz+mSejjAcXdDuaLWEKv+biAggsrvzmsV5fvKjTliFQgjGFDNd5ebn/a0Iiw4p4xknxuAJcCMlPtNzm8dtNGG9FK2s2tw8wNzQsNfQeIeJRM9s6AgGilQSfV1saDZlQ87NSfLXWw8PmKCQXq49tJOMhH3R+sgPECkHIP0BltkYPJUHwVnP7td598k0DhFTt9xwY8BmZ8U+3nvsWYCc4KzeIXzL2RhGaSzSktgIb2Ldtcp3qFqVBbCFbM1Bs260MBkVKLnAR/Ed/2jL1EFEPA6/kHEot9O0h7mspuxpBUwYyEm8jZePInds5ppozwOBZ5uJZRR0DUbT92uFobyl0ddIDzb4Kug9iQa8m+bSNoWVD47CR0FhOZYXEDLWWE/rABSTV/yqd0CRm+Br9WTAKHj5vzniLC2snW/a2oJjKG7/DiQ/YMFqwgzzefBN21ILRQzq+VhNIBkKCw=
+       properties :
+        x : 1
+        y : 15
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            WM_CUT  is int = 0x0300
+            
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Copy the selection in memory and delete it
+            SendMessage(Handle(gsInputControl), WM_CUT, 0, 0)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_StyleBold
+       identifier : 0x257fdd550a88e2e8
+       internal_properties : CAAAAAgAAACzVAB9YgE0Ce6PUrtcWrr7ZuITYJ/x/FZTADWyjk9y5Ng8guUwvSyR4UqD7kmBEqnCAZrOp8k853jLPs60Fl3+r2qr7DrCoRu4wlSn6A08ztB5W+SKQI+o5xlvV4Pp7D+xcnWlLDHDFeaMN2bVw5G6faqTFV9t3AcDRxrLK5Hb17ZekQKGnIoN1Rf0HMjDmvyZLk8eT8o8V7Ej1HEPOa/8EcXRDDBdSfNVxfzCI94O09FmDjzgqKlE3/BXGtpWDgao7jibP0cM9vZtdlIjJKkFccV1wCigiTrFaN6hNT1CFxTkoGJnVta04Szs+C8Cyvbsd0yXKqwPWBsXcVaiX7stK9mXBM7PkhHom0pNdyz2JEwuBqmvWCh3+4v85tdRjoHwJNaM7kNzYVr+f6aPGFxpsyeH9BuuMnxIIH+cKcYS8p3jIAq3Oy9DEm+dP5fNFjdN21aPQiYyYAd2+HJW38BV2itMVsn8mLzzY08hiQtUHa0m5f6bV75v7rilGvP7UrvNSZ7MYjk7kLlwGtnaW50MV8YLGKcMgN/c7D4CNCcosOU9T2ZMCyBSqVx4ZPqK1hmZEaolxtO6eFgmrPz10Ecx0qfvcsPXmAKeYcqaT/eNl0y6Bj9s9XBpzSHfOVzROdtEk7fNEZijQEtmyY/ZOEYrus/oYB7DYVVQR7mjyTtZfOwTDjzW9o1JTcsGus96A8uYeyJZkjbsnUkXsI4zulKTUQ6Tl29cYaofemAaW05mALUN3gehUPB/CX61D2AioO9xLDLAjFv4sgC20vo56BdNp1+52oHXWvg3SsJpVjJLh0rFz3tFdLT6qi/6ERbj1qfAFzAPTI8gmOii/GwMovJsX3w5AzYnYzZ4K9ekUJsX9YydoUkha29yEOfgVann9K28chTyygqDu2Tt4pKPGFz9YPxqJLys9SR9p5wHSH8=
+       properties :
+        x : 358
+        y : 16
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            // Indicate that the text is modified
+            {gsInputControl, indControl}..Modified = True
+            
+            // Check whether the text is already bold
+            IF RTFSelection(gsInputControl, rtfBold) = False THEN
+            	// NO => Write the text in bold
+            	RTFSelection(gsInputControl, rtfBold, True)	
+            ELSE
+            	// YES => Write the text in normal
+            	RTFSelection(gsInputControl, rtfBold, False)	
+            END
+            
+            // Give focus back to the edit control
+            ReturnToCapture(gsInputControl)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : EDT_Text
+       identifier : 0x257fdd550a89e2e8
+       internal_properties : CAAAAAgAAAA19Bj73Xw/nMggRJ8HL106vgY/fuzsV+fBAhwnPFPLe+NqDgPBu+SDfKpbmwLUk2jClXqPOaJb4obxUjho6TSijJHJ7lByNEK1PpCz3KdfWVHCx2yPqhQF0PMNEY64Y/yXNc/u7xct00tRryFnPDRrGpGnQkbxwoluA50xH7bv1mnZNNM9PIffvM9vgi7WEjyU2nGiNqVQnCpR0lbpPR2++kpA/ngiqgjpF2n9SF/UOHr8kHvsOpTbdHrFDVZOmivIr8SLspm54orOYGFLi6PhOxZvbzT+3Utzbh47VF5yOVuckPopkqk3G/3MbR1K6IrBg3tJcAPTZxt6N0CbmDT5LWBUfzX3cVXZxeDl4vbQdKNvjy3fZKIarC0rdkjlPEhOuwmbvUU2U3PXsQc8PjH/30M0haalcVIvX3+gm1KHt5rELBkumo6Rh0XB0ArhcxU2Kt2yJ5J3D2Uq/B7j/EmVSjWkO/T690/5XpygVifXJ7a6p8qOIcdJL62vrRhToR+BkxY1j6PwWb9ACBCkAmDkfhUeclGzeSTI+emWFZjnWDu6ExO5cBUBHVu0kaDHXiEo+WT/pyEO7lZEti0IHMDU0CpefvECIC1pbnIXB6GmH56NKg2r1gMKmYugaebOsGrDJR+mSQOis7Wp3h8VK8N0hcEP3o4qEpQiStapC0AjB8xbId4NIhz2IotGF9u8G6N5ToZw1QHlDE2FCWlJMtcxqOM3URwR1TEvkGOBvjFL7P1yZRu1rJxwMJtBf7r+ctYAcdLCNd25yB5xFqsd0ZXDoX7N+SoNB9+6x+yAQAWr9Ej5qgoiSpprmOvoOA61abgBgq6jFdRlj8l6mv9wje9GE0t1Y4e4R5BeKyJhFsdOOE4sf+wjUuU7f6N7pSgLEI71WdeMqYO/FZdxgzc2O34l4lt44whqt1xpGZgh/iA1Yn3Ut9SbKybEqDsGHetAoyBUzYp40e3/Ix1JSO3PxJ1Wtzqiq6ZowBC5ijEAfNoIJmhKqhSPv+hGsWEAJpTmRaefuijXUoL+rtSGThuoFsRGE+bKRwl8FP1xyPE38JQpKPiRopUqGTtLYgBIA/0vLhZBK4xtiBIiK3nVIGBMKTOCRpiAp/roiqisvaFad3vv5bm7p8NY2GctAKIKzWEzmUXV9oOijqCpBivY+BkMa0v4gDVzqFLpsa6by/ciZZKSZ9gMNCgtDOv+5e4FvdS+sPAHLnwACja9/6hdVZG7rQConztfOla4zTt3oFpmu98oemVl0E8qNpj0t+JybDke0b/Hx/v2WL0wmKpkzlw9NtNbillnEqWEDfaksQK7QbI3oSD+NVvGXOWjT7uPX1hggQ9hWTnxmpsJkHL24R2A/So6Lw==
+       properties :
+        y : 42
+        width : 574
+        height : 86
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           internal_properties : CAAAAAgAAABpQeam1t0mVPZXhIZTlviUcxdsk+FHxm7bCbXZcPoWVOjVsMwBsOOxIH8WWNNClicId9xto7P5swFMB7w4s99fXoMUKosnL5uYsNvrhG7OrVC8TvomaauYprCcgf5izii2GZNDDxPZ1ne3o9+WRo1JC2LvpY0+JCSezAdBD6Te
+           code : |1-
+            IF TextHeight(EDT_Text, RTFToText(EDT_Text)) > EDT_Text..Height THEN
+            	// Display the vertical scrollbar
+            	ScrollBarShow(EDT_Text, sbVert)
+            ELSE
+            	// Remove the scrollbar
+            	ScrollBarShow(EDT_Text, sbVert, False)
+            END
+           type : 15
+         -
+           code : |1-
+            
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           internal_properties : CAAAAAgAAABpQeam1t0mVPZXhIZTlviUcxdsk+FHxm7bCbXZcPoWVOjVsMwBsOOxIH8WWNNClicId9xto7P5swFMB7w4s99fXoMUKosnL5uYsNvrhG7OrVC8TvomaauYprCcgf5izii2GZNDDxPZ1ne3o9+WRo1JC2LvpY0+JCSezAdBD6Te
+           code : |1+
+            IF TextHeight(EDT_Text, RTFToText(EDT_Text)) > EDT_Text..Height THEN
+            	// Display the vertical scrollbar
+            	ScrollBarShow(EDT_Text, sbVert)
+            ELSE
+            	// Remove the scrollbar
+            	ScrollBarShow(EDT_Text, sbVert, False)
+            END
+            // find smileys
+            FindSmiley()
+           type : 17
+         -
+           code : |1-
+            
+           type : 65793
+     -
+       name : BTN_SMILEY
+       identifier : 0x257fdd550a8ae2e8
+       internal_properties : CAAAAAgAAAArx+grfZTP1UJIZkhx6HdTRplQnr27mSHY/5Eay8SoVd7O7ZhRC3P+q5DgrpoKTrUz2kH6YXyQWBLpf8APQORcGLCj54y5Pu8rf+xYGem8rqNurjlLycyPSAtTm0KbVoAnM6aIa9g/lBQtEtRb8F/w+VzcLIaKylo7896NrC4fekzCVqOoR7kFN8MfmFRdZi/529X5J5hgTyrVRyH0ZdeVYp9Z+O3mcLPd+EkW2WbJZfC8jAh7j83Vb5CdgQS/Cdg3Guod3lgtQkhAvB7ZTa2TqHBE7vpbH02jdtqGOvCv3nTXJRwHmOoKGD+BapbpyYnp0AQ4juU6oS+PRqmG9loDSskwwQCE7xZhnmASgK5YSLQymxU0MsRCWzBKpWnUJDz2m80Z3ja97R9oVWEhXOgVsAHlClRPnbhjY1P6dRCLkH8wstuf7WT+lwnnQwtqZU9tvdIDS4PyrOhaiq9J5kU59tIC9TTL8yCt4Rfbl+E3BuMrZsOAVld8L5Kk5TuGwwUyd3jcCLIwXvnemPzR44qMEJcgiuWHCQKVLd7ToEqiqU1qlfQacYCD/z9eL2VceNtQ9EnKKGmLUVZWpHX9a7QgO02BAotiSDArQ4ndMdK+T/93juKpc7ayyJdOujsN/sbqLBAQEDT0h0nFsZfO1cnoPLs3+TwUD2dvc6UudQgKbJVnzBA19+CBAPITbTFj7K7EEN4TL1eB+/RXOvmUzuD6zv6aqiQkmGjLU607N75n4bMJOgnEwAOMH2GH3KKepkojK+7W/hU6Du8qA73uuDTckr5oouu9GDY9whtmA4ew8F96LEHwTfwk0FiutlJkWo85aJ/xic0vHZ3UF5Ld00sT3SEvdR/xEUvG9Kg6L+85F4vgeHdbEF8vtGQ1krUFhda+bJJGM5tBJfvgKcNnxuyhJI7KPUo5tRuJbvfRg6Q2NWWZpPlOZlAADpQ0BwxTOeQmMg==
+       properties :
+        x : 443
+        y : 16
+        width : 24
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1+
+            sSmiley is string
+            sSmiley = OpenPopupPosition(WIN_Smiley,poAccordingToControl+poTop+poRight,MySelf)
+            
+            IF sSmiley <> "" THEN
+            	// search for the selected smiley
+            	HReadSeekFirst(Smiley,SmileyID,sSmiley)
+            	// Include the image in the image control
+            	img_smiley..Value =Smiley.SmileyImage
+            	// copy to the clipboard
+            	ToClipboard(img_smiley)
+            	// Paste it into the control
+            	ExecuteProcess(SC_RTFControl1.BTN_Paste,trtClick)
+            	// place the cursor at the end
+            	SC_RTFControl1.EDT_Text..Cursor = Length(RTFToText(SC_RTFControl1.EDT_Text)) +1
+            END
+           type : 18
+         -
+           type : 161
+           enabled : false
+    type : 40
+    code_elements :
+     type_code : 34
+     p_codes :
+      -
+        code : |1-
+         GLOBAL
+         	gsInputControl		is string = ""			// Edit control onto which the formatting will be applied
+         	grPreviousCursor	is int = 0
+         
+         // Retrieve the name of the edit control
+         gsInputControl = EDT_Text..Name
+         
+         // Store the previous position of the cursor
+         grPreviousCursor = {gsInputControl, indControl}..Cursor
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         
+        type : 17
+     procedures :
+      -
+        name : ModifyFormatting
+        internal_properties : CAAAAAgAAAC4rglXuCyAiSi23Ib+QG6Jg4MuaryXygl+4+G17GtpWhyrOQY9sAvl4LRwjC8TQcEq5GV08FLprWZkI+xTLHMDRVlJmud63OyAmXdkaq7gVCElH+giLPJ8Sd28EcPtfFfVAwiLiU69LMF9/46UJByH9OvUO85+a6P+Gjk4Wk3KPXMCpwblJ4tdGzqUP3duOk0KFLiSF6KTjRgOydWZlGidrA==
+        procedure_id : 1549200154023355112
+        type_code : 14
+        code : |1+
+         PROCEDURE ModifyFormatting()
+         // Procedure used to modify the formatting of the text (size, font, color, and so on)
+         
+         nColor is int = 0
+         
+         IF grPreviousCursor <> {gsInputControl, indControl}..Cursor THEN
+         	// The cursor was moved: refresh the layout information
+         	// Position the font combo box on the text font
+         	ListSelectPlus(COMBO_Font, ListSeek(COMBO_Font, RTFSelection({gsInputControl, indControl}, rtfFontName)))
+         
+         	// Position the combo box for font size on the size of the text
+         	COMBO_FontSize = RTFSelection({gsInputControl, indControl}, rtfFontSize)
+         
+         	// Store the previous position again
+         	grPreviousCursor = {gsInputControl, indControl}..Cursor
+         END
+         
+         
+        type : 458752
+     procedure_templates : []
+     property_templates : []
+  -
+    name : BTN_SENDFILE
+    identifier : 0x257fdd550a8be2e8
+    internal_properties : CAAAAAgAAAB6AJSQgnTMfdQSLb5czTn1elx2Brj03txEEFtU3k1E8PCQVREJjjQKktgvP0/l0FZTZiiwSTh2m3zmxXpfaqXK/FdyFk4UcmrELsCjkL3I3mWRpdt7ne/LsjCUfyCQq0aH4C/hd3wd5FSsk5fKQX+SpTAaOgekBllem7bZ0CHRh5dR+OEzT5qRMeOtN+t/tputL/5oC+YvbKrxjbYmOiI0drqja8dhDfMS1P9RFPcnVeBEH7FbRLp5Vy6Ez1QXLIZIBz5I8m0pmtmvFMo9T7ckz2dKxqbgcwP0K7OqwP9Va1NLOwQYwZoVxZ2QJBY+/lqz20ej5xX9CBEZdK98Y6DUaW1MXbQUT7tc8zph/cfUvuJ5Vv3rUMtM0ty7DdcFMknTCzRmue4OZPuhn4P4DaxRnUeetrxkXkedKlPxSQ5zcSfLToJnpPF8QroF8w/U8gkcSCnltXQFYXLuq6MxKVieo266p9bNCMhFtNTx0e052GPZ2bI8+G1YW+KwE36z5wOkzvC0ExJtWYvFtE3pb8UgO2LIS5KslJYxwI8YYg81q8GI3FgyPEIZT9qnd76hpebD4y2frQjwip0c/5IaA2rajYQE0YIxDkD9B/pexJIe+8qDP76UAhSivT5AezFunewhM2RNZUOmYa3YdAUrFQkz6GXZYl18qtq+RTGu62+bbhOHDNjXAwpQOJb/yyu0IbjZ2bxqQZJHH0/OxppAjHDAZ0rnwDncy67lvE9DUDOT0wKSDJKNrsoCsSaa29YoIOyFH2eXYhtLa4IQV+s7GD/lDUnhiIROdmXNYG6ix4a230F+2jGyvtKn82yL1IBaFNXP3Y3jVR/SA3MQgS8Eb66s49xCE4D3YN+Bts1bvs37DRT0y9In9R+X5kXOROuWTm1kZXGzUV9+FvSc6v0j3ysFE62V13JExHTI6OhNr84X5PKN9EAMTlEHqEmnL1pa5h7B49WSoT6KBfzfOBcb/Ex3JeuUe30W
+    properties :
+     x : 431
+     y : 9
+     width : 159
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACZW0zHL0xtRhEaV1jEz85fmatunFY3xzPh2FOemLVp8Wv+YICNKr3RUhkPRlRqIxypnFhEZsqVSVHA69yRr1v3nlZXugrn91l7VYVz/wk9RYSeh05j+imoKyu4ExD4uGOi/mIoR80o/PLEZT4=
+        code : |1+
+         
+         sMessage is string
+         nResultSize is int
+         
+         gsFilePath = fSelect("","","Select the file to send","All" + TAB + "*.*","",fselOpen)
+         // Cancel if the file name is empty
+         IF gsFilePath ~="" THEN RETURN
+         // Lock for the size to avoid overloading the network
+         nResultSize = fSize(gsFilePath)
+         
+         IF nResultSize = -1 THEN
+         	Error("Unable to find file size","Cancel send")
+         	RETURN
+         END
+         IF SocketExist(csFileSocketName)=True THEN
+         	SocketClose(csFileSocketName)
+         END
+         sMessage = csFILE + " " + fExtractPath(gsFilePath,fFileName+fExtension)
+         gsFileName = fExtractPath(gsFilePath,fFileName+fExtension)
+         MySelf..State = Grayed
+         gbCurrentFileSent = True
+         WriteMessage(sMessage)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : img_smiley
+    identifier : 0x257fdd550a8ce2e8
+    internal_properties : CAAAAAgAAADMtQRoOcn5DNppRW0bi2Aui1QnxlKtmhpIoUo4bCKjog85P2dPrjzXBI/5Ju8WVAxvgU4SVH5C+0vddi0jPkus8QncD6aBhL/q2N2NGr11Ok+ayW3+w1d9KcgTI1ebW5P/NZUr17d1DKViZJu12XAd+ykqlTtULp4c4N6bnPa/KLz4dPu2cGgdnOA4rYM4Nj2FdfuvXwhJmzOt+pTvGhOukGufI7+513tjT6c5a9ld22ZxygcLm/N0a7S9AutYXc3q+vR9NSDER9Pl0AbAp50dtSKOcn4ZuM3CzWRx9V/qOzlSLq1lR6m2zx9qKS0J1jN78AXucPQkx2F0D8LYje4niWdaj499Jua93hg+aAHwhB+K0TcGw7E5k5XcTVV+wF91iEWiNYlTpdfZ1T1pNfiTr5AR8YIPgv6Yr2lqMFaLaua1iqCneaWvbGl9DeiIClqgqZeZsi2Gfi9YOuaZCXU5Lt5COXqwKtp/LqilhiMCTSPIVSv60zJNDk3DNNFs3lHtYBocrF1VfbOaUUu4ueAr/rFG+rca4ofe0If5yNBCwTs5tJt8VY1Jeow6jJuB4QNRlEHDr4Iv8DlIINWkjAChH0tOqierOBkBydZ1Wp91gNgXwTOC+75es0QbOKP3o0vX+KwQTDn+uSKBHjEhmXHDavOa0losgf5oHzbycWqqAqmSxnRxld4WdpH60QSLOvc9NLjtaUJttTJtVOrsIg0A24Aq+IjgAeXI087zP5nKL102S1gnyvGeynS74CZ2ZpMJTAmBRl0woxptgPVGMgsIX1/+elxbmMJPXylibWnWsX11O+CSB4/KnRHlL9FbMCzhfExEmq35Tyc0CB5mPlRZOt9XFdiNrZMs+FXaVcE7
+    properties :
+     x : 647
+     y : -21
+     width : 19
+     height : 19
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : RTFINPUT
+    identifier : 0x257fdd550a8de2e8
+    internal_properties : CAAAAAgAAADgCbRxpk6qmseXK+zM6zfe5OS6vaso2bXwI8wgyvBobuDTpSS7uFNhbb4EOkhQcdMJYEZszHdeIkZ+ovpw0lwFoDbB8F/Dy7FdbCNjkEKYaU4QAS07JP10kbYSU0K3imjqEqNCLPoMBlo6LpL1iEuqELwoz9WPT5NQT3eOJunNVyGXzwLZepB8JFNNHGvAmHU0dcWPhkzDL8F1Tr1IfuYczwjLCanyX37TtnLB+D5jpGXpYkWjzW1pq1TP/bL0k34QtrgzIHGy9hq/5ScH5p1nDfQlqzASXcE6qPHfE7aHR8IvvzeZTWxSA/pV6KK8g1RbcoJyXlJElepGaIenVwkS666CK4AC46c+VbyeDetSKYzTSUsi6cyd4/pi59IGNzR0ucHuqPnvoJ29FZd9JqoaOaB7U1XEwoHd4iITZJEEO+B4QzpQTQuApHSsfeTk82RaGnQkiI4c2ekxGJlaRUHLpClhfKL1hyS5o6JqfQV+h1f5IjcOY6WDbm6PO5s7giF8hQsablL7keWh5+FVWSzXyso+g+zKsheW/uEwGm6R4DAjuLHUtelRo6Pz+uTKogCKbkdU/7iGbLSFJx7d/tPo56Yrp//BxX1eHX+EGs8dz+DCW1npecKF4zXmI6g5MmIFyD4PKsx83NYWtRMwlrxBB6YHmYcIIuu6iSCBbkV0Hh2zGcfJVHA1kiqgxyblU9WoMAu8wR4x4q+yQoHm+Q1tlLMEzRqCN0y3mlN+eI9GYxC2indT03co5GQe70+IgTmFZ155zgU63nq4Ed0EIoDGdTqEtdgaD7ZwNn8IE4wdpNbgHlXssUSp/qwdSEHY9eLoAB8tGl7cc/ecbGqItRPcuwS58T1lT/3yBFcFP0T81NoreZEGYOap9Yj14DC3/wF2s6JeBYy8o3mi2E9LvMKzEa3FD17N+YOiWaQELCBWS/SEbFidmlj9BWiPXX6P0xz8KGsa7Uj3tYkLwIimMdwVGwdWg11Em9DvQhfW4oT76QPwQdDJlNEMbhXZZV4S6Ox2f+JWsr/hEid7+9m4QnWbTXogJ8r3zthf9UiBM1wrZ4kgZlucHgdvCGmNUJfeD2wJ6SBkVn7veZlRHWlMlmxZ7EHDPwmgMuGiSaSNyjmTHLnOhTciv/dHP8d+atMVLyOWnFqGT64NZl/FZKekLwuGG2HkVvF/uEjVAcH5KT/4ThqUNFGY7iplRETH7ndDmT0kE9Tzx7Z3hjisJl2nd1lfT4lH8yZ1bbTexYEW98ORZ3zdU5PIp9L4r/SZvPgVCzbBKI2Jk2Drzh6xa8uFLmX+aBNI+NOzEdaZ/+r4wM3Q4IfKOhqBjxWNtDUxVS+bPWKaezkOow94Cm9UTauyP49frkzIAn+wzxpvRundhZQAfk1jXz4fhA==
+    properties :
+     x : 640
+     y : 6
+     width : 276
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Send
+    identifier : 0x257fdd550a8ee2e8
+    internal_properties : CAAAAAgAAAC/tJQRTcNSbKcj0lrbCvExwqmVizJF2s2314YDtw5chx9XU4pknDItiL6fysNTzcdygF+A9pqxUGrwUhdKxRYCnqJ8bA4yaqTviPMslNqVkwYR0lzB4d+qZfNpfW9psXzgBtX9JWsBq2MjWmVdE6RvTKGKJ9mfQr/CH+2tBNVa01xN/PruMTe1wk4J7QkmSoacp9NZdGwRLHkB7qXfEKZyzopkow6oosJp8SRg209F6+KP/ZCJ7zbdLAdTSevbmih4BTjGtBn4z4xTH7WI8/AZkq9CUtaoSYcNTfhLjF5Nxp6glCfvQdvR6kyWHP9R5LkVPLK+Q9HP2nmUcPRDpVdUavr09N347HT+5r3EgkvVIRnt77kUagzyNIrRcJPkAEmcAZruCRd75Od/oEEuxUwm0lahC1dBuB+LGI0F1lPtwyoJpbJ5xJyBv4NbWoAQ/rsGG0p57apsBevjv687A73oioqRw8ursPSiUM4Wtj5z0HnNNQZPuUbt7PYPBpw8WWA2EHy0Kd9kPhM2EfNKD1i4jmat3GSsfC9hx2EBbqWrzZULLOqyaOFLXwMgGGWXsmIi6UeDvPj80LCH/2HN9+KftRk1vFT9ywuBDmGYs6VghkvHjacsLKAAvFQkpwtSFSMn1y+Rl9W8EnNin1HGWJtp9Z1QaJSUe6lSwATNar/NLpsAPAa6Y8GTKkU5AKhgrrRD+S3mrkwWfiXnchp2PdNOhrQtECde+yrtBjZd1SvaZqQpP5dyYCxdEbht2wzEfKHUsmRqI2u7EX0FX08bMBKVnz6sZuPmbM/E8hjp9cjvLX9YRJMbO0ObxkY/W1ERf/JeSNgx9Yk/19xEnPTjSG10sHDf290znyAJ3BqAiL8DVUFPgV0r+DXfa4BjUVgNbbqWH+hO2k9W35dhuYotkaFtK6aqaSXdw/Vup6WH0TDcD0PjXi/0GA77IW2vTA1eUi2Spg==
+    properties :
+     x : 422
+     y : 369
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAAC/+a7lkXMl0uswW/4g66ipJ3HUIEgxU19bFrcshMHX/0Uw5nQjrAFxnM/fYHxKTe47TlLM4HhE5qR7aj/W6pjyq6MmVXN+kuLKzKQ+TFxiaHnbKg1wtVBhll5nfuWDMaJT51EjgKx6HtDiA1g=
+        code : |1-
+         IF RTFToText(SC_RTFControl1.EDT_Text) ~= "" THEN
+         	RETURN
+         END
+         
+         // Send the message
+         WriteMessage(SC_RTFControl1.EDT_Text)
+         // Clear the edit control
+         SC_RTFControl1.EDT_Text = ""
+         CriticalSectionStart("AA")
+         // Position on the last row of the table (corresponding to the last message)
+         TablePosition(Message_Table,TableCount(Message_Table))
+         CriticalSectionEnd("AA")
+         // Reposition in the edit control
+         ReturnToCapture(SC_RTFControl1.EDT_Text)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Exit
+    identifier : 0x257fdd550a8fe2e8
+    internal_properties : CAAAAAgAAAAZIukKn0kFt+GdxtjR4AAE7CFQBHIy8yt53egfDWpNeGdyXYv1RWQifce7uwrNEnC1MKTjD8TKYR8LGUwqmsGEq8ZciJvf6GYnnS8eQ78pReI2CbpViEhpdO3dC0f1aCdhsa4qZYcZll51HPVPzwP8VAM5UexKMfZLZ6Ere7Yg2D52hcZCobhZ/G2+5LsQj3yM2KFcx1JEZCduvuHr9l5Wl/QNxp2tk4geRUcKghY6WyfXSeyDkayoVjqD3qgdcWtRjEo5t+jwSKnyL6VNUIoKNHXplNL/EKT5hGmSTusyKlwe0eYE+VcLYU20hHhCZ7eLYZ8baxsaF/huS+5x+wTNLXXqdn3/e72rxURSiGi3wzoOnvwWiCzGDg8DzkkEisWZtn8g53JHtLm4YdsHe8ROTGtuysjNf9wUObhmy9ToIZc6Xaro/wZkQleVIzadlXRinvyomeETA0MrBeMclhxJJ50IE97Osg/V8bPXbEVdjZo/E/1oZbhwwwJoqJPzO4CCL1mcSbroMzMKpf8DDspF/RRd83yPHRH4RkEpwsnnNYaU1GCPgvR0/kXWbjZ6ToLyraWj8NAEn0HNASLJueW6oKP4fGgvXg+QyYxwy+mhsBt2kK9XY4/8Y/8rftmya4zkM2ZcNrpgCAguSu9SBB7FiquIVPjYZVsbn1/5FZGd9m8MPUdvB5h2l+N1qSsA27ZHHYv5qDocS06GIvbRv9JYeg1oqZXlCWs7ryPlzz3p/KCcdfU7XXg52aTAu6IjN2DWoAyCCpmYznwIagswSsu2WZpHe3zRF5EUa1nnIk1xHsfwhei5TIpNmHi9zFRxJXWqQISKGcukRpomXLT8W9fAKLxdkUvPuFUq11UtuAPpmrNBgV1bz/bNFdw5UwID0cm9CEUH0pTGtzH9PjLFbUxzndJO9V775DL4439moHTmpa+gsuH5nMDaiGRTwRE+7GtkiS6izjIfLO5EKpFuKir5EepVOzEgw5bEK7Rzv7ZRmT4UlEGS9hAR
+    properties :
+     x : 512
+     y : 369
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAABpS3y353xlBpEaVxiEDw5fGWvu3BZ3BzOhmJOeGLXpMSv+oACNKj0RUpmPhhQq45yp3FgEJgp1qXHgy/yxj3vXvra32qrHVzkbdeUTH2ldpaT+Z24D2okIy8uYMzDYWENC3kLI5yWQLCK0VQ4=
+        code : |1+
+         // Ask to stop the communication
+         // Ask for confirmation
+         IF YesNo(No,"Do you want to end the connection?")= Yes THEN
+         	// Stop the listening thread	
+         	Closing(True)
+         	
+         	// Close the window
+         	PostMessage(Handle(WIN_Dialog),"EndComm",Correspondents.ParticipantsID,Correspondents.ParticipantsID)
+         ELSE
+         	// Resume the message input
+         	ReturnToCapture(SC_RTFControl1.EDT_Text)
+         END
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Progbar_File
+    identifier : 0x257fdd550a90e2e8
+    internal_properties : CAAAAAgAAAAXf7nmwZchZsvh1n3od/OcLdtoei2J/wbvJoCRGvyG2520omYqLJ3DsnweLM7OwCs+PAxiJTKSZdJIJJn1NjMkJPapOeBXfnuRdfbv8D/tVqBbGAcnGwohTzMBI3TwTp/85yd7BcoAaFzMZ04bwOkd+gQbBJEVr6vWTYjcJ00tWztzuPbsbp4dv95VLNxyCtCtItH+HaRELMiQ67iK6zFaI3VapNu2b+FQ2y71xP/4CqB3aP4GpESoe+e3bDRSQ1sOKWxJcslARG2m8FuR2/MR1LnOnX9SXGnmHAiWmAebQ6dTMRk6HXMwCHrBTgxiLgOleoB7RmIPIKosON1ITldbNvZlAx1djmWZP1pCvtSy/W/chcHKrU3cVd+EuvQMZQNxAxJswEWf0gWj1PqDFuvd8KvgevCa2cUTBbZKVxwWI0jSlUHzQONFoSbn/sBq9IJcFO/5PwQAGZNiHMZ+GFvZ7LKvTd5x9zowf1ljPoOacIMVvBXwtcMz1iKEMRAiLfxLQNWKLSj6bqY+GmG1ZzbkqqAQbhp7dIlr3sD1Ne2r/G0FQPBAXAkWliyMBOSHLQCX3NHXbH/hYKXZLFxVkW+/CXggUDvVplQwiNBPzRZicJVAyo+17j7AXCevZGxCJZM78aoO9VsstAju+UltSkTN8OqdrMpVUbRB7bdVUPLt7pUnue+j38jLBG7q2G8wZWjT4hxjcQfVVHEN+/x8weJQVKOr6Ay3XNcA3+LIzoQWxlPKdTqs1riOr4qc18OwQqLEb985JBDJM61R9gZyVBd0EXApGfiOvRLevgtxHOydNXYti0fGNz2FJUXrbTorIa4jdsdmdx2INQEe8OBkAw==
+    properties :
+     x : 17
+     y : 370
+     width : 234
+     height : 22
+    type : 10
+    code_elements :
+     type_code : 17
+     p_codes : []
+  -
+    name : STC_FILE
+    identifier : 0x257fdd550a91e2e8
+    internal_properties : CAAAAAgAAAD7QoS87myRvcxlXDFs/wsCTXULpl3XYQKcvwYHFUDHz0UCS8xIDtEW5CAGrNS56cxzDTzZCZA/3igTRFdDcWDjOUgxwRCIAo250zNHkd/dd0fw7RLebET/Ke3irI0Ae6vlMULORrD+mJPxJoqP6lDOcinlosQEbXSJtYa+Jb9xLnQw5usXfWelAMsewOBqhuMaUgDf6FntLPYZJicQwjQfciOOfjdfQuwjf7uLmI3SzkjGOvnRqRWRFWiXteHdZ4Tcssc4ufNy5Eb/WR9kINeK50yO/oltp+JSQ+Z5bspjTs0pZ+LWKp1HI1udM8ynnEIKbuQucB0fwmHgtYbkezT39NjYPDGZWqZLy8KqwGjjzwqaM9CtSn3k6fv0POPpGMwUDza8sdH8pt7L4FKQrOm+J4/X2vddK0d+WR0yoTG4TzQPhh1af5qcVwwMWy1B7P+/rCSgq7JKrG5e+TYpNWmHBnx8o4erUCXh1AwAf9Eg0LSvMrMgVvTzKznbcf8PUHGOORmAvdgdJQHMSN80/fR3
+    properties :
+     x : 18
+     y : 356
+     width : 234
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : BTN_Cancel
+    identifier : 0x257fdd550a92e2e8
+    internal_properties : CAAAAAgAAABmP0b6tsb//0zNZqj7r16RImCxu4GkZkwCHDVIIhYx3fXUh4sh1LaVF8sN+sk4CwM0p73oNt2rAkaz69F+4vl+pIV2F5qN+laufIo1+gNmtVVt00Hvqrhe7U676qet9gwCPhU7rEoGQSJqjslV8QE4QoLQ/uWbAhWHZ1u3FcvUCOv+oid8zRqxzfhBkshblIkRT7f7NrLoLpGK13zAv8EvzdK6E58lO834NzHJD8Zy21WeBpCaOOAdiMP1eY+K7WER2hILx+JF8RqKcaL7liKXrwQpSsAQKZouEj5AlTtinKGGfavvatjMvsss2LNoMO9dUgnU2cv4Gv1ugF+uqKWbwF86ij46x0kWKp+pFCmi+6rXwseYgfJ+nlCjc1OvGbDujIwP5VWnwc/DlO/i/MFycsubvTQnbw11ZCyI6cgDNV4Dgt72y/UytYslt4h6Tv+6tV2Wnm3IU+kAp2DgmJIi/iN6zQFEqXzC3V8FAh88VfxpJMe+sWF0Z+qJOuwv2KM/Ro47r/vfdJndXXUbEa+s+cZxV3HBWBQyJWoa9/cznX4rh89YBgnbLaBc/Kpdg7+KDsRozyFyLACTE5a88sFZFPvGlkeFFAIeEl78zOvOZZYRTz962XGdbWZNZhT+MwCUrYWoMo8JSQxWoR2oa2n79YiCcHWAVT1of/2IhLCDlSlfam7xBkbFiUcmyShz+BH22xcV4/IDJrYuCqp2wevXsBv4eNOgJfhEhF8LbsIp47WtEQz3LkokHSzRMY22pvReOr3/TLjAbINRmJLAZ06efuSeK7fCzqRoMZcPOqLfX9G0KQEoawT2f7sXJXP44NjT7graZs/ovBZyl0/7OK5SN/87/LyRWm4VOcCBDbMD5U01+gKfyew9TRC5NzNmGb6lTX9dIGT3ddnTvOEJJum8mWc/LtdWfm5rwTZX15nUs0r4k8CZAg==
+    properties :
+     x : 252
+     y : 370
+     width : 24
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABmYRKMS4L1qCMOM7ZSRwRvC1iJNYw1TFYBO39DPRe2V29ovLl95WcP7trLccWid2QH+Icn2wm5sJOszvnTrDe/VD8Gs4Z6N8zJpb5sSZzNAfoRsImxuQnXizlLenBLEhWudSebq+WMldY/1w==
+        code : |1+
+         // Ask the user to confirm the cancelation
+         IF gbCurrentFileReceived= True THEN
+         	IF YesNo("Do you want to cancel the reception of the file?") = Yes THEN
+         		gbStopFile = True
+         		gbFileStopRequested = True	 
+         	END
+         ELSE
+         	IF YesNo("Do you want to cancel the sending of the file?") = Yes THEN
+         		gbStopFile = True
+         		gbFileStopRequested = True	 
+         	END
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2680c8790e8ba37a
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAC6IlKDVDXpJqLJF2WDwiBb0+3LucSnCjD0C4NJMetJc557q/x+y6PkWt006RIM1YmuWyoQnF6kf8SltS+Eqmy8Feo7M1pLFRFi3aglkDd6PM6e6dkuSXhRSTbouCiN
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABc/p/LNSTW3IuTkaRG12uRKuQ1dkU+DL+ZW+6lksQ8GsyyjMZwYDRFV9eojXGy1jYP4iEeMZgqHxcazQocIwn+mOE66bzx1PKrp/zzmlLckXHdQSGuumOTLHo96LfizQNCV/IbINGP1DUXwIsu5cNn/dyN+5074Lk3EUCL1icgsSENxATOnQhLM31t7caXocdHID0z31KaxzhJ9PFOpe2OYqJJz3npjZGUSoOIX2WQJxM+aFqSiIUA2/Ebgyc=
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAAL168wqwJbRm8/jcsdQRrY0+PvbuF3oNOQ8BmunTSlRfzM5D7kaEBv2hCMNartYRllyQH89RkcOqg7u5g86HUov/aBHqQeIM0/seSKCLiDdKFERxR1wbyWl+PdAWbGchrdju5oITF0j9GqZbbX+kgVYDKt6uWSDdY8y7AD4376MrzuEcUPbT9G37KTjtOxnT28+QXw
+     code : |1-
+      // Automatic process of errors:   run the block of code CASE ERROR
+      //
+      
+      PROCEDURE WIN_Dialog(gnIDCorrespondents,LOCAL gsSocketName,gsIP)
+      
+      gsThreadName is string = "Thread" + gsSocketName		// Name of the thread
+      gbCurrentFileSent is boolean = False			// Variable used to find out whether a file is currently sent
+      gsFilePath is string							// Path of the file to save
+      gbCurrentFileReceived is boolean = False			// Variable used to find out whether a file is currently received
+      gbAcceptFile is boolean = False					// user choice
+      
+      gsFileName is string								
+      gbStopFile is boolean							// Boolean used to indicate to the thread for sending the file that the remote user has canceled
+      gbFileStopRequested is boolean = False
+      
+      
+      
+      
+      // Implement an event to manage the closing of the "chat" window
+      Event(EndCommunication,"*.*","EndComm") 
+      Event(ErrorManagement,"*.*","ERROR")
+      
+      
+      // Search for the form of the correspondent
+      HReadSeekFirst(Correspondents,ParticipantsID,gnIDCorrespondents)
+      IF HFound(Correspondents) = True THEN
+      	// The correspondent was found, indicate his name
+      	// Note: the name is indicated from the list of correspondents
+      	
+      	Static_Connection = StringBuild("Connection established with: %1 %2 ",Correspondents.LastName , Correspondents.FirstName)
+      	WIN_Main.gfsName = Correspondents.LastName +" "+  Correspondents.FirstName
+      ELSE
+      	// The correspondent is unknown	
+      	Static_Connection = StringBuild("Connection established with: %1",WIN_Main.gfsName)
+      END
+      
+      CASE Error:
+      	// Error while implementing the event used to manage the discussion window or 
+      	// When implementing the management of the error messages
+      	Error("Cannot implement error management and window closing events","The application will be ended.")
+      	// The application cannot operate without this event
+      	Close()
+   -
+     internal_properties : CAAAAAgAAAAS3fZWd1YdCDfWS26uA0wb70CVKRhhlJbNcz/rgXOOywPIUE3hgUdHwoITMXF+/7jzgGuz10P/9v1KeBOFHk3BWkUYRfCkjSJrCxiOW54LI7BPckv7a/c9Jbc1tKoNyL/ME6FVrcdSaQLrAw==
+     code : |1+
+      // Start the thread for listening to the new messages
+      ThreadExecute(gsThreadName,threadNormal,ReadMessage,gsSocketName)
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : WaitForFileConnection
+     procedure_id : 1549200154022437608
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //WaitForFileConnection ()
+      //
+      // This function waits for the connection of the person who sends the file
+      
+      PROCEDURE WaitForFileConnection()
+      
+      sChannelName is string		// Name of the socket accepted
+      sFileName is string		// Name of the selected file	
+      nFileHandle is int		// Handle of the file
+      
+      WHILE SocketWaitForConnection(csFileSocketName)
+      	// Accept the connection
+      	sChannelName = SocketAccept(csFileSocketName)
+      	
+      	// Check the connection
+      	IF sChannelName~="" THEN
+      		// Connection error
+      		Error("Unable to accept the connection",ErrorInfo())
+      	ELSE
+      		// Selecting the file
+      		sFileName = fSelect("", fExtractPath(WIN_Dialog.gsFileName,fFileName+fExtension), "Select a file...", "All files (*.*)"+TAB+"*.*", fExtractPath(gsFileName,fExtension), fselCreate+fselExist)
+      		// If the name of the file is valid
+      		IF sFileName <> "" THEN
+      			// Open it in creation
+      			nFileHandle = fOpen(sFileName,foCreate)
+      			// Run the function for reading the packets sent
+      			ReadFileMsg(sChannelName,nFileHandle,sFileName)
+      		ELSE
+      			// Cancel was clicked by the user
+      			// Send an error message
+      			SocketWrite(sChannelName,csFILE_ERROR)
+      			// Close the socket
+      			SocketClose(csFileSocketName)
+      			BREAK			
+      		END
+      	END
+      END
+      
+      
+      
+      
+     type : 458752
+   -
+     name : WriteMessage
+     internal_properties : CAAAAAgAAAAG2gQWvORSjKKtYDg0UOtLKQ7bB1kcwYoeh91H+8sL6fxXAhzgFYIPrKxAlySlBxxPhxRQCX3+vH+PggwfeW4Jb5NLSta8RQ6aKnagrPzzdFr1sZSnd2wJJZAerTB/feTeBVgJMA9jJZUuCUAbVpuuRWfqdaxHNQa3tvS7FSqwSyX0Ez6oYto3So1ZcgDMp/Gz9gr7
+     procedure_id : 1549200154022503144
+     type_code : 14
+     code : |1-
+      PROCEDURE WriteMessage(sMessage="")
+      
+      // Procedure used to send messages via socket
+      // Send the message
+      // Note: this function is not a locking function
+      
+      // If this is not a message asking for the end of connection
+      // or a request for sending file 
+      // or a file
+      // or an answer to a request for sending file
+      
+      IF sMessage<>csENDCOM  AND sMessage[[TO 3]] <> csFILE  AND Left(sMessage,1) <>"#" AND sMessage<>csACKOK AND sMessage <> csFileCanceled THEN
+      	
+      	// Send the message locally
+      	CriticalSectionStart("AA")
+      	RTFInsert(sMessage,">> ",1)
+      	TableAddLine(Message_Table,sMessage)
+      	
+      	
+      	TablePosition(Message_Table,TableCount(Message_Table))
+      	TableSelectMinus(Message_Table)
+      	CriticalSectionEnd("AA")
+      	// Des options avancées sont disponibles (Cas &quot;Mode avancé option 5&quot;
+      	SocketWrite(gsSocketName,csMessage+ " " + Crypt(sMessage,"",cryptNone,True))
+      ELSE
+      	SocketWrite(gsSocketName,sMessage)
+      END
+      IF ErrorOccurred THEN
+      	// Error while sending the message
+      	Error("Unable to send the message",ErrorInfo())
+      END
+     type : 458752
+   -
+     name : SendFile
+     internal_properties : CAAAAAgAAAChYdUxxw/6qnTUWhJdtVMsb0GJ2oX7BHTa/ISsDXHOYYmxMy1Bk7HUGGxrtqN6LO5tXLvRwdhc7vEialJGZ/+ALWGfk8txkBpR4yZ8L2Bgb+D6Y+2sYr6PpLQaJJNmHfP7mcDTgz1Ytw5i0PE6nrlEHGxos8khdG0f0s3eNRrilcueS9gvPXlRISSEm6P7hHMleGouT4pjBaRemYND/lONAOD1YXOMLpxLNO9iXZZ78UxUOYml9ha6pP5Q+vUrfssFHwTHhI0ASoqTBOm3Owbgx1iHx/DQY5iMNJJ7FG6O5gx1MLEnKK/+F/6nceNhY3ms4a79NYjX7yqtVhr4Spuuow==
+     procedure_id : 1549200154022568680
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //SendFile ()
+      //
+      
+      PROCEDURE SendFile()
+      
+      nFileHandle is int  		// Handle of the file currently sent
+      nbBytesToRead is int		// Number of bytes to read in the file
+      sBytesRead is string	 	// String read in the file
+      nbRemainingBytes is int   // Number of bytes left to read
+      sMessage is string			// Message to send
+      nFileSize is int	// Size of the file
+      nPercentage is int		// Percentage of file sent
+      nBufferSize is int		// size of the output buffer	
+      
+      // Make the controls used for file transfer visible
+      WIN_Dialog.STC_FILE..Visible = True
+      WIN_Dialog.Progbar_File..Visible = True
+      WIN_Dialog.BTN_Cancel..Visible = True
+      
+      // retrieve the size of the file
+      nFileSize = fSize(WIN_Dialog.gsFilePath)
+      
+      // The upper bound of the progress bar is set to the size of the file
+      WIN_Dialog.Progbar_File..MaxValue = nFileSize
+      
+      // retrieve the size of the buffer
+      // it is calculated according to the size of the file
+      nBufferSize  = RetrieveBuffer(nFileSize)
+      
+      // Open the file
+      nFileHandle = fOpen(WIN_Dialog.gsFilePath,foRead)
+      // If the handle of the file is valid
+      IF nFileHandle <> -1 THEN
+      	// The number of bytes left to read is equal to the file size
+      	nbRemainingBytes = nFileSize
+      	
+      	// loop to browse the file
+      	WHILE nbRemainingBytes <> 0
+      		// Check whether no cancelation is in progress
+      		IF WIN_Dialog.gbStopFile = True THEN
+      			// Cancelation so exit from the loop
+      			BREAK
+      		END
+      		// If the size of the remaining bytes is less than the size of the buffer 
+      		IF nbRemainingBytes < nBufferSize THEN
+      			// Number of bytes to read compared to the number of remaining bytes
+      			nbBytesToRead = nbRemainingBytes
+      		ELSE
+      			// The number of bytes to read corresponds to the buffer size
+      			nbBytesToRead = nBufferSize
+      		END
+      		// Read the number of bytes corresponding to the buffer
+      		sBytesRead=fRead(nFileHandle,nbBytesToRead)
+      		
+      		// Encrypt the string to avoid losing data
+      		sBytesRead = Crypt(sBytesRead,"",cryptNone)
+      		
+      		// Create the message of the form:
+      		// #FileName#FileSize#SizeSent#Content
+      		sMessage = "#"+fExtractPath(gsFilePath,fFileName+fExtension) +"#" + nFileSize + "#" + nbBytesToRead + "#"+ sBytesRead
+      
+      		//	Send the message
+      		SocketWrite(csFileSocketName,sMessage)
+      		
+      		// decrement the number of remaining bytes
+      		nbRemainingBytes -= nbBytesToRead
+      		// Calculate the percentage of file sent
+      		nPercentage = 100 - nbRemainingBytes*100/nFileSize
+      		// Update the percentage caption
+      		WIN_Dialog.STC_FILE = "File sending in progress: " + nPercentage + " %"
+      		// Update the progress bar
+      		WIN_Dialog.Progbar_File..Value = nFileSize - nbRemainingBytes
+      		// Give time for the window to be re-drawn
+      		MultitaskRedraw(WIN_Dialog)
+      	END
+      	// Close the file
+      	fClose(nFileHandle)
+      	// If the exit from the loop was not caused by a cancelation
+      	IF WIN_Dialog.gbStopFile = False THEN
+      		// Return the message indicating the end of file
+      		SocketWrite(csFileSocketName,csEndFile)
+      	ELSE
+      		// Reset the cancelation variable
+      		WIN_Dialog.gbStopFile = False
+      		IF WIN_Dialog.gbFileStopRequested = True THEN
+      			WIN_Dialog.gbFileStopRequested = True
+      			SocketWrite(csFileSocketName,csFileCanceled)
+      		END
+      	END
+      ELSE
+      	// Error while opening the file
+      	SocketWrite(csFileSocketName,csFILE_ERROR)
+      END
+      
+      // Make the controls for file transfer invisible
+      WIN_Dialog.BTN_Cancel..Visible = False
+      WIN_Dialog.Progbar_File..Visible = False
+      WIN_Dialog.STC_FILE..Visible = False
+      WIN_Dialog.BTN_SENDFILE..State = Active
+      // Reset the values to 0
+      WIN_Dialog.Progbar_File..Value = 0
+      WIN_Dialog.STC_FILE = ""
+     type : 458752
+   -
+     name : Closing
+     internal_properties : CAAAAAgAAAD4jQyr1hsdjJk7v+LUPOPgN/W0CxcEuiWRkN3b573KyC5pZCYNFUQEtp9+3oXxDXhJYdVb6YRqbjdwzDbsRkFnX9R/RL5DdofHnZ0juCcgusY/Bq+axK2I1O/H5tHeuke5EGN8L4jKkmbbpO3A6dJnnM5t0kH67P+8e0sCBtEIzp9ngGmtm8HAA1wLPU52UgVRZf2hF8pt26+E/SrtUeCeUZR1Ag==
+     procedure_id : 1549200154022634216
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //Closing ()
+      //
+      // Parameters:
+      //	None
+      
+      // 	bRequestStop: Boolean used to find out who asked to stop the communication
+      //					True: it's the application user
+      //					False: it's the correspondent
+      PROCEDURE Closing(bRequestStop=False)
+      
+      // Send a message to the other user indicating the end of communication
+      IF bRequestStop THEN WriteMessage(csENDCOM)
+      
+      // Stop the listening thread
+      // Stop the threads
+      ThreadStop(gsThreadName,1000)
+      ThreadStop(csFileThread,1000)
+      
+      IF SocketExist(gsSocketName) THEN
+      	// Close the listening socket	
+      	SocketClose(gsSocketName)	
+      END
+      
+      IF SocketExist(csFileSocketName) = True THEN
+      	// close the file socket
+      	SocketClose(csFileSocketName)
+      END
+      
+      // Reset the variables to zero
+      gbAcceptFile = False
+      gbCurrentFileSent = False
+      gbCurrentFileReceived = False
+      // If the main window is active, update the variable
+      WIN_Main.gfbinDialog = False	
+      WIN_Main.BTN_DIALOG..State = Active
+     type : 458752
+   -
+     name : EndCommunication
+     procedure_id : 1549200154022699752
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //EndCommunication (<sMessage>, <nParam>, <wParam>)
+      //
+      // Parameters:
+      // 	sMessage: Windows parameter for an event to call a callBack
+      //	nParam: Windows parameter for an event to call a callBack
+      //	wParam: Windows parameter for the call of a CallBack by an event
+      // Return value:
+      // 	None
+      
+      PROCEDURE EndCommunication(sMessage <useful>,nParam<useful>,wParam<useful>)
+      
+      // Close the window
+      Close
+      
+      
+     type : 458752
+   -
+     name : ErrorManagement
+     internal_properties : CAAAAAgAAAAW6jAPJUw9XjI19mTcKGubBdJ7WT/6K6BuB9dnA2/rYRj7Sp5+8xDdoLhCWzBRH/RX9wC2J1sU2qMrENxPid5p6xeLVBDmHxCqqj+Ja32C5avm5kEW8NXwrDO76hskcPnLAlECSyRwMMA1DkVGO7a7TphfItMYHmla8TlgkKcf1NJBjKczH48iEdyOb1tizaxHBhrr
+     procedure_id : 1549200154022765288
+     type_code : 14
+     code : |1+
+      // Syntax:
+      // ErrorManagement ()
+      //
+      // Parameters:
+      //	None
+      
+      //	nParam: Value
+      // 	nErrorCode: Parameters used to differentiate the error messages
+      PROCEDURE ErrorManagement(nParam <useful>,nErrorCode)
+      
+      sParticipantName is string		// Name of the correspondent
+      
+      // Display the error message corresponding to the error code
+      SWITCH nErrorCode
+      	
+      	CASE 1 // Stop of communication requested
+      		DelayBeforeClosing(500)
+      		Info("Correspondent requests closure of communication")
+      		DelayBeforeClosing(0)
+      		
+      	CASE 2 // Error code: file refused by the correspondent
+      		DelayBeforeClosing(1000)
+      		Info("Your correspondent does not want to receive any file")
+      		DelayBeforeClosing(0)
+      		
+      	CASE 3	// The correspondent made a request to send a file
+      		DelayBeforeClosing(3000)
+      		
+      		// Search for the form of the correspondent
+      		HReadSeekFirst(Correspondents,ParticipantsID,gnIDCorrespondents)
+      		IF HFound(Correspondents)=True THEN
+      			// The correspondent was found, indicate his name
+      			// Note: the name is indicated from the list of correspondents
+      			sParticipantName = Correspondents.LastName + " " + Correspondents.FirstName
+      		ELSE
+      			// The correspondent is unknown	
+      			sParticipantName = WIN_Main.gfsName
+      		END
+      		// Ask for confirmation for file reception
+      		IF YesNo(No,StringBuild("%1 wants to send you the following file: %2",sParticipantName,gsFileName) + CR + "Do you accept?") = Yes THEN
+      			// update the variable
+      			gbAcceptFile = True
+      			DelayBeforeClosing(0)
+      		ELSE
+      			gbAcceptFile = False
+      		END
+      		DelayBeforeClosing(0)
+      		// Modify the signal to indicate to the thread that the answer is ready
+      		EventChange("SigYesNo",eventOpen)
+      		EventChange("SigYesNo",eventClose)
+      		
+      	CASE 4	// Error while transferring file
+      		DelayBeforeClosing(1000)
+      		Error("An error occurred while transferring the file " + gsFilePath)
+      		DelayBeforeClosing(0)
+      		
+      	CASE 5	// File transfer canceled by the correspondent
+      		DelayBeforeClosing(1000)
+      		Error("Your correspondent has canceled the file transfer " + gsFileName)
+      		DelayBeforeClosing(0)
+      	CASE 6 // request for opening the file that was received
+      		DelayBeforeClosing(1000)
+      		IF YesNo("Do you want to open the file " + gsFileName + "?")= Yes THEN
+      			ShellExecute(gsFileName)
+      		END
+      		DelayBeforeClosing(0)
+      			 
+      END
+      
+     type : 458752
+   -
+     name : ReadMessage
+     internal_properties : CAAAAAgAAABHvXO8c0MdqEMH2Wc7fmcx0TC9lFuKSgnWJhrVvD0ekKHA61J1U1jTzKBI+Q1wPtyJ9HeZlV33E3guRK6ZsFmB7VWAJUCtUqBXasLsuPBPdhQQ1vfbnUgwfN0RvnyuuXOUQX9uMHxjgS/j8IdxfSHraUHtWtKq+zAbiQ1qc+XRw0vFgzAz2GGM5T2kevw//I7VMXIe08sRA+mJGI2xUFXORgR2MI8Lc7SYZymshBrSs0uYtA==
+     procedure_id : 1549200154022830824
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //ReadMessage (<sReadSocketName>)
+      //
+      // Parameters:
+      //	sNameReadSocket: Name of the socket onto which the message must be read
+      // Return value:
+      // 	None
+      
+      PROCEDURE ReadMessage(sReadSocketName)
+      
+      sMessage is string			// Message received
+      
+      
+      // Read as long as the thread is active
+      // Note: A locking function is used during an undefined duration in the loop: no need to monopolize the processor
+      LOOP	
+      	// Read a message (locking function during an undefined duration)	
+      	sMessage = SocketRead(sReadSocketName,True)
+      	
+      	// Check the message
+      	IF NoSpace(sMessage)<>"" THEN	
+      		
+      		// There is a message asking for the communication to stop
+      		IF sMessage[[TO 3]]~=csENDCOM THEN
+      			
+      			_EndCommunication()
+      			BREAK
+      			
+      		ELSE
+      			
+      			// A file is waiting to be sent, therefore the message is the answer of the correspondent
+      			IF gbCurrentFileSent = True THEN
+      				_ProcessAnswerFileRequest(sMessage)
+      			END
+      			
+      			IF sMessage ~= csFILE_ERROR THEN
+      				// a File error message was received
+      				// Reset all the variables to 0
+      				gbAcceptFile = False
+      				gbCurrentFileSent = False
+      				gbCurrentFileReceived = False
+      				
+      				// closes the socket
+      				SocketClose(csFileSocketName)
+      				
+      				// Sends a message to the window to display the corresponding error message
+      				PostMessage(Handle(WIN_Dialog),"ERROR",4,4)
+      				BTN_SENDFILE..State = Active
+      			END
+      			
+      			// if the message is a file cancelation, reset the bStopFile variable to False
+      			IF sMessage~=csFileCanceled THEN
+      				gbStopFile = True
+      				PostMessage(Handle(WIN_Dialog),"ERROR",5,5)
+      				WriteMessage("File transfer canceled")
+      				BTN_SENDFILE..State = Active
+      			END
+      
+      			// If the message is a request for sending file, ask the user to give his agreement
+      			IF sMessage[[TO 3]] ~= csFILE THEN
+      				_ProcessFileMessage(sMessage)
+      			ELSE
+      				IF sMessage[[TO 3]]<>"100" AND sMessage[[TO 3]]<>"300" AND Left(sMessage,1)<>"#" AND sMessage <> csFileCanceled  THEN
+      					CriticalSectionStart("AA")
+      					smsg is string
+      					smsg = Uncrypt(sMessage[[5 TO]],"",cryptNone,True)
+      					
+      					_AddMessage(smsg)
+      					
+      
+      					CriticalSectionEnd("AA")
+      				END
+      			END
+      		END
+      	END
+      END
+      
+      // Stop the listening thread
+      ThreadStop(gsThreadName,500)
+      Multitask(-30)
+     type : 458752
+   -
+     name : ReadFileMsg
+     internal_properties : CAAAAAgAAABlcctijVGPrSsLSgVgw6xOmP2u2Z1oy6UaoZQYe4GLBuqW493cAvXWXn4Z3/ELei7u/MyNEOmwbVrColPbrY4RpkumTeGA4TSabT2E4zrfmZu8aCVUhj9hG81G+Z/zDd404kmCmTYerzQFAyob/7MV5xgVvwhkpUvshXLFPSPHmW1O9eUv5ucRzO83KxIL/0ua77VcTFTEE2MWUstkheqnLLOIPRH9jc8Nt/DhlQTACZvrlLOA1VDkNtxj52uw8ogf7P0xV6dqVQUl66MUYDmmsXS78jY=
+     procedure_id : 1549200154022896360
+     type_code : 14
+     code : |1-
+      // Syntax:
+      //ReadFileMsg (<sChannelName>, <nHndFile>, <sFileName>)
+      //
+      // Parameters:
+      //	sChannelName: Name of the connected socket
+      //	nHndFile: Handle of the file where the packets will be saved
+      //	sFileName: Name of the file to write
+      
+      PROCEDURE ReadFileMsg(sChannelName,nFileHandle,sFileName)
+      
+      sMessage is string				// Message received
+      sNameFileSent is string 	// Name of the file sent
+      nSizeToWrite is int		// Number of bytes to write
+      nTotalBytes is int			// Total number of bytes to write
+      nBytesWritten is int			// Number of bytes already written
+      sBytesRead is string			// Content of the message
+      
+      
+      // Update the controls regarding the file transfer
+      WIN_Dialog.BTN_Cancel..Visible = True
+      WIN_Dialog.Progbar_File..Visible = True
+      WIN_Dialog.STC_FILE..Visible = True
+      // Loop
+      LOOP
+      	// Retrieve the message
+      	sMessage = SocketRead(sChannelName,False,60000)
+      	// If there is no current cancelation
+          IF WIN_Dialog.gbStopFile = False THEN
+          	// If the message indicates the end of file
+          	IF sMessage= csEndFile THEN
+          	
+      	    	// Exit the loop
+      	    	BREAK
+      	  	ELSE
+      	  		// If the message is a cancelation
+      	   		IF sMessage ~=csFileCanceled THEN
+      				WIN_Dialog.gbStopFile = True
+      	   			// exit the loop
+      	   			BREAK   			
+      	   		END
+      	   		// If the message is an error
+      	   		IF sMessage~=csFILE_ERROR THEN
+      	   			// Update the cancelation variable to run the code for file deletion 
+      				WIN_Dialog.gbStopFile = True
+      				BREAK	
+      	   		ELSE
+      	   			// The message is valid
+      	   			// Extract the name of the file
+      				sNameFileSent =ExtractString(sMessage,2,"#") 
+      				// Extract the total size of the file
+      		    	nTotalBytes = Val(ExtractString(sMessage,3,"#"))
+      		    	// Extract the size to write
+      				nSizeToWrite = Val(ExtractString(sMessage,4,"#"))
+      				// Read and decrypt the content
+      				sBytesRead = Uncrypt(ExtractString(sMessage,5,"#"),"",cryptNone)
+      				// Write into the file
+      				fWrite(nFileHandle,sBytesRead,nSizeToWrite)
+      				// Increment the number of bytes written
+      		    	nBytesWritten += nSizeToWrite
+      		    	
+      		    	// Update the static
+      				WIN_Dialog.STC_FILE = "File in reception " + IntegerPart(nBytesWritten*100/nTotalBytes) +" %"
+      				// Update the progress bar
+      		   		WIN_Dialog.Progbar_File..MaxValue = nTotalBytes
+      				WIN_Dialog.Progbar_File..Value = nBytesWritten 
+      				// Give time for the window to be updated
+      				MultitaskRedraw(WIN_Dialog)
+      	
+      		   	END
+      	    END
+      	ELSE
+      		// Cancelation 
+      		BREAK
+      	END
+      END
+      
+      // Close the file
+      fClose(nFileHandle)
+      
+      // Make the controls for file transfer invisible
+      WIN_Dialog.Progbar_File..Visible = False
+      WIN_Dialog.STC_FILE..Visible = False
+      WIN_Dialog.BTN_Cancel..Visible = False
+      WIN_Dialog.BTN_SENDFILE..State = Active
+      // Reset the values to 0
+      WIN_Dialog.Progbar_File..Value = 0
+      WIN_Dialog.STC_FILE = ""
+      // Update the variable for the files waiting to be received
+      WIN_Dialog.gbCurrentFileReceived = False
+      IF WIN_Dialog.gbStopFile = False THEN
+      	// Send a message indicating that the file was successfully received
+      	WIN_Dialog.WriteMessage("File Received: " + gsFileName)
+      	// Send a message to the window so that it displays the message for file opening
+      	PostMessage(Handle(WIN_Dialog),"ERROR",6,6)
+      ELSE
+      	// Cancelation 
+      	// Reset the variable to False
+      	WIN_Dialog.gbStopFile = False
+      	// Delete the file
+      	fDelete(sFileName)
+      	IF WIN_Dialog.gbFileStopRequested = True THEN
+      		// Send the message to the other user
+      		WIN_Dialog.WriteMessage(csFileCanceled)
+      		WIN_Dialog.gbFileStopRequested = False
+      	ELSE
+      		// Send a message to the window so that it displays the cancelation message
+      		PostMessage(Handle(WIN_Dialog),"ERROR",5,5)
+      	END
+      END
+      // Close the socket
+      SocketClose(sChannelName)
+      // Stop listening
+      ThreadStop(csFileThread,100)
+      Multitask(-100)
+     type : 458752
+   -
+     name : FindSmiley
+     internal_properties : CAAAAAgAAAAH0bw9WqfmtfWmhe/swcEAsISneMxlMlXTeZ2BUfdcQLjLoBVEsL6089dgOFLEtJnlVTSMAVACpM7kBY1EbXhariErpUQKnNI0MounRqkAAgm1wOSPI+F6aZ2VTRB7l2bjU1EBYvFC/MsJ/CjZhFWoqh35CdY5gKEZK/vNm+Drl6mOTAAghCn66khnImHHg0BEvU92PHFKqXlMGMh/C70+MvY=
+     procedure_id : 1549200154022961896
+     type_code : 14
+     code : |1-
+      // Syntax:
+      // FindSmiley ()
+      //	
+      //	This function is used to find out whether a smiley was added to the characters typed by the user
+      
+      PROCEDURE FindSmiley()
+      // This procedure is used to find the smileys if the proper characters have been found
+      HReadFirst(Smiley,SmileyID)
+      WHILE NOT HOut(Smiley)
+      	// compare the last n characters of the rtf control (where n is the number of characters in smiley.txt) with the smiley text
+      	// If it is equal, display the smiley and exit
+      	IF Right(RTFToText(SC_RTFControl1.EDT_Text),Length(Smiley.SmileyText))=Smiley.SmileyText THEN
+      		// Assign the smiley to the image control
+      		img_smiley = Smiley.SmileyImage
+      		// Copy the content of the image control to the clipboard
+      		ToClipboard(img_smiley)
+      		// Select the set of characters that corresponds
+      		SC_RTFControl1.EDT_Text..Cursor = Length(RTFToText(SC_RTFControl1.EDT_Text))-Length(Smiley.SmileyText) + 1
+      		SC_RTFControl1.EDT_Text..CursorEnd = Length(RTFToText(SC_RTFControl1.EDT_Text)) + 1
+      		// Run the process of the Paste button
+      		ExecuteProcess(SC_RTFControl1.BTN_Paste,trtClick)
+      		BREAK
+      	ELSE
+      		HReadNext(Smiley)
+      	END
+      END
+     type : 458752
+   -
+     name : RetrieveBuffer
+     internal_properties : CAAAAAgAAACTkcFaD+vkAq37VzftANme0avtYsludN3+8Br7XNWOTD3YkxT9AxoT+G7kL/FEGuqtli0HmyHt7/RcIEzttM3fWdf639LtvMDXlGI68LjHwGDiAF1xKeaQVBY0Wd/ZlErVQloNl9O8KPY4t75oZChumnKQOXH5jCNqvsyBQtzYPmzaohNO675LiB6nRccSmasKjFs5tjZ+Xpx6I/jsj4iBmYJQm5IKdGcD6EBvaNZ6WZdsgA==
+     procedure_id : 1549200154023027432
+     type_code : 14
+     code : |1+
+      // Syntax:
+      // [ <Result> = ] RetrieveBuffer (<nFileSize>)
+      //
+      // This procedure is used to calculate the size of the buffer according to the size of the file
+      // Parameters:
+      //	nFileSize: Length of the file whose buffer must be calculated
+      // Return value:
+      // 	integer: 
+      
+      PROCEDURE RetrieveBuffer(nFileSize)
+      nBuffer is int
+      // Depending on the size of the file, allocate a given size to the buffer
+      // The maximum allocated is 1MB 
+      SWITCH True
+      	CASE nFileSize< 4000
+      		nBuffer = nFileSize
+      	CASE 4000 < nFileSize < 500000
+      		nBuffer = 4000
+      	CASE 500000 < nFileSize < 5000000
+      		nBuffer = 10000
+      	CASE 5000000<nFileSize <20000000
+      		nBuffer = 500000
+      	CASE nFileSize >20000000
+      		nBuffer =  1000000
+      END
+      RESULT nBuffer
+     type : 458752
+   -
+     name : _AddMessage
+     procedure_id : 1549200154023092968
+     type_code : 14
+     code : |1-
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      //_AddMessage (<sMsg>)
+      //
+      // Parameters:
+      // 	sMsg: <specify the role of sMsg>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      PROCEDURE _AddMessage(sMsg)
+      
+      IF NOT sMsg ~="" THEN
+      	// 	Display the message	
+      	// Format the message to write it in bold (it is a message from the correspondent)
+      	RTFINPUT = WIN_Main.gfsName + ": "
+      	
+      	RTFINPUT..Cursor = 1
+      	RTFINPUT..CursorEnd = Length(RTFINPUT)
+      	RTFSelection(RTFINPUT,rtfBold,True)
+      	
+      	RTFInsert(RTFINPUT,sMsg,Length(WIN_Main.gfsName + ": ")+1)
+      	
+      	// Add into the table
+      	TableAddLine(Message_Table,RTFINPUT..Value)
+      	
+      	// Position on the last row of the table (corresponding to the last message)
+      	TableSelectMinus(Message_Table)
+      	
+      	TablePosition(Message_Table,TableCount(Message_Table))
+      END
+     type : 458752
+   -
+     name : _EndCommunication
+     procedure_id : 1549200154023158504
+     type_code : 14
+     code : |1+
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      // _EndCommunication ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      PROCEDURE _EndCommunication()
+      
+      // Close the listening socket	
+      SocketClose(gsSocketName)
+      
+      // If the main window is active, update the variable
+      WIN_Main.gfbInDialog = False	
+      WIN_Main.BTN_DIALOG..State = Active
+      
+      // The communication was stopped by the correspondent			
+      //Posts the message for displaying the message
+      PostMessage(Handle(WIN_Dialog),"ERROR",1,1)
+      
+      Multitask(-200)
+      
+      // Ask to close the window			
+      PostMessage(Handle(WIN_Dialog),"EndComm",Correspondents.ParticipantsID,Correspondents.ParticipantsID)
+     type : 458752
+   -
+     name : _ProcessFileMessage
+     internal_properties : CAAAAAgAAADUL9Cmuig/+Qq6Rw3qBnuyf3R8PHKTLf7IIkyFffSiA9Z70Vyx6iDFsIiacL5GlR6UbCSFHi4Nw3BM5Q78/HQFZxCKKnzS3+I2fuoElpeok7A9K8PfYA0q5ot26K1e4P1ttEuRlmv/KGptmI9+mtP+h91R+NJf+iEqb76wLxuR/Ej6pChBYG/Ktht9qw52t84QXvn0L6Q=
+     procedure_id : 1549200154023224040
+     type_code : 14
+     code : |1-
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      //_ProcessFileMessage (<sMessage>)
+      //
+      // Parameters:
+      // 	sMessage: <specify the role of sMessage>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      PROCEDURE _ProcessFileMessage(sMessage)
+      
+      gsFileName = sMessage[[5 TO ]]
+      
+      // Send a message to the window to display the corresponding message
+      PostMessage(Handle(WIN_Dialog),"ERROR",3,3)
+      
+      
+      // Wait for the answer of the user
+      IF EventWait("SigYesNo",3000) = True THEN	
+      	
+      	IF gbAcceptFile = True THEN
+      		// The user has accepted
+      		// Update the variable used to find out whether a file is waiting to be received
+      		gbCurrentFileReceived = True
+      		
+      		// Create a socket
+      		IF SocketExist(csFileSocketName)= True THEN
+      			SocketClose(csFileSocketName)
+      		END
+      		// Create a specific socket for file transfer
+      		IF SocketCreate(csFileSocketName,cnFileSocketPort)  = False THEN
+      			
+      			// Send an error message
+      			gbCurrentFileReceived = False
+      			WriteMessage(csFILE_ERROR)
+      			
+      		ELSE
+      			// Before running the thread used to read the messages, check that it is not already in progress
+      			IF ThreadState(csFileThread)=threadUnknown THEN									
+      				ThreadExecute(csFileThread,threadNormal,WaitForFileConnection)
+      				// Send the response
+      				WriteMessage(csACKOK)
+      				WIN_Dialog.BTN_SENDFILE..State = Grayed
+      			END
+      			
+      			
+      		END
+      		gbAcceptFile = False
+      	ELSE
+      		// The user has refused, send the response
+      		gbAcceptFile = False
+      		gbCurrentFileReceived = False
+      		WriteMessage(csFileRefused)				
+      	END
+      	
+      END
+     type : 458752
+   -
+     name : _ProcessAnswerFileRequest
+     internal_properties : CAAAAAgAAACYEAn8MoXpZwg7OO43fJtQ/RiLCo1R+lckZKq2vQvMDb4OLsbPGhLiQhBT5Fhzccd42UfCn/XnVme6jL4iQvien2N86RI9O4P8+1trDXuhncR33G8fYlf0hisW9LdQwuMR4P+VXoEt1iirhiFg2vHYX9XZsF73ssmwLWzy6SmfVgXPD63e8zwZzeIExPllXLZ2/1OKbaVbA/rRN1eEMxNdQ6FOxl57
+     procedure_id : 1549200154023289576
+     type_code : 14
+     code : |1+
+      // Summary: <specify the action of the procedure>
+      // Syntax:
+      //_ProcessAnswerFileRequest (<sMessage>)
+      //
+      // Parameters:
+      // 	sMessage: <specify the role of sMessage>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      PROCEDURE _ProcessAnswerFileRequest(sMessage)
+      
+      // The correspondent has accepted, 
+      IF sMessage~= csACKOK THEN
+      	IF NOT SocketConnect(csFileSocketName,cnFileSocketPort,WIN_Main.gfsIPAddress) THEN
+      		gbCurrentFileSent = False
+      		WriteMessage(csFILE_ERROR)
+      	ELSE
+      		WriteMessage("Fille accept " + gsFileName + " saved")
+      		// Send the file in a thread to avoid locking the discussion
+      		ThreadExecute("SENDFILE",threadNormal,SendFile)
+      		gbCurrentFileSent = False	
+      	END
+      ELSE
+      	// The file is refused
+      	gbCurrentFileSent = False
+      	// Post the message to the window to display the corresponding dialog box
+      	PostMessage(Handle(WIN_Dialog),"ERROR",2,2)
+      	WriteMessage("File refused " + gsFileName + " saved")
+      	BTN_SENDFILE..State = Active
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenDialogue
+resources :
+ string_res :
+  identifier : 0x3fe085e350070070
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

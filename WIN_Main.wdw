@@ -1,0 +1,1125 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x257fdd5409fcdeb3
+ internal_properties : CAAAAAgAAACzZZO//amgR8IGz8mAoFG3GpzbGaFGf6ErJ7C8A1EE9jDCXfl0IuIZsHQopOGQ0233cLH0ameU0lWwfnqsMBsUZd9tgcN9JJaF1jXsAskvTnc7uGuFkCo3K7QFY7RrgjdMRi0NbSC6WxttQKxd8NzMywbJkB/zLoEh4WygJ8DE45GKJgF3ErxHbHXXRnOCxf5o4n2H/1vgICZ95JK4ps7VYRO5cdYqnkdfNQMVVwTL98EYnplNDooBQ7PE66HdUNiKTx6Tunz6uao2mp1ZLTIaFznJn9nmDIkyJjSVwxdDi0sl8qFrjaRgcxXsL2zRxdwzq7j+f6BwHCDSX1vgIHIOnPwO5NZMt0o6yd7sEtdtMoXObtVGBd6d1l949Yg9YCcrtrcA3fvTnHw0RCfzLQgMrdG84iVXQn95pUpCY8nasdKQ9N3LxbZANEhDvMG9rlAKe6TOqTHDlXmRAmGcDT6UKJMiOZx/l8/Q0JHOBZ7RpSPRPvES53BWEbUiHuOubPcNRZuFAl7pHR+ZqhCm9lvM/W6JFwBn9gTP3Sx0LTOWI4HmmhEUyKifsedtEG6YfDe2PClyIshJnoyOgS9axothzBuvARAbS7ywimY59rwBvte/DHEX4CR6vEskTXjkEnkMnjuN/xWAFVEDvu96g4+cxounUtUMyARShhNIbjhzvpVIPZJzfP4GqrMsey466usU2A93lHulMP8QxaAP873/wEJ2ovG6KtESPoRRKGfrq66SUcGXeP/ViWPKNGdgM4kmRekQitPwAQELhDMf7ybbkWPkoqXXLUlM0Lym7+Wwn6JIM96NREjpZM1KCTsIaaPYtbEPXPs1TPmfDgE5JKWItcoUJ+7hfYNagGfY0pof0gp7mI12WaPziMa6QZQWUBEFryTMnVH32xf+Kc6vV/WwyIeqIILwRemT
+ properties :
+  width : 590
+  height : 794
+  widthClient : 588
+  heightClient : 762
+ controls :
+  -
+    name : ConfSend
+    identifier : 0x257fdd5409fedeb3
+    internal_properties : CAAAAAgAAACAcIYXD+nV4xiu+ygESWktyh79yr4OCmdtzRVt/l8lhDtZNrhI80TjSvfngkGzLoF1DXDu6+/SoiANufnBrVMXWtN3oxukc1NYuRgaJyAY7s/AwZwTpMidm1tPQe4wYbWHJXraeeUtbMD4UpCam/H1Tzhlq8cE/lwRFJlAlUbaKpFlv3CwSYPrk0FAQ2Dbam5vL7ytZ9Cu5ENOSET6M3G2ChfDDnFIgYCapn7CKCu6LuFuEyOo1+4620CKNytX4GynqyhA+2lfPhVpFNsqdoKqDKDvFpFEZpy9S/1D8DT9mngPhOCi1WcKk5Wwy3Zb2N1RgWfWWzkCKwPtlN4LEuPmeCbblNBLREPOnKb1DHElep2yzJP7mPT7U17oYCGKyA36ET3hQuQe5j2VW9ORV0GeXl6YvA5BXgFPco1p895KtfFBWM0lcLeLHwkBfDcHMl9+l2v6F5BUWqKokrQubutCpRhlgqp+WYrtkNPnIaoDkg1TeIUA3lSPWeEBVcV3mLW30tivfs0vlM4H4ecT
+    properties :
+     x : 368
+     y : 231
+     width : 196
+     height : 124
+    type : 25
+    code_elements :
+     type_code : 50
+     p_codes : []
+  -
+    name : BTN_CALL
+    identifier : 0x257fdd5409ffdeb3
+    internal_properties : CAAAAAgAAABDDxZh+NXGEawUpjT9Wz0y6DLODK1ZSPMeLOhP/7m54em0D5wfUMULYXyNMy+paE1c4lOiz831PoGFixES8vuoRkvp8cP5fZbcbGp/A3WshekRcoA9nQ9W8a05bqwM3M3tWEfdGVqoK28EwSTseEP+i4bjbywYRDLhI6n8u1q+bU8xyHyKcwNkNTVpMHySNIqD/M4R/uSsFyrm460oHJKYenrELeCHF4e2mLAb+rE/X7y4CrEOuknWI5xq4KJeA19drLrbKf65r0RtMqTg5mNsf/zbNp/nzCtegWQ5K5/63Y4ye0bZwV8Yyast19aAgjktVGkT/QiAyt8bcuuvWDMII/F3mCsm+8aICu4kXtZjnfVD+Hc8s9ccyfVnkFU9CgWNXKdw8hsSSTKr/jPw0mebH3xwjktiUDZBU3kCuHYmGulx6dtEjjLogyC7gcxM/qOK1h7KUpRIPRzbMiaOwu5zM3ZwLgPu+AQ/EM4iyxqaHFTEWeA3LkMnkwNZ+dSqW3T0RIyYowN0K8a3MV1k0H/QY16Uwtm6md/j1cp4+WQVL3UA57grz55u+4KyVYaZg1efw7ZOAg4prjDIMimhad5wdIq+/L3Xcmn8u4YQPkosfHlMDxk+Z0te99HWPCJn90Ws5N5Bp44Qex8eRENIm62eUYhrC9SxqGMvF9bxDHdjIQpb+Z4WK2/stjgSks8gOE1PoSNvpo92QNNWCRAyExgHrOP7ObY+oCnJyvIEbj0LHUDQ3u6e1Dm1doqH3CMSkJirptxoOQsw3fW08OELCNa0r8GdN0Y/bka0ZfKAsSl5NKDiTe/VhD1edQ0YWAln2q8HskTTYg4AKCjX7ilmZKrRJNDD1uK1eXVtYK+yy+mPdJTaIHhNt9NWTRdFnpCH/f38iwc9FMk1KV32zjp4WxuwktQvIVWzT/+Utl7CkqS436ZEEX910queLReRDhBZrcb3efybvLvScf4uBzV5vIKRLoEmvHQf
+    properties :
+     x : 367
+     y : 386
+     width : 197
+     height : 47
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         IF gfbInComm = False THEN
+         	// Check the IP address 
+         	
+         	IF CMB_CALLEDPARTY..DisplayedValue <> "" THEN
+         		// Connection
+         	
+         		connection(CMB_CALLEDPARTY[CMB_CALLEDPARTY])
+         		gfsIPAddressVideo = CMB_CALLEDPARTY[CMB_CALLEDPARTY]	
+         	ELSE 
+         		Error("No correspondent is selected")
+         		RETURN
+         	END
+         ELSE
+         	IF YesNo("Do you want to close the current connection?") = Yes THEN
+         		StreamDisconnect(ReceiveStream)
+         		gfbInComm = False
+         		gfbCut = True
+         		BTN_CALL..Caption = "VideoConference"
+         		GP_OPTIONS..State = Grayed
+         	END
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        code : |1-
+         STC_VIDEOCONF..Visible = True
+         STC_DIALOG..Visible = False
+         STC_GENERAL..Visible = False
+        type : 66048
+  -
+    name : BTN_DIALOG
+    identifier : 0x257fdd540a00deb3
+    internal_properties : CAAAAAgAAACfTGfUfSGze8X1P19NIGoRfhw2Qus58gI4qWW3zl31hQ7WfDr1HKSk/vBUpgOW/5A6LQeAoD9avhoF6S9LD/exeKDVayET/e+ryY1uwkpHPWlMH1kYxZEuW//M7AUO+rXsaAHK43lAqgsLH8KEYt9UTVcl7K346Oo675+fIIK+Qty1B3L8u/+SecBgR5XGwFrxxZoLfJn7u4yHgKlUF5JokU3fX5htrQiFHE+BKU+lvyAAPPTRbu7YGfZibrpO/4rQsFNB3Fp5QvzPTQWVEyqp8iUeJsUr28JFCRUqyQxNoHjVD6GBkk4jIyidOOH0/A1lLmUcSlvy951diiO4ChRQn2oXNBvDahfRF5eXDVttCNE0CnzeJV6ZroiE/84THxrqhPb4jZ0czb4DxUizCIj6S7XNjjzLsuKkWwWaXEIhyopcWN/S4PY3IGmuTAGuowyWwWHnG+4Lkrt+z48JaoUKwtz0awo9itHXXGgh0P3YFYUkPNC6gs4gTee47ubmO1Wa4Cx+Q5MNwwccgOvpvcq4cbnVBrV9/XKi0hCkg/FeQXVJkUaSr4+SJ7L1VMA/rwugKuNoSb01F1cDjFaThx6trirQfgouOhaUxXNbVOOST8o5k8qtWyuhC1MJX6DjPUrVcWKWNq8zH5zZCH8Z5aX2hcKFo6fRoWG0+xCzM6+T/GuE8LtEWCA1FAtIFWWCoDrCO00jayDVJgOQNT+egTTYnOe2KrHUEglfa+qCNKPFgy8bxOLQKqP0KOHRxfjC0MRTCpJCSACAc2E1TuvxZq4VI4FZr5+6IIdrmNxWxxtZoU4HwtIGP2zWi5/ib1hOwOhSxPdw00TNkRWszBZd457/qJgcPkQPuPSoiEKfssmn3rwVtt2bCIv4dmUu2NG10z+LrdBdS9MRDNhGjp3GFCZxzSgEDrUFM6JYfKjSFfH3BdcZYwjcye7ynLJ1wyNBYUYvbekubJTbxj2c9SJl8mlgzMyrrghJRW1YgrBZn6KUT6d5MCjWr+WENhO32jYAlbZ2Z9GiFHMLbrO23ZbDC6Joky8BacPwfo8=
+    properties :
+     x : 367
+     y : 448
+     width : 197
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAADpwWyO8j8477yPtOg7LDRCQOO/FxnAVqKlyTW5EBpWNEh10KyhkCNxgL9WeLOiFkeo1/wNg5N5s+FMh9wYk99vTvOE2rtXP0tIAIu7dN5+/YBs/mqW2fsIFoCMEW4SPrimCYNzPwNHHOXaph5E7CpIhNGWOtIL83Lqgq3LjyRe
+        code : |1+
+         IF gfbInComm THEN
+         	// We are in video conference
+         	// Take the IP address corresponding to the video conference
+         	gfsIPAddress = gfsIPAddressVideo
+         	ThreadExecute("ReqStartMsgThread",threadNormal,SendMessageStartRequest,gfsIPAddress)
+         	BTN_DIALOG..State = Grayed
+         	
+         ELSE
+         	
+         	IF CMB_CALLEDPARTY..DisplayedValue<> "" THEN
+         		// Send a request for connection to the selected correspondent
+         		// Note: we use a thread to better manage the display
+         		// The interface must be managed in a single thread
+         		// Stores the IP address of the correspondent
+         		gfsIPAddress = CMB_CALLEDPARTY[CMB_CALLEDPARTY]
+         		ThreadExecute("ReqStartMsgThread",threadNormal,SendMessageStartRequest,CMB_CALLEDPARTY[CMB_CALLEDPARTY])
+         		BTN_DIALOG..State = Grayed
+         	ELSE
+         		Error("Select a correspondent")
+         	END
+         
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        code : |1-
+         STC_DIALOG..Visible = True
+         STC_VIDEOCONF..Visible = False
+         STC_GENERAL..Visible = False
+        type : 66048
+  -
+    name : BTN_EXIT
+    identifier : 0x257fdd540a01deb3
+    internal_properties : CAAAAAgAAACYT8eMaxmHLQjrQ7KUODfPTNzRDmoHNzw1wFAWq6CqV4xGhRkO0fkrw6canewvJJLwK/rKkaipc1FlS17P67nmOrGLeQVuYGTs61IuTKIKK255BlpIbRXfuZpF4OuBh3GOU6FnL8A7qNOwnPrW7EP6TtkXDV3lZ+y3lqYRETwTcJsSfsM5/aD4dTUUX3APYaYfZ2dWecffxDBQK/hIwKV70wNUEhIlPMvUoX0DTCVqNQ6AZf8UwY+7LtWqdbFSwdq6lUBdgAYtYqh5tPrvAUweMTm6Y1qanKinDAxk3Ral/k8eP3xPwFUXK81bjfRTF3It4b1dOEjFRkOrUN4XgRqlvokCPk6oBsgSVjXs3wYrfakgiBK4woyi31JTyJTXVYs8oVB3FP/GAC7a2fyiAEWJHqSWL/qw+vRyrWGMvrOvC25Yjx0TGkIKxGHPLG2k+CprGL1FNHKYi+x+patIwuh6FFD/WHECpM2+DQNw5hpszonqtQFxfWeD0cowqTIzZaLYRC9xIhMYq5S2wefFE+Ypb7ZPyApbltGlaUO+dwbKpqPZHGlddBAR+GWVBRipWkxd4g16d69qJI6kQMvkUOT8fJkBq9YbOcBiESfrOzCAoGSrHsPx4Eig/e8V7hZ2qPau5auGt4QPhgav2bm7pPsiCexJjB9hPtnmXWbrtq3G2Y2RWSRqK97J4GQoWCKn1z2AFkWVlpcFajcl+Qng53BZhBo9HGAdB/lmjUxiAy4WNftR88z2xxtKeFNz6YQpaWj09let0qcKa6QFnxXSg0DkpPvh/7edF1TQ9pJchIH3JJWdDrK3sd5XyFLxCXjaSDXRR+Ik0khDknezo2QtcWXBf/FYhudAh4UPkhxxlBFmjpCQtxLpVOZIq/yYpQqbG80QsbTsMSn/o5SCKILrDH5wwg5AHgfT7VBBpiW8aTYMVQpy5t1bv39BtWH4CK+os/9jOTX4BYADctbaeICfBypi9X2g3WSMmeYXXEeXeZRGFBB7Dyms/jOcoLF5
+    properties :
+     x : 367
+     y : 511
+     width : 197
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAADqIw4qfVxSMZEOQfqDqOLdapBz/3eIhcBo/I7XH8wCN8ASQXQ8+zyfY60VT4rQ8lP1CniTPMO84jzpsysLltQT+oTUdbGl91ew3IM1etcgB8kJ79jv79OwdiwDFCY7EFO3PChUV+dRdn6I+HaaWpIbHG8Q5Twb539GLOtDHpLh76zvXDn+erHOPS5OndhM/b+u
+        code : |1-
+         IF gfbInDialog = True THEN
+         	// display the main window in the foreground
+         	WinStatus(MyWindow..Name,AboveAll)
+         	// asks for user confirmation before closing
+         	IF YesNo("Do you want to cut all the current dialogs?")=Yes THEN
+         		// Stop the listening thread	
+         		WIN_Dialog.Closing(True)
+         		// Close the window
+         		PostMessage(Handle(WIN_Dialog),"EndComm",Correspondents.ParticipantsID,Correspondents.ParticipantsID)
+         		Close(WIN_Dialog)
+         	ELSE
+         		// Cancel and exit from the procedure
+         		RETURN
+         	END
+         END
+         // Check the video-conference connections
+         
+         IF gfbInComm<>0 THEN
+         	WinStatus(MyWindow..Name,AboveAll)
+         	IF YesNo("Do you want to cut the current video-conference?")=Yes THEN
+         		StreamDisconnect(ReceiveStream)
+         	END
+         END
+         // Stop the threads
+         ThreadStop(csRequestThreadName,500)
+         // Closes the main window
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : INTERR_SEND
+    identifier : 0x257fdd540a02deb3
+    internal_properties : CAAAAAgAAADc/VmV8PX6pvdQYE5r/28a9hmW8gjF93g1xdVBLYR+KiB5kxWDJVLTmvXyvwjNnS7e23g3Cm97az4o8V9zV5MQj2FK53Br7QuNLXufeEcAl3BZxero/PMtrTfOb4TuTgTfHl8BXcC2j5dqejDw+425eSWJvcjhCmwGmyGU0UUdJugnXtwchnvUrrFoAV0s0k5LVETfCVpdkSXQwMYIDcdalG5LA1FRwVjE0akVLlndAlJz3sY7J+zKLVWXYb1Yqb/x/vn+zd3gZAslbNwGeLMGcm792oSpjWB3IC9+QiLDj02qAoOS2upJzF95sGJII8VjwGviRvKNpQwZynwLeRxIEsEvXV0Dsd/pQvuuYGrUJnURZBKaBcjB7gXCHhlsL5fH38NYEIqXcsoWU+/+zXHWWGBJbU94gtHBtB8yUvdXgxLhKVn4qLgGl8T7EEGkpD8hf6YcZMzx6dWZx1XfnE30TO6wKDYrkHPJe0JTSepEIEDhOYmkUnS5xVerD5TMZZDDExTBFUn5BiqmFo0bG40siQLI3gnngBRasHCeyqFwUId+Nic0qwLIZi7+AJ53wY9S10hEnibiA9G32ID5pETRvIaZmn9xu8Pvwiv+AY0/V5TTAcgFodQkgfD7R9UUei41kfiBD/iSzT/zoU6HJEAuybYSkpW4W15sZOUKEQj5BwrOlW0tA6CvouHze2Fe+91gMKaxcBtZsvIA3+GHVb6gvuxSnCCrrV5QgcxmLg5+t+5vJNRwgNWRdr+HGvodl4jrQxah0D42hz0HfiodnqTWY+4Uqg/w0lv2V+Xh1ISKXhFS2HxLjtTC8jQWs5PdO7m08AUzz0sv5fkKzcASqyBgLP2MR/yIOdy/EN4mUMGtqmj58SbI6/ukgNNN8lPzSEIo1tKQN2UA7VXVUcmZGufoROn2RIl+Ac6V83GbgwJADUNvJIP13pKqfNWTo+cMG2y3BxUol6OhRD2K52xnvp7oeQWkZBYesR/+/aiM1u5pvcwww0Pw75Zcah50WoxW4uS004JaQPEtljsGbhf8zJ7zTtixcC13I8/hqzkNE3WOvRbGS7l7qqhCiX0FifegzSx5YRU/LmPMczE4yJH9k77otUKWJgdqvECuQYb/JZrY2W86oj/L6YLOy6nONjqv+HCT2PvCrM+uUmCJLHum0PHDVg==
+    properties :
+     x : 372
+     y : 354
+     width : 192
+     height : 26
+    options :
+     -
+       internal_properties : CAAAAAgAAAAT6vYkVHpDXLxuhjiwVJ5TFY+9YnqvjkG9q8UOIKUhL8/24g3BXS2pbn8Qmn+I7OK2Wy8r70xQXCIKuExxhEGULZr4GEKqBpFBG5du6jYNVyf8TB80okldHku3fh8XzpE04/kABgKtTQ4o3NqtX6iYEd99B+0uOMPcRNCE44V9oOUDGt0=
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1-
+         MySelf = True
+        type : 14
+      -
+        code : |1-
+         
+         IF INTERR_SEND = True THEN
+         	ConfSend..Visible = True
+         ELSE
+         	ConfSend..Visible = False
+         END
+        type : 17
+  -
+    name : BTN_ADDCONTACT
+    identifier : 0x257fdd540a04deb3
+    internal_properties : CAAAAAgAAACBO1+90L27Z25EkEX6zo38T1MYJ9B67buWQjeRusnE34pu/qoQspqIEnkO1UkAlgRoesbhTITG2xoJA9YL23X37z/QjQQy0zQ1ebbSwbR8DIWGrJEFUZCSJS4ZVRIPAjVBwX3O/+CgMsMUDqsQq76eFUWqcoErQfxmlH3Qfa1Dn0qHd8TpTDWPKQ1gUc/p63P4S6QQzg4HQWxsdFk0Lb1LaxZr9gUuK+GXwGoKKNBMvVmSD12eHREHCZL6eoM542Im7rjTmZzs1PqFYVREOyZ+KIa7dL2dWjGK8t8i7mSSIXuHtAf1MopWYbEvK2PSg2S1NDtcRBmbu8prpsQmbFerhJFWVqtsI1B7Ei/R9CPo50zAa4FT1ZV1zt5DJDf7/BmzNCxFAQoZYQLW+uPftk6E5mBMqlSv7Tkr6PYkTkgIpMT2pg7DUffH1JDsyLxaWadALKSEMuZO9d2iYYNVtyMZlNfFZiwgH3H9G0U9tdFM1UdHLxPkg/BwwpynDXa0ugmzC+5SpcAFwu6YUWcAAbaGTBS0kIdC/rB2n69BY5ljVrZ3yPAUWmKR3kHL2R0wANC2/WZHo3z/gmvmyV0YC4auAJyHvxqJICmqfall6attD2lJL/hWwkc4Xdy08CZZ+9T0r+rSaW+8Fy3GVyHCsCKA/iYBgDSWcqXJCdwpVeNJCe6WoouhGQTTlFFk/qA5Qmocfk3OC3zLNHlASSxRIGLXY6kQJy5gmQBs/D6hJuFNFk/atEL5lJApX7ZPKySEj5MyBuIArEzXIJmXrkjAqZ0HW32YHmB+BzVZaayXHE/CfnCrNYs2qjGWxlpaNKn+xE68GqPjEOSVBOpWN/3b3w011bholVNfU/RRLSjXM9Cq7z641IOy11nKpktKKT1s3A7YyZuWrXaOZo3X7aVFgmKlp1bzlSBSBXKMW/TxYrSaiLogGvhz6wCq17TZ1vvAZyRjZvxhj8US
+    properties :
+     x : 360
+     y : 24
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         // Open the window for adding correspondents
+         Open(WIN_Correspondent)
+         // Update the list of connected users
+         RefreshCorrespondentList
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : ConfReceive
+    identifier : 0x257fdd540a05deb3
+    internal_properties : CAAAAAgAAABMSQstaL3KrcfxpjInWAvZTzOKqr/ej/hxAyrW+3Dakd3FC4ENbbghALJB2BKDXzdfhbTpjzR/drfhIg1yrnsOR06+p/6VD7r7LYWwdaqHKINSDkqQ2RHxKcW/KkaqIjfiWdF9HT2krfnMGRCiAHlocCItLIc3QjT2Htg1MWsbECKGlr9OLY6ikP39dtCTH+Nb4epGH6tJGBA/Tb6rRXAy0LGWaulkltkg/+BGrFCy/mnEVARPi/LNHJS1CAu1OB3ufAcHOZ/Bjm8pAfGtXuJ2ZisrHJW/xEcXfqMNR1UGa45TB6dUCjxuLRKyEmClbEcmawQQ99qAND7HhLThbOl07bZEdA1/v1kEFS4XpJgcPlBDRk2rdZA6DyHkMIv0BQeRWYUyHyvP8DkWqugG2a6nSpbPK6YetUzKkX1/DhMoqGbvCpZ0m8kVjm4G9pOR3tjlZIbcPAP+/IeRR1WF+3y8E6iyjbr1KUfKuA+bXj4YOw/5kz6V4E+HboY=
+    properties :
+     x : 24
+     y : 193
+     width : 309
+     height : 303
+    type : 25
+    code_elements :
+     type_code : 50
+     p_codes : []
+  -
+    name : BTN_MODIFCONTACT
+    identifier : 0x257fdd540a06deb3
+    internal_properties : CAAAAAgAAAAZYi9XzxoL7+wJCByUaSLLqPQj6f3dW6fiPKqM5cdwmtDi+nNJCnCAEfLNF55cSYeiGVnu4ygPdfLUIwYRlApuZp3hgul6EfLdHZLaHJXZVso/ul7Y3PtNLYBmzcct7xCNfhwnqZMx3ZEwYXu3yoO4zeTBRR5T10HUoY3+StiHDnCiE+b7tmAQgjOZy6eRksQ6BejsUSZYA5na4G8zTIG2lxR0piCsBOLzhFcB5LDxYJ53c2mQ76s0qKo/3i/FXhJGq/A62cABhrdTP1V6hKubM5T12yB5DcOUFxvP6AnbcxJi+rPN4s1KPLhKeVOHQmr6FyKlVxDL+eN3UtU9VXkHSxnWTXzAd5FCbiM1Eu7oOdlKIX7+YtaiWdLkVpuX3izZE3O+o+peGxKJyYnqls0VZ9Rmp1NXvhVsQjjcTx2/eBGgdF2O3L8RWL9aIsZxp6kbN3gw0Jjw9/vpilU3mcuDXVf3tBrFXpkirBTkAVDhmiSTOOk4tWRHkDId3Mmuy7Mln3Y86vj0uT23Q5g7jO3yDFLajXEdaHvZT4E4NybjZYOwut37+/uuWW+UmT5b1my9IxgyoJ4lij+Ay1tjiLupIXsSf70N8WjqbmPC45WfwUll7EmuCTlBFqWco+NNpAP5GCfEcklT4xQ6sca4CofpLedMguiXl6b4O84XSBJYfZ2VU8NO5RwQXTzGtfYXazl4U9ZkkgGSt5C0gnDcgHGmzQt6VH6pxDwM8o4vSGmPEoj/smwKdCK939v0U03NagLyJnhzACm+T6MWaYdSadgkop2rblVOjEXkkCr4qu2m3dJqVLHUOPKhEMdo8XNYCYGTO7DMhYBwAzzNKFXoaDGxjYHGgW6jUHmR5q8tk/rJFktMEykpCXX2fhrk1eOVkZL4dubyRNQC8svnwrEU1RpNWh8Gkr/GSHM1ZSXq4KiHUqyyKFsFlcFV/IjbVv/2WGpfIVCKvg==
+    properties :
+     x : 274
+     y : 24
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         IF CMB_CALLEDPARTY..DisplayedValue <> "" THEN
+         	HReadSeekFirst(Correspondents,Address,CMB_CALLEDPARTY[CMB_CALLEDPARTY])
+         	
+         	Open(WIN_Correspondent,Correspondents.ParticipantsID)
+         	RefreshCorrespondentList
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_DIALOG
+    identifier : 0x257fdd540a07deb3
+    internal_properties : CAAAAAgAAADYijjc+ndXT5F1oLMcbfvaF4Bqfbj4XKcpXC8qcYx/k25JAn1wwTXyp+NCRTZBdRbQQfaSixxMEbYShwtdOBQ0n7phlpOSEYjX2oBZFzTdrSjLrAlieW3g/30HZ8qsWItCLb4S5pqb7BkTsXqMnPACBLss+JkIDGIeaAxb94ZUim4HGXgmH6ZhlWIknAhJyZnNmdFp8p0/jPt8yF2btSt8tgOGrOTti8/IQ77LDhjmRGA3qp1dp1nuE73MggaIxCm6IMiaoxBV0T9Lde7SAY4KIVkN3MnmzYB1hLLAtXylolHLdEiMXIIsscOVe/6lxL8XgAIE5OMwvoWrcOmqtfe7nXZPYyndTgIAjYDM6DH2tcc1gw78le+4Mlo3mj5tKh21wc6jXWLZBjUyXx5g5vUmDMe/pxgSmDAerJUw3lrfV/5GpyZpdkwe1TafYu17OnjP//UaEXLIKiLmuEdVhrQtck+G2fhg2oLIb0aNkKtPlUBEz6ONdhxnOHprKpVp6g4/OaG5wlP779RaKwRMHaGLhJAazjiMAxL09N8jikGFWTM3+ru/6G1DepJE1bxj+GdkxkJRzgqfy01SIWutRCY+7pQPEatE1kFYVWqlqCDlC+4nR3QvD2fpITVaZ3iMOLceKe7ylU/y8YPsH63ucGdjdh9R/uF+gd5gyoR/ZU7XJPNIjVoafovUpoNYsPHc6MdMWPfrTv4E0KNPHMO5IwUyGLM1WY7y0Mcl0Uan6TyPTVBPtUElS4x1TjQbD/ToIMapFNg5AFiMzc7k21u2CaNyRvtRzq9MOnn1hI+VvTbAE8n9fkMLQAL6CngRE76fAeMEDJ5YDuvNGVZhNI8ffTLHWg==
+    properties :
+     x : 24
+     y : 565
+     width : 530
+     height : 128
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_VIDEOCONF
+    identifier : 0x257fdd540a08deb3
+    internal_properties : CAAAAAgAAABxutINKDVyM0ydQiB2zzyUVIrqv7Mvxo/R2dNnntxhvjbKCXatESxsa5vg8b2nX3N6zSPFmEDGuyAg1uf/hbluIW2M8AsfkBjmOO9Z5HTGrhs6yyx0y1hGD3b7rcghiQEh48WgVz23hTBEZFlSkGMc5G6XT6iXJhGoDa9XmmDHixvx1H4c61uNXyXCSs0zy4YGZhrUGZshhgfTiTwMA2OQAbCpBSaMwklIMnSd0RPa2V6HmRCd9J/bVPcHY8Hrsd2JSyLSFgvJJxJYUA/iZ9561V+2NcvyQubaNWnx1NpVEmZ037Hv2izNz6he3g3sFzUWW4HnE16UVFRKlTGwirBAi315pXPZ1cAGlYxv11LxAMqBxFesJc1RHlXSMDuBqkqyxk11kxaS9inCYjn04UTq0tgkcFWGfVO+Z+PteTfsjyu8SUX6i0G4FWZpGZROXais9ShJ4WY2JhAPt6+tjHKTqhJBfYCpgiJ/APKoTtmqnynVaqByvu1GlY93UUuxQ1/50BTC4eG2p16koAfCjdXaRnwa0CK3alvvyJEZP74lrNMbyvxo6tx1/3bOIVOq0xoX3v8DPpEa8MnFaiDvKHIOhTPyT2nQPtlTg+AQV6/6t75cWOpZ+xUbwOY7PKd1BXIwG9T7vRw3csdBUgb3r9Slq5vkOwOJQtnQF3IGV29oGJZyDDKd4HBqM/HyscmBFy6sJlCfBUDl8OKF8VEhPC7gDQEThKqnvdIKBKkmaWBqlsHw6YopOBoOdferODubXcqO/gYFFdQNPxc+wrYtcf7koe6Pm4v0g3pAbbH4gFPRriTJoGdWkWZcBxhwoKIG4e28XGLDiqQ4O7DTCNEOPd36tC94g2E6adac2lp2/NzcY2Ya1UcLGJ+g6MO/oPQh7ickMmwHKzAAvaENFtZetiBElTKsUW96a26Y+5PNb8kitvMrXel2OYeUy3Ups07LGV1+5Ze4kYSEWYb/7tVwlHzJLMFTh92tlyXzReE+vl0QQgSs9/KB1I895HM/tHZ483ygMMFpxhtcNq1sFykkmsSV+2/uOeGwgqoDi8rvPrUqY1ZNaOJW
+    properties :
+     x : 24
+     y : 565
+     width : 530
+     height : 182
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : CBOX_INCOMINGDATA
+    identifier : 0x257fdd540a09deb3
+    internal_properties : CAAAAAgAAADJCBnjvdvSP9SxeT1k16VYbBRt8dabIzrwuzgOjyK6nhrKNYh76VVA6ZuH50SycckTnUrh5EW3pr4iDcfLaLw0AyaLTrJ+81tKG64fLqO8HfOTr2X8Y4b+WGWXhQ51VWhGoPv953wuwU/lpAWZDTQe0bkLjOX0wKHVIpYy9v/xQsz24qMIc5E9PL5wjqdBZ4jkd0b6EWpGPCflOjg/IR8w+GJFbTx6nhHmpy5xdehtwLX7fiqrFxN/5CP/05hU7146rQMEOmLqb5MDMsDhV9QndlBoAacheeDwYxD3AJP8hKE+M/+hCboSPGvA2URnJ2Pny5PTqeo0HEO6K/FSzDC51eQk3c5RM2JK+EXDKKL8xIstNm4jbgcTpPOu9dlTRYaYr/luiskpnJ+8xCnmgklnXW1OxaJqxzSw71L8/oezl2L9FyM4qih0poFwktUoouvvmh5adshqyohkjJqx5OGDQtKt9uYeKJaq0LiCHQvC6oE7aL70g50oY/fXsh68DZOlbnycLwp0x01A/fcMgUA3qvRnfjtOI0SCIlzoTnMwSq+KpXUUjIpPCWQaon9bbaCICJoXORvISHDQ+glBD6ibQIWQWJZB6zM4zii1NM3Y9tEg4ZckUJCpZoVJr/y1Yp7Ejp9f18hhVEMO51evm7j+lUAe41uKXVsx0+MSmigtL3BBqlKv4dOzPQuz7+PVgI7wsvFkUpK1epK/ss/sWNzWdiiDxUIf5jUBYbQdCeocVHzAqk7DNfsR1+XzEfIxDkHnEidhAu4R/UbjXbroQk5CY28edqpDymbSthUaojsJGbIZ7dfKwrB3w3hfgJU/w9BlyXmEDPF501y8QHhkkQWZ4kdvI4zgwFrBwna3cTvsBABi2GC9xAnx4W+p5tgkU4KqlsaICF1jNHtAZasC/WNr+3EkFxcdd+0W6nkN520HiobqNya9sSvUIi5tdMP4FfpRCsgBGQAs5hH1azXtUOXKYC8347+6fkNZIJFtFKMyjDRIA6KTNw+gkUwSs9bsYnzBqPPHh2Faehs8c9lELDA6l4zBrHM5lg+iqTeYAahoPHGsVGZ4dMGsQIkZolaGJGftsYrAPABnPMEyVGfTqzt85QRLMuhOmoyZ8tOyCCWHzf0T5urVmk46WjIADB/gDFmkrgaQogsEzYzTcsfklzkAEZwqKDUShU1okL0HFk6DGPX8yxC3rcYDw89Bfvct/8qxK8Kx
+    properties :
+     x : 24
+     y : 502
+     width : 122
+     height : 57
+    options :
+     -
+       internal_properties : CAAAAAgAAAAWWSTk1kylvdbvkUUcBLPnW9mplQwQXAAMVBuaPYG99yRC1tz1xFKt0PBIVDZXzYzI1S9GtVXoJFEOveYPO5O3A52+0qA2mvqO7Uoy4bDjavEvxX7yDt1iQzcauqQ53q5I9i/ma0HON9wB/vlOH1VrmVVQzS/KDQ==
+     -
+       internal_properties : CAAAAAgAAABhXFS0mPDgi6Ciw7lYs/1tPqjcGiMN9E5fBavtZP6tctt5+Mxdp7asjLRxP7gDpvmDyf4b/PdGEiF+t7te13YYWUUqelTdMDGm+XJLpIDa1ZFz9Upyd0EfHQsKJVV9A1/Uso8ujjjGXnSXaJRT9XxeFxkv8cDpySDI
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1-
+         // Set the two options to True
+         MySelf[1]..Value = True
+         MySelf[2]..Value = True
+        type : 14
+      -
+        code : |1-
+         
+         IF YesNo("Do you want to apply the modifications now?")=Yes
+         	ModifyFlux()
+         END
+        type : 17
+  -
+    name : CBOX_SENDING
+    identifier : 0x257fdd540a0cdeb3
+    internal_properties : CAAAAAgAAADrpHH4piqQnkhafFDLuArWEVcCSsV1aD3UNh1uBLAsCdZ/hp/lhO4w9xMNcp/a5mUSt6VEpeZe48/Qu/RGZ+kM+AezPQ7VYe2c/mwHFfX+dS9Jfy6ZFZuHeeYkAqxys7kE6Z8FDKzNknid/wEiQmqL4jmLlvdID+OuE0T4JzeAsvCpKjmBaMCnej6oyEK9Vy71Ck9IfjbSFTFyvEvOtX13HGzFeCZuYsqAZT0z7sYfrLskOMEeXjSBY4Fbc47/EARGWqyl4KQj+uqvpsphWPPUBmOTg0sTt8dWKdA8PArcsyQGqdyMfjRAtqVzFT4InOsgGNumhWAKc86V35SB/RzgUN/dd5ZSutrApHDmrQOgRPDGwcYlldwhlp9r7V/a8n/Sw+jLeMYnCY+wH6ZBmmrA/kfWeg5oHKT9y+zlvDts0dA10vKSTPHYMmpPxCbAnDn13ZM3hu9eRwqQP7QBUWd3Fks3KEQouLLUJPmQYxiBWJ1hjKfHNyhe0rFbNtLSlT7baNIJcd4m4cFjigNFKsRyHeT6g7YKWP5A2feMp9vw3OVJTQeusJx5mc/e6SoJSVx9EMxrOE0S+3F7i4hTWWyp+MSgMyGwgvPKRX83GRPNJczmXGtLNndExG4Q2GrloCTEpMjkeCroYsloJ4mHlZ384p+vGkyKzL8natIoqucLkw0Gs5MNCI3jBFUVSSfNEb3zsqOhEZPD3cXuJEhLgEHvhfkDSpFUnG4XGXWDr99pmR4E0owvJKAskMroS7FhvQLeLe7dBlO29m6NbIv5kmN1ZOcKgmJXp2SQTR1dxiox762Rn0vb3T1MBZSBean6HM8kmJZq2IRx3zbiSHAad4bmM5GyhFCCyF4+A08koHZ9ZFeg3Ci5CKDSAkzxwlJFvHgS+q5TW/3V7tYNwgkt0NLruDjdSecRlQPOa9OMh+3uarNY8du1I9RudLdvB68xJkv+3BZ4kTLv6wRcU4Thee1slXYQ7fhHr32khYVGyVioJi8oRtbHjy2AoP62UxPosi5CEHmdMsUuqAejLzEb/sMgxLts7h04ocJCaXF3ORi31YQvM7BwAYBaLIVi9RM1CugLqQeGG3Lb26fWR+NMAcVJaFgbDxGHne9UQ8+yaoEOHOpyLxyAiGwdxlfYut43tcE38prOEW8iEySU2czxR41WkvKhXMFrbF3plWcbKB1R7RO/K/bcfcQkGhnCf3hf
+    properties :
+     x : 233
+     y : 502
+     width : 104
+     height : 58
+    options :
+     -
+       internal_properties : CAAAAAgAAACOIdxsTtSNtd7nmT0k7AtPA3ERzdRItOikPLOC1fnFz5yKDgQNTNolWIjQDP5/pfTQzTdCRe1AVLk+veILF7djV1nS2qgukvK2xZLqWShr8nm3XdaqViUqG18yokxhNgYgzncuE5kmj2SZBvFGF11zgb3IRadSlQ==
+     -
+       internal_properties : CAAAAAgAAACRjGTk6ABwOzDSE2nIA+0dLpgsCjMdhH7vtfsdFM5dostpyPwtt8ZcHORB7+jTVqlzuU6LTAPWcvFGBwPKqzJ8NaG26uRNoKHWqaIbdNAKhSGDhTqCZzEPDTs69WVNMw9kwp8enii2TmSHWOTjRawOp6m/YVAZ+dC4
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Set the two options to True
+         MySelf[1]..Value = True
+         MySelf[2]..Value = True
+        type : 14
+      -
+        code : |1-
+         IF YesNo("Do you want to apply the modifications now?")=Yes
+         	ModifyFlux()
+         END
+        type : 17
+  -
+    name : STC_GENERAL
+    identifier : 0x257fdd540a0fdeb3
+    internal_properties : CAAAAAgAAAD9u3yRUItcZ4LcGYSjcmcy2BqzyWiAOybVYRMEuLljp39wQ14CLE4cQgUSGOuowawLtvDrv1T5s1h6KlIY11YtRNZsCLIV/sHWtIBPw+cWTwkCHO6lemODr6Ca9kqJVbholqlrdgJ8FU3IERUx3fVc2AXE3gOzg5iJbwHyZylns6VVKIdXMwGbXK+s3jw1Iox+fP+rALiJ2pW3X2WUJWoPIZe4YBNH4rjFNGPkx4YQCWPDwbWaQdt8iZA5+CRKCtWIaFu7hd77acxoBNbQM+XHLJdX/iLzzC5y+dWp5dU3ow8MlR1q7AFdpoZDmGCKhJyttern/iW3Fhe/PPzOesq+1OnsCLWkbe93lhMDM5H0UnXOQkHbIDf4Mi+w8i68CwmER3YZlwVrtPbUySbmujHGM44M2Z6485o5gV+fH1YpVuOMvARUZuoeAIPu8UU5fk/bkwUMia105XB6ZqRaXUcx/TSb7xs82YpghV8IdnfSqsPCJ6i1P+A2I1IACKAmU3+gm7aE6ougZ02dNBqNkgJwa3t1Kq9GSMKvkP/8vegBv0VakU98JmI2h3bj36SlVzSIeI4qtaUP6sh0teDsGa4BKB/XMKK0Yz8O9ERBt0E9Ahq9EP4fAfyAzPjSvHna0RXtZVgplO9dGsMj9u2PCoaeGhVhumMTs/Ikp5MfJPKWxLTUJqMhD7MlixHC9DANuk2CSaUSUkUkNlBOZW27B7reS+5yrIT4hUiuFkI1wiRvK1ExKt6V5aZjEAeCu6UVTqLYTROhKgrG8ZAee/w3UsSJkinRQ8VdtwyUiJnD30b8T2Py/bzlH419G5lyOFg/BrRPGgqC/Hp97AmZmFyyL3YBUHHRbmxfkDKV1TfBr11yey+lepHCzKmc71pDWnUXGvkeE5e4quVjTGCLChJOXHp0SZSGLgBn22ZMv2D9MpRx+fqxoaxthA2yVBgLfTj6/2EssfwiCJc=
+    properties :
+     x : 24
+     y : 565
+     width : 530
+     height : 155
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : stc_connected
+    identifier : 0x257fdd540a11deb3
+    internal_properties : CAAAAAgAAACyFGGLVQ+kfRH2zqChjDB904zW509UojjcgkvpbcTrx4eznre/0KBKg+fewsrOlXvZ4A4sOB19qisvyhlccRsnsiun7zWY6TicotW1DlVCXkFl8r9L8FRFRlcM1e04nFAQtuY3wdhlL88qkwHzdyEnM1D7LGDG11EExBc12ax5xOkxFfYB5ADr1HF7irN/Jzu4EKcUVd7Ex+cDyH6AMWebHdGoliB1/hBRueh8JMyToRkcKiSVKxo8qb+fE2klYggYYJPSx4UxU98G2AAEQUHvr8BLMYfG7VVFjuaTGExo3MUe45/1BWwnc6LF8A9WXlP02JHork2xLxAnPawl3hryyUDz+Tri1OjhHrinV/3d5xKckkTRI2xVndhpMHFi2oYDp+5vb0Vcrtblv5w41LTpzKHqt/fn2ifHeHMQyOyLxWp5wF1fJQmIyncRNoSe5Hv8CZ3IqvJYei9k25aIbDSriKwhpFtft1HypFVoIrpb/VtiFx8c4IBqJJ3HuGJlT84flUrIzcnI4sbTCaldEAI6UZY+2Nt0Pc9g03tFLqnRy75WgWllQIrqA4JvpVCUgJ5KO61G
+    properties :
+     x : 154
+     y : 169
+     width : 280
+     height : 16
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_DELETE
+    identifier : 0x257fdd540a12deb3
+    internal_properties : CAAAAAgAAAAEPBJcMr812y58knMVHCH9XfxN3fkEILj7e/6TdY9t773pNo0cCiffbl+YlE0pd+hyhxWO4gNvhlyCACCS7WTkZWXsK+taVfBaj7NEGEUftW8l4QiflyT6RwOoRzxmCRhn95vL3KhWSfdITBtLb+/aLfc2PXrJ00M5IlryWdl1pQRbCS8G2t6+xxNU1pbzs6qAcg2lSwo13UR5EipH08+9o6ThGYpvk8Nf3AIcT9hFKrkG+XD7jR38JF48ASxVYqW8c2TVEZS0PQhaAvKv41AqAs5WnMM93idW5wmqVnkHPSL1KIJqnCIWqco/b6J/LoVEjaaoyvdQkMqnsARTH9+cfUIMCkheIhNVwdj8tuG5ps3rZgHRRt+5HIfU3ZMGPrzKNt4LO23qRKZA15pq4RC19h5CdQOTE1ui4o9R+1wkbQKMzr1pLutkBi+Wg/VvaWFQJxX4PVArgbCA5PCazgy43DUq2GEAtcEAWXBCPET3PvlIbxkyEBwrW/FN9FnzBjsCXD8JBKG/XlBdqh5jALzic2JrqMGBTBkZAsHAqtLRCoSyKyK+UaIUn2Z+4FTd17oZsQJ2da7Z5o6z3kc8j8BJUO75jb/qkyq6wjtv+EB24YOD27mflwjWKhWmbsgyYE8wgIqlwG1utfKeMW7QqTEOuCPL1sQSQb/kHUSgCBVUUn+KRSOzB5rcvbTSXz8u0Eww5SXAmzRAt7QQdqa7A/onyM96rexKacfUfoDZRomOxgzkj/qtQVV2t0ewfjMviEsSph+mvQzvzGENBQRnqMTW+p0/UalfDGcjLNJvE8I4405yRAeHtWC+72CtEIbjyxTK5eAtpFIdWmeRYk3XDh5H3pdPnzkuY/loSzaMPCFaueo6f6ybDWzVMszlDw9IKP8K4lVeS8YR70A/G39ZjF8/t5TfyIEs0+LdryjKv1fsa0eR7UOD09CYhhLHrdRYdFhSjTvwoyk9Y10zgOaSqvzaYGw7IOr4fw==
+    properties :
+     x : 446
+     y : 24
+     width : 99
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         IF CMB_CALLEDPARTY..DisplayedValue<>"" THEN
+         	IF YesNo(StringBuild("Do you want to delete the contact: %1",CMB_CALLEDPARTY..DisplayedValue)) THEN
+         
+         		HReadSeekFirst(Correspondents,Address,CMB_CALLEDPARTY[CMB_CALLEDPARTY])
+         		IF HFound(Correspondents) THEN
+         			HDelete(Correspondents)	
+         		END
+         	END
+         	
+         	RefreshCorrespondentList()
+         	
+         	ListSelectPlus(CMB_CALLEDPARTY,1)
+         	IF CMB_CALLEDPARTY..DisplayedValue = "" THEN
+         		stc_connected..Visible = False
+         	END
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_NoName1
+    identifier : 0x257fdd540a13deb3
+    internal_properties : CAAAAAgAAABEwNO+9DzyqSFjYKChPp5jjxMEE8pEhm/5fxI/AJaRXrw4J39tzRElyC6MZZ5C0JT0/h9DVOfOEKi7QzBVc74F9EFIY3lGv22rUclO0cuMPhP8e62a7jaMtlDgB8aLDwPlIbOHTSzaeZ5wdpHuBHbn+ygcsTqhq+3CFwqTydXjuINLjv3LRnTo+joZbGupySBkfyg4sT5YuUpYfptpr3RGrtyGx6IpxzmjK/Gtjx5Be38hUy3sDyPZHRFrlfYAtWkHmYjdx439+FBuqYgdkpMzPY2d+xIxxl8Dp+7VrFKA9vDhxTMRI4X290dhm5Dexrrqr8dx91KSY/3rLl0kfkOjklICoOYoYYRu4HYrqL1ayxg67qLQkBFXZeuRs6Dis+sJOvB1/dzOZhBXHdt6SGKOIuKgGw7+qiXH+g5FJk4S6J3w279d800bTYlc1ErGbnYKCMXatrKCr7BeIthI/a+7v+w42FMtAyGZs8SA/MyUNJ29m1nZ3wM9dIj+w5XsvEljg+hdTattBzdesBAb9prH1aaCKFfjpZp3WpmwDZWbqWuwtLtA6FRrp4Pgz7ZTjwmlfo2V5gAEkxGD+MnIernrUdU=
+    properties :
+     x : 20
+     y : 12
+     width : 539
+     height : 151
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Using_the_VideoConference_control
+    identifier : 0x257fdd540a14deb3
+    internal_properties : CAAAAAgAAAAjLtaKzjoPbPviImfOrVRoTM/HQAu9wYsG+hLDiYSY8f9BEfNalG+8ls4RBzJ0v1qzL34tNYn6ZB6LsaTeK4kJ9Q63sgvAvrZrHUBxdGPUYQzIo/gVYJaYP9dZfIFHZqv8Ahf90/14klttoqeFp1qjIonjq87izpIk8TUK75sANcke6NR7xNCoTv0m4oYnCmhbM4I7DGdm3y1ieYePx1+oP6EPlW6z0M+Bze8yxX/MfMXwLXLIcTZ2KZFoePx+d0IcIsTmenN2cMUeYg0Fccbgcs0OMSK7efHwh8PcuYvStmBqEqRGdjjtl36eAI1jh98x4pCP2Xo3MB3xFpfZXgS1yzXDxvOhfOHrmIItpplqxL80HnQD4LCwc7FzwXW6toIbj7VbIhi2MsstjyhRFusSFIIEJ6PkTE6SkuRTPd4kbk6vcRE4L7InlTJOoG49b20oqrZTsjyG8CrnZukhICmuWrAS14zjlEt0UCCM38pumrbRgWWGUfG8ppaDNgn2EyzCgD0uNr+B4oLKAOlZODIr0RFzVGA9VkQmR1vTYj1ultGbm2Db52UvHHkYJbXkOXxIGY2i/yMls9FB8U3kiiw9xS1xHJbf6Uh5V0UKoMCRQsyvXnkFbqRzvGc5E4vmbblqyt+iCZG3YLkkIA==
+    properties :
+     x : 32
+     y : 77
+     width : 417
+     height : 43
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Configure
+    identifier : 0x257fdd540a15deb3
+    internal_properties : CAAAAAgAAAC7D6jd3vgaloPjNZVd4hb0IjxYbohyVuwUTQmyCeMXvoVbn72z6+l/IIJ+SSc4dRgmoRXKuirET3T+POMNo2hNVFmuCCdop8CF0Gy7yfjhfRcdECUDQV81acD43+5hUpfUD+wXwFoAKT5594VlWAFtzGLGL3OQ6gxCzfU5rogfytjV+i6MS9gXdO3/SUzu+6s5TroLKhJ9hEN2iNr3wK3CWBWgq38iJEYT4dUwWJs4KnvJlRpEpJB+hnabt55b4EwsB8CTmWQSm6wzVkS1AZpUfs2392wCv360v4Hmq4jrnO8xUjSiSKHJ5S2w+Yx+c8NKyUj8ntBwgjcDqmTkYJCndLbTj9vAv9s0Fo0ux672tsWqXwmp0DWGvY9nu0h1aUNCJejj3AkzRvDQMXrEhYHlIdSiz1q7eJwyG36SprD1f9K2brgMx4yFTKMNCDPGrMefqpBN9TI7hwW0xiC8EhlvRJH2oWgOccFTnbOIstGgzlsBO3Nvj+IeFtDgJ2UDv4V7VJEk6ORfQudAB+K0lt8BeaipvzvVWrDB6DjlfShKGD1Z0xQmA1pgHNtV1njG1lvjvw++8oUbuBi4yZUpG9jtA9K/FtYTTNG3E40Q5OsFEppYmGprmNO6lGW+USrHHOtG76MQFiRMVT90HQZyHtRACS44NQnXTi2/oCAPyHIsgPbBsU06mYs4QPaXX+RI6cxJw5gmQz9uBL8/lHU4VnqZWUWFi0FzQCT0nCHii9ITWUFTu6NrFfrXiO+P9ZirnWvxmvJvocHY/z/i6Q4ZQc9Li15uBxcq3Btb9P+JHkqFV7wbA4M1xVakF7xSzYEl5Eqwve3GHvL3CFCCXXo=
+    properties :
+     x : 465
+     y : 85
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         sSTUNServer, sTURNServer, sUser, sPassword are strings
+         
+         // If the configuration window is validated, reconfigure
+         IF Open(WIN_CONFIGURATION_TUN_STURN, sSTUNServer, sTURNServer, sUser, sPassword) = True THEN
+         	
+         	// Configures the STUN/TURN servers	
+         	// StreamConfigure must be run before initializing the Conference control
+         	// Therefore, Use is used to restart the window
+         	StreamConfigure(sSTUNServer, sTURNServer, sUser, sPassword)
+         	
+         	Info("The window must be re-opened in order to take the specified parameters into account.")
+         	
+         	Use(MyWindow)
+         	
+         	
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : COMBO_Camera
+    identifier : 0x257fdd540a16deb3
+    internal_properties : CAAAAAgAAACujjVEZbu2ZwL/fr+awQseHG9azbiRw36gEdpvOR1vgUMKpOZ/Ss9YiO9D13/XFbxhw/bQ5pJa337MGOi9GzQ8cseqjB/SjrKhCo3zH4CCxZgDZZ0YR1+m9R4pKX3jrOotFEH/LWddPm/poFeA0+mGxvoap89gzzAOiKlpIMPs6Yt4/LNKtwCL1u1qqkxVW4WB1Y2NTDjjFwFKR+hQdUrdYy54ta+A5FY34o+QyAIl303m9mygjzJ6cn2oE/DYLHYicLxl1WC4yhVYsdnq54eMtxjKk6DO20Pkzz1geHUvvWCfM73o3nwfituZlvSVcZH/KlKENNGqqh1GX12x+8mwLiZIxD1j6zz8l+0otHFskocAAFU5BJkZsc68lk4tsJnZu3PxMzgY7A1FeZMhEEohAj2QAT5AMG4BXDLoBhnq1rhXParfkfcb4wZ5WmYl5RcSjF7SMJFY1GQL9sdEa1uJnOHkJCfN/qORmNWwa0/7i2tJeiKkeFymXN/qXz4sfCBigpJ7yCYptq7u92vyOzebmVrKYM8hXycAD7t2juOVfoO/BYRoNWJ0zbfFsDiPcXA2Ux3s4fBsPH6tWXrPnwgH+f6nNL7oPUHNZv2w5fCBqw18a5tSeTKy1zcp3DRMMtgoBlT/m39Labs6muL3Qn+6IEnYiEOojRE9rAZdlW1XR22b7cNfky0Fivtrcs2eUma1EF5nrM6BXuV5pNhzaHya8du6Zqoz/edrQgUkM8EqCbzzXQ/orAmcOGFIYmsj6R3Up+/4phsjMRY55EKGgLviuiMGRfyIlglRXqpdh0lvu/Efujt+b9YbStEayRyBJXknu7aE3vT+maD4zWkbJ7yv+ieHtthyl2M9pTf5YW2wJk26rxXjjiR5iJOaNlgAGEnTByjSEkdQpYgqB+//lv7RhvOQA2gIYyOENDXHg7UuFHh39dyweHfl22iaYynkKgqyai4uNImVPIiTjNxi+weKqlpxJdN7L3CTSJMu3i27cXcokK1Ebicg1aUnX9sKRnd9aFLmbcozylyff1P8n6DfRwyeq7/SFxUYO09gx0HI8r81zzbYdtciFmT2CSA3byUDSfbW/nq13KdnUzOoUmaPaSisNZCj1CNB/4+y1PnJfBuo4WQY4ba5TeBlyqS3m4nTkbD2LIj6WWUA6FfgUtQGW+JEEym7+vzX+nNi0rWrqOVX5KQjHxXsp4NkMuZmL+AplEqchUntZ2QwaMmF0VMI0ksLjv6X7HvoFvsDV+614uaihdVmMo+7jE4C7zpit0JG1Sa/5fUcNT36ysE/Z14WIiohdlM8WCXsk8QUDVcY0lSykOItOS743b/nGKE0vxIYdMsL0peIYcxnVkcEV0A/ThysF9XmP+PQhgskVQV/AbhHNpjYRf28Ap73kBzFFxfnhVHMARH8WgwS+i6dmIcYbdAqiRqZ4DMLVvBuABlbR/k+N/GS3UgkSfI5fr5mQy2+hXJVdJACl80L0Tju0sLhpFKOQc2V6/HDX4Zl4b0M/i7Htv+5QqKlW6GINe8pXKvu3OqZ1NRHYVLyQleLv2w73eUMCLU1g3E4DmkX1AVEED31RHBsuUuOHXNfpKv5XA4pTwKbpIl7KWn2I+xVa9k+FYnNf0Qv1nN5CSuZba67eVcZ4TSxcjuQiZrhQLzk69bzDFk/958dy5ZIz1lDRrRGB1UYYzg4jDhoQJl1oi+W/fhr63A/Ioi16x4RK8yQOivOe+wX+mnNKo7yBcPCdGbpqoJsSmg3iOyG
+    properties :
+     x : 368
+     y : 201
+     width : 191
+     height : 22
+    dropdown :
+     internal_properties : CAAAAAgAAACkqWOw/9wKOLtauXTsjaoGVTW5lFF+vRhMf47lConyYnJmGr+GZ0BkIn1BMpy88DJwCuOrXKRRtBsc4ign10JswYaJQLMYDJX8Qig6AsaVHnCkKQX248vtqmHDkPikV+xWkHc0VRHd43VDt+roROn1nMKeEdB6yKe3rHQDBDWOS9THIs1C5WiEoiuuMy16z73j4vMm4E2HbmUG7fXYizU+z+VzPuqKJarTqus3gx3Y8zGUheMph/f1c2zeK25l6LP2PYPQSbnmleAMPXsg8RhVBC+y+Txj0obvOCQLYu7iyJYP0SCnrOeG745asWompyTqIfBnI6n3OfKBkLt1HTVjDMLRnkDzz6ksAd35ytmqpaVCF1j/vDYdO36ahizpyabfZj2KGa7Autb+obqzgVJglfyzIHex9b4MzcTNgdwTPU00ZVH1io89Z72s/WZMUaN6IhTQvazqeVD+uRuzKktzKTsVTnO8XkCw40t+fUzqk2fghyy6/2rfqfK/AQAMPI7w9DZRI/7eZJy82Ud1eapUvEMkzTZmmh0jJ7r1oNbHO15jsMMCrPHjrQeBaHgFQuOxwtPSv1K99deW767rQrBhxux3XR9qSlWtiHx7Ve26rMw8bRq9pA6xWNZkwyP8Cc5FgOae1OS6l1h3nn5Mv9ooTrXh1dd8P6ImDcvj35h7rAP8Rdx5PD3F/pPRnqb16EJEUt3iyorEKQ1+PD4Pflj2plKC1A8lufw9ChAWWduhJTnlQPv5UHg4lpTvRdDfNaEr0VaUBi4TklXHvUYLdY9RgA==
+     type : 7
+    type : 14
+    code_elements :
+     type_code : 23
+     p_codes :
+      -
+        code : |1-
+         sCameraList is string = VideoListDriver(viDirectShow)
+         
+         IF sCameraList <> "" THEN
+         	ListAdd(MySelf, sCameraList)
+         END
+         
+         // if a single camera (or no camera at all), gray the control
+         IF MySelf..Occurrence <= 1
+         	MySelf..State = Grayed
+         ELSE
+         	ListSelectPlus(MySelf,1)
+         	
+         END
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         IF MySelf <= 0 THEN
+         	RETURN
+         END
+         
+         // Changes the camera sent
+         StreamChangeDriver(ReceiveStream,MySelf[MySelf])
+        type : 33
+      -
+        type : 17
+        enabled : false
+  -
+    name : CMB_CALLEDPARTY
+    identifier : 0x257fdd540a10deb3
+    internal_properties : CAAAAAgAAAC81M+UYkeIBiPjFa//RRHFvEIx2NWMW98z1EM7zHmILLHMkQAQWo+lYOwy7ps2bfoJ+uLvuz7vKG6qEemT/gznSEsy0xg40oGh2tz2cddqGx1Y8QUaO0tUzuH7+FFDzAnN/FyniJIF1N3ysTroDWJyvuLf93vpK0VhbCo7bUy8VSBj7rOHpPa8EVLJ6sVCQjfhO9PXbYUCinPeLFibf7CLstYXZ6F55o+j77swnr97bt296klilrqN1GMg97uRpZ6cQiah1PgKdak57Lm3fmpu2aq7e6NShVSP0trlfSI+17Oc0y0t08Rz5kABSsUq9kqApQrjwPQrDGk0ayLSsKTazgf60AB9jL1y5xu2zH1jx2AVmPYHdKdMX/mwm8tCqt7IXteH+ksDBOEonlkcndOwOjop656DUSgqExT2a45a8kIw4dE3qbVzLauF9pcoEDZ7oak9C1JZIBgK8F9ZE/Oe+e/M3/qwngm6May7/EY2OW38MME465M2zA+TY7BuTvH8BAAnvM7WPRGGD6SBxGRUFTV6u2gyde8OT0UGF7MjH2zExAX3BSdlrCIdHwMsrGm9hE0epU6m3DzbqUczT3G5V3iscgsCzlgqm1apf6BBuHqLkjU7GyDh1tgRHqfgSePN0ezDAWs7IV2K5wAj8etKpbEw+DaXF+iA6sr9ZjkviKcMzWSG3fri9AF2b3DqAKparSUD3pw4p2ln249UIb9vv8SUzBVpLdfcSWBE9mUsA4crZ1pP1UH/QhxN4nOXh01zkTEu6kcE+Qsa6EbulQW+CZlomdCOenBNLBVAcZ+//H38tTDywQNUs6IIabWr7fwoCcJsw300eTNOrCQ+aYrlL2GEsw+3Ll3waq98agTZTHxcbu8G+Cmf+Ydt4tx+w9v5GQO18a1q4RW1WxcUTxJ1re/D+/TVU2R/Uz2zBX8lS3JABb3KiMMx//x+pvv5VG0c1JdNCdjza8p0rYe3CVC6gRXe304FkF7Z/2rAyDCVAxbzKKB1hveM3Fc27QJA7KlbQiPonWWMV6zTp27/NUfMYneP330p5kI9ldOBOrzQnS7oc5jMPgifArSxXnMrzgdNnoTxDYfAHMen/aUTRyrak0zdwX2enaO1RiCzZQzQEqwvbYlJ3Iy2V2v4wJ/9ppWWVXusvxGY5mjWlnMKIfdkqrGzgrm9GDj62JxDW7Gx7p34mSZm4LFAIwDxRu/IWQX6V/aIaGHuOrYmVbqpLgTSIK0u/7JmvBQUN1B+ABMthpas4qllDEM9k/C8S2oppY2RZHtsZozYEaMqpxlI68b0vjIYHF5oMnHPwtoNYe6mphi7vScsdN2V46oCdYyU6B/LKl59GgFev4btYEiEG+qIFJhzn1ShjWh54gKkDjSDP5Zus9QuT593/jFP5a7kqPW3Uk2I4UC+QkoFIxeqTGXr87jFT0UZ2G7KxmGydOjrfGnCCgF5IBd9fWzCytL7uyC561OyJ5VF4M4shlDv8LU2SW5QHgfm1W1nYKOBNRCQdPmfDJpKVw==
+    properties :
+     x : 32
+     y : 26
+     width : 236
+     height : 22
+    dropdown :
+     internal_properties : CAAAAAgAAAB7tALW/+StFdDZX8bN/wxKfKS84HVkYopkBH7Owuw3GmGZ67O4PSSvOUPRDPoEaeGIoYRu05Qs0M587q9cXVfbASNtTo/EjeZjTV00sT67gJUDX/QQCYNxRHEM1pKbwd/3afiLWZQcWJ51ndnNXItjRE3LEMrIOwh/Fkxj/XJiYn9/VpLTqlVhwqx9JQPC8F1u4/Q6whIwpOfdXwW18iyWb+k7Yae2PiMi10O/k8daoT9t/cvpHns8MKS725gOSp9RrKtoX8vT6SuaQm4WtS05XJDHatgfJD+GCFPbBOj+UmFSGRz/mEJ4hxZzbaLATlA/noy4DsIiKnA3JerIa20OEyA/SEU3s7BJteeM76O/vB4gNXxzxl1bZ4KAXvqgjHX8XgGKYM7Be69nNwloTcG1VDSqWiofgZnlaxwVng6t0FkEBDGRMfKpJnfV1cF7XeNJ49rYoieeGzT/H1Jf4B3x8oxJ3ysK9S2d/IlLI+BbNhmyWHP+mYc9UKKt8aEK1I0zSsLKZq5bNksBsIYkYdhU17IR/xh0oQfAceCYkgCy3sR5zzUSLtMoaIv3Df12o9Qk7tIUd2zcTgAwREwUteC1dfOYLD4iNdFSGtsBdZuMwWxD4gOEHw==
+     properties :
+      width : 198
+     type : 7
+    type : 14
+    code_elements :
+     type_code : 23
+     p_codes :
+      -
+        code : |1-
+         RefreshCorrespondentList()
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1+
+         Message("Searching for your correspondent")
+         HourGlass(True)
+         
+         // Check whether the selected correspondent is connected
+         IF Ping(CMB_CALLEDPARTY[CMB_CALLEDPARTY])= False THEN
+         	// The correspondent is not connected
+         	// Update the interface
+         	GP_BUTTONS..State = Grayed	
+         	stc_connected..Visible = True
+         ELSE
+         	// The correspondent is connected
+         	// Update the interface
+         	IF BTN_DIALOG..State = Grayed THEN
+         		GP_BUTTONS..State = Active
+         		BTN_DIALOG..State = Grayed
+         	ELSE
+         		
+         		GP_BUTTONS..State = Active	
+         	END
+         	
+         	stc_connected..Visible = False
+         END
+         Message("")
+         HourGlass(False)
+        type : 33
+      -
+        type : 17
+        enabled : false
+     orphans :
+      -
+        name : Nom
+        identifier : 0x2680c883129dcd78
+        code_elements :
+         internal_properties : CAAAAAgAAACiufC5umUnSSPRufZwHJq+NK04+USVG47WyhAvosq6Og7mw5poiZRH9KplrRScJoaDXvxCPe6SybaGuUxLUy9wQqqg
+         type_code : 3
+         p_codes :
+          -
+            code : |1-
+             
+            type : 14
+          -
+            type : 15
+            enabled : false
+          -
+            type : 16
+            enabled : false
+          -
+            type : 276
+            enabled : false
+          -
+            type : 277
+            enabled : false
+          -
+            type : 278
+            enabled : false
+          -
+            type : 17
+            enabled : false
+      -
+        name : Prénom
+        identifier : 0x2680c883129ecd78
+        code_elements :
+         internal_properties : CAAAAAgAAAA99FH5hCrNcgqRkoyWJDzBSD78P3MhDjXgC2xIXMIy89e3TdVp0kL4J6f/+8KBiL4POQjxEnpBxH5r7P9GkCo=
+         type_code : 3
+         p_codes :
+          -
+            code : |1-
+             
+            type : 14
+          -
+            type : 15
+            enabled : false
+          -
+            type : 16
+            enabled : false
+          -
+            type : 276
+            enabled : false
+          -
+            type : 277
+            enabled : false
+          -
+            type : 278
+            enabled : false
+          -
+            type : 17
+            enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2680c88312a1cd78
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADs5JTN8p9POERzieMNXLJNbW9Fe5p5wGq+zU2Lh9X8yO7Ly5zO62Mkas00ibLsNbFG80IYhFacd1w93VfsYi+ORzD98ZgV21ekn+qbDqmIzmAoY1+UI16345Cy9m5X
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABIWciU5HmBh0nyj4aUKPVeRF3OdUFO1EztcHxE5pAK8TmaTu92UWGMHYHa3emKze1K+Tg7rezFJl0NE28HNke+Ph3F/SDlVo3BV2tb94rIMqHvCQkv0nkH/N0afyDinVSY77iUX5OgP18AhhoS9VJTm2WQDYdYmTC6BZlsGvNci4Pas6kAf0ivbwwJxTL16XRI+PJnsV8wn/R8YbNYcZHutAZIal3B/h1wflM8/b4oUxp2saf4mMdLFesk+fb3McUyOcuPV4eW6jFxxk5K/fEVSD/xtB5cUIBwp4YZM0jCg0XBhd4VK7iegjxUoMH1RhwXxePku+D6989BBPOkp49GZGWza2dJGV59Ycciu9w=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      GLOBAL 
+      	gfbCut 				is boolean = False		// Boolean used to find out which application has cut the connection
+      	gfbInComm 				is boolean = False		// Boolean used to find out whether we are in video conference or not
+      	gfbInDialog 			is boolean = False		// Boolean used to find out whether we are in discussion or not
+      	gfsName 					is string 				// Stores the name of the person with whom we are in discussion
+      	gfsIPAddress 			is string				// Stores the IP address with which we are connected
+      	gfsIPAddressVideo		is string				// Stores the IP address of the caller
+   -
+     internal_properties : CAAAAAgAAABYxSC3Cp1yBTyrJ/2BTkhMB4j8437pso3GJmARvJbefoMzFHNVs9rPLVES9eVbPfgC65HHpasFtl6ZO/kjk6EEFE5DrzcSkvELUv2opdnOY7ofHWDpuTnI
+     code : |1+
+      // Implement an event to manage the opening of the "chat" window// Automatic process of errors: display the error, then exit or restart the application
+      //
+      
+      Event(ConnectionDialog,"*.*","CONNECTION")
+      
+      // Listen to the requests for connection and for presence tests
+      ThreadExecute(csRequestThreadName,threadNormal,ListenConnectionRequest)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+   -
+     code : |1-
+      STC_DIALOG..Visible = False
+      STC_VIDEOCONF..Visible = False
+      STC_GENERAL..Visible = True
+     type : 66048
+   -
+     code : |1-
+      
+     type : 66052
+  orphans :
+   -
+     name : ReceiveStream
+     identifier : 0x257fdd5409fddeb3
+     code_elements :
+      type_code : 64
+      p_codes :
+       -
+         internal_properties : CAAAAAgAAAB5u2yms401VpFqZ+hMR6Y/UYsOzEY3p4uJMCtG6PUpKXv2uLhlAtVhkrlvNuzSqzxhnHi0xtrJbT3kx/j1+5e7Uvorvh6DK23HuaGv01V5CZjyy+KnRt3cl8/Uj7TUZJfmsqZcG9lTXRKkRR4=
+         code : |1-
+          // Procedure used to detect a new stream
+          // nStreamID is an integer variable containing the identifier of the stream found
+          PROCEDURE NewStream(nStreamID)
+          
+          sCallerName is string
+          // Searches for information regarding the calling number
+          sCallerName = StreamInfo(nStreamID,StreamCallerName)
+          
+          gfsIPAddressVideo = StreamInfo(nStreamID,StreamCallerNumber)
+          
+          
+          HReadSeekFirst(Correspondents,Address,sCallerName)
+          IF HFound(Correspondents) THEN
+          	sCallerName = Correspondents.LastName + " " + Correspondents.FirstName
+          END
+          
+          // check to find out whether the window is locked by an addition or a modification
+          IF gfbInComm=False THEN	
+          	// Confirm to accept the video-conference
+          	
+          	IF YesNo(sCallerName +" wants to enter into conference with you,","Do you accept?")=Yes THEN
+          		si StreamAccept(nStreamID,ConfReceive) = False ALORS
+          			retURN
+          		FIN
+          		gfbInComm =True
+          		BTN_CALL..Caption = <§$0003§>
+          		GP_OPTIONS..State = Active
+          	ELSE
+          		StreamReject(nStreamID)
+          	END
+          ELSE
+          	StreamReject(nStreamID)	
+          END
+         type : 37
+       -
+         internal_properties : CAAAAAgAAABTJQpxtU4G5v98H7r8xzi5+w2MfOitUxPHanuYqCVvt7G01mBbeHmNGLOzdJCe5c6f6orA0NTWeAoxlCkkrFr4EdXofzmorJyw8i64Ov7UHk/93McOFzpbHLzJIDtd0zgp2UvFpqcemlx+r/Q=
+         code : |1-
+          IF gfbCut = False THEN
+          	Info("Your correspondent has cut the connection")
+          END
+          // Update the caption
+          BTN_CALL..Caption = <§$0015§>
+          gfbInComm = False
+          gfbCut = False
+          GP_OPTIONS..State = Grayed
+         type : 38
+  procedures :
+   -
+     name : Connection
+     procedure_id : 1549200149725896371
+     type_code : 14
+     code : |1-
+      // Syntax:
+      // Connection (<sAddress>)
+      //
+      // This procedure is used to connect the video conference stream to the remote user
+      // 
+      // Parameters:
+      //	sAddress: IP address of the correspondent
+      
+      PROCEDURE Connection(sAddress)
+      
+      // asks for a connection with the IP address
+      ReceiveStream..Identifier = NetworkUser()
+      
+      // Asks for the connection
+      IF StreamConnect(ConfReceive,sAddress) = False THEN
+      	Error("The video conference cannot be performed.", "Details: ", ErrorInfo())
+      ELSE
+      	gfbInComm=True
+      	BTN_CALL..Caption = "Finish"
+      	GP_OPTIONS..State = Active
+      END
+     type : 458752
+   -
+     name : ConnectionDialog
+     internal_properties : CAAAAAgAAABPK5hMiC6aeq9vUU65Il12eAZyw98xzDw92dhr7ETtTbgmu1O1G5uUDiUoJAIVxThebNhw4zhq/JDr7jLTOZ95VhcGT4xyLuV4XdXekhCVzXRFcS8EXNEert/v6f4HE5lFTKDSbwxFnhWMOeMhGrHTVjAcJgG2gZljLKxkwSjL5QCwWkISEjXTeWxXMnjFhpMzzvSTxc9+sxv6/su1H2Q0FtVpfb/yFoK8+g08BKCFu7dqdCx5mkXG
+     procedure_id : 1549200149725961907
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //ConnectionDialog (<sParam>, <wparam>, <lparam>)
+      //
+      // Parameters:
+      //	nParam: Windows parameter for calling a callback
+      //	wparam: Windows parameter for calling a callback
+      //	lparam: Windows parameter for calling a callback
+      // Return value:
+      // 	None
+      
+      PROCEDURE ConnectionDialog(sParam <useful>,wparam <useful>,lparam <useful>)
+      SWITCH lparam
+      	CASE 1 	// Connection time-out, the correspondent did not reply within the time-out
+      		// Display the dialog box
+      		DelayBeforeClosing(2000)
+      		// Ask for confirmation for the private dialog
+      		IF YesNo(No,StringBuild("%1 would like to have an immediate discussion with you",gfsName), "Do you accept?")=Yes THEN
+      			DelayBeforeClosing(0)
+      			EventChange("CONNECTIONSIG",eventOpen)
+      		ELSE
+      			DelayBeforeClosing(0)
+      			
+      		END
+      	CASE 2 // The correspondent has refused
+      		DelayBeforeClosing(1000)
+      		Info("The participant has refused to have a live discussion with you")
+      		DelayBeforeClosing(0)
+      END
+      
+     type : 458752
+   -
+     name : ListenConnectionRequest
+     procedure_id : 1549200149726027443
+     type_code : 14
+     code : |1+
+      PROCEDURE ListenConnectionRequest()
+      
+      
+      sChannelName is string 			// Name of the channel to associate with the socket
+      
+      // Wait for the messages with locking listening
+      WHILE SocketWaitForConnection(csRequestedSocketName)
+      	// Accept the connection
+      	sChannelName = SocketAccept(csRequestedSocketName)
+      
+      	// Check the connection
+      	IF sChannelName~="" THEN
+      		// Connection error
+      		Error("Unable to accept the connection",ErrorInfo())
+      	ELSE
+      		// Play the request
+      		ListenMessageStartRequest(sChannelName) 
+      	END
+      END
+      
+      
+      
+     type : 458752
+   -
+     name : ListenMessageStartRequest
+     internal_properties : CAAAAAgAAAC00cj3cio3LkWHXUYUoMsgg0mQubWvahVRkH0r1w0aGH6ptMbt1QRE5o9ufoVxjXhJ8ZXL2fQ6ftfQLAbc1pG3LxQPZH7jVicXbW2j+GcgeubPjgdy3NXwvFffjrnG4r+xWCs0B+Ayem5DvLXo0Zqf1DY1inkyNEdkI2MqrvmwBtdviGHFM2loSwTDRVZ+b/g0GDi0wGEUuLi5rHHuEETiFdA5zg==
+     procedure_id : 1549200149726092979
+     type_code : 14
+     code : |1+
+      PROCEDURE ListenMessageStartRequest(sChannelName)
+      
+      sClientInfo is string
+      sMessage is string
+      
+      // Check whether another user is connected
+      sClientInfo = SocketClientInfo(sChannelName,SocketAddress)
+      IF gfbInDialog = True THEN
+      	SocketWrite(sChannelName,csNOTAVAIL)
+      	SocketClose(sChannelName)
+      	RETURN
+      END
+      // Analyze the result
+      IF NoSpace(sClientInfo)<>"" THEN
+      	// Search for the correspondent in the address book
+      	HReadSeekFirst(Correspondents,Address,sClientInfo)
+      	IF HFound(Correspondents)=False THEN
+      		// This correspondent is not recognized
+      		Message("Query from an unrecognized user: "+ sClientInfo)
+      	ELSE
+      		gfsName = Correspondents.LastName +" " +  Correspondents.FirstName
+      		
+      	END
+      		
+      	sMessage = SocketRead(NoSpace(sChannelName),False,30000)
+      	IF sMessage[[5 TO]] <> "" THEN
+      		
+      		IF ErrorOccurred THEN
+      			// Error while sending the acknowledgement
+      			Error("Unable to respond to a request made by a contact",ErrorInfo())		
+      			SocketClose(sChannelName)
+      		ELSE
+      			IF gfsName = ""
+      				gfsName = sMessage[[5 TO]]
+      			END
+      			PostMessage(Handle(WIN_Main),"CONNECTION",1,1)
+      				
+      			IF EventWait("CONNECTIONSIG", 2000)=True THEN
+      				
+      				// Wait during 50 hundredths of a second to be sure that the signal is closed if it must be closed
+      				CriticalSectionStart()
+      					// Save the current address
+      					gfsIPAddress = sClientInfo
+      				CriticalSectionEnd()
+      				
+      				// Send the settlement	
+      				SocketWrite(NoSpace(sChannelName),csACKOK)
+      				
+      				// Ask to open the "chat" window	
+      				ExecuteMainThread(OpenChat,sChannelName,0)
+      				
+      				
+      			ELSE
+      				// Time-out: Connection refused
+      				SocketWrite(sChannelName,csREFUSE)
+      				SocketClose(sChannelName)
+      			END
+      		END
+      	ELSE
+      		// The name is empty so we refuse
+      		SocketWrite(NoSpace(sChannelName),csREFUSE)
+      	END
+      ELSE
+      	Error("Unable to define the IP address of the contact",ErrorInfo())	
+      END
+     type : 458752
+   -
+     name : SendMessageStartRequest
+     procedure_id : 1549200149726158515
+     type_code : 14
+     code : |1+
+      PROCEDURE SendMessageStartRequest(sIP)
+      
+      // Create a socket name for this connection
+      sSocketName is string = Today()+Now()
+      
+      // Attempt to connect
+      Message("Connection to the IP address: "+sIP)
+      IF SocketConnect(sSocketName,cnRequestSocketPort,sIP) = False
+      
+      	// Connection error	
+      	Error("Unable to join the correspondent",ErrorInfo());Message()
+      	gfbInDialog = False
+      	BTN_DIALOG..State = Active
+      	RESULT False
+      ELSE
+      	SocketWrite(sSocketName,"100 " + NetMachineName())
+      	// Connection established, waiting for ACOK
+      	Message("Connection established, waiting for participant response")
+      	SWITCH SocketRead(sSocketName,False,30000)
+      		
+      		CASE csACKOK :
+      			// Connection accepted 
+      			Message("Looking for the person called")
+      			gfsName=sIP
+      			EventDestroy("SIG_DISCUSSION")
+      			EventCreate("SIG_DISCUSSION",eventAutomatic,eventClose)
+      			
+      			// Search for the correspondent in the address book
+      			HReadSeekFirst(Correspondents,Address,sIP) 
+      			IF HFound(Correspondents)=True THEN
+      				// Ask to open the "chat" window for the specified correspondent			
+      				Message()
+      				ExecuteMainThread(OpenChat,sSocketName,Correspondents.ParticipantsID)	
+      				
+      			ELSE
+      				Message()
+      				// Ask to open the "chat" window for the specified correspondent			
+      				ExecuteMainThread(OpenChat,sSocketName,0)	
+      				
+      			END		
+      			
+      			gfbInDialog = True					
+      			RESULT True
+      		CASE csNOTAVAIL :
+      			// correspondent not available
+      			Info("The person called is not available now")
+      			Message()
+      			gfbInDialog = False
+      			BTN_DIALOG..State = Active
+      			RESULT False
+      			
+      		CASE csREFUSE
+      			// the correspondent has refused		
+      			Info("The correspondent refused to have an immediate discussion with you")
+      			Message()
+      			gfbInDialog = False
+      			BTN_DIALOG..State = Active
+      			RESULT False
+      		OTHER CASE :
+      			// No response from the application of the correspondent
+      			Info("The participant did not respond within the timeout, the connection will be abandoned in: "+sIP,ErrorInfo())	
+      			Message()
+      			gfbInDialog = False
+      			BTN_DIALOG..State = Active
+      			RESULT False		
+      	END	
+      END
+     type : 458752
+   -
+     name : OpenChat
+     procedure_id : 1549200149726224051
+     type_code : 14
+     code : |1-
+      PROCEDURE OpenChat(LOCAL sSocketName,nCorrespondentID)
+      
+      // search for the IP address of the correspondent
+      sIP is string
+      HReadSeekFirst(Correspondents,ParticipantsID,nCorrespondentID)
+      IF HFound(Correspondents)=True THEN
+      	sIP= Correspondents.LastName + " " + Correspondents.FirstName
+      ELSE
+      	sIP = ""
+      END
+      // Open the window used to communicate with the participant
+      OpenSister(WIN_Dialog,nCorrespondentID,sSocketName,sIP)
+     type : 458752
+   -
+     name : ModifyFlux
+     procedure_id : 1549200149726289587
+     type_code : 14
+     code : |1+
+      // Syntax:
+      // ModifyFlux ()
+      //
+      
+      PROCEDURE ModifyFlux()
+      nMode is int
+      
+      // Update the nMode variable
+      // Transmission mode of the stream
+      IF CBOX_SENDING[1]= True THEN
+      	nMode = StreamOutgoingVideo
+      END
+      IF CBOX_SENDING[2]=True THEN
+      	nMode += StreamOutgoingSound
+      END
+      IF CBOX_INCOMINGDATA[1]=True THEN
+      	nMode += StreamIncomingVideo
+      END
+      IF CBOX_INCOMINGDATA[2]=True THEN
+      	nMode +=StreamIncomingSound
+      END
+      // Stops the stream
+      StreamStop(ReceiveStream)
+      // Replay it with the new parameters
+      StreamPlay(ReceiveStream,nMode)
+     type : 458752
+   -
+     name : RefreshCorrespondentList
+     procedure_id : 1549200149726355123
+     type_code : 14
+     code : |1-
+      // Summary: Update the combo box of correspondents
+      PROCEDURE RefreshCorrespondentList()
+      
+      ListDeleteAll(CMB_CALLEDPARTY)
+      
+      
+       FOR EACH Correspondents 
+      	ListAdd(CMB_CALLEDPARTY,Correspondents.LastName + [" "] + Correspondents.FirstName + gLink(Correspondents.Address))
+      END
+      
+      IF CMB_CALLEDPARTY..Occurrence = 0 THEN
+      	CMB_CALLEDPARTY..State = Grayed
+      	BTN_MODIFCONTACT..State = Grayed
+      	BTN_DELETE..State = Grayed
+      ELSE
+      	CMB_CALLEDPARTY..State = Active	
+      	BTN_MODIFCONTACT..State = Active
+      	BTN_DELETE..State = Active
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenPrincipale
+resources :
+ string_res :
+  identifier : 0x3fcde26424f97f54
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Done
+     index : 3
+   -
+     text :
+      en-GB : Videoconference
+     index : 21
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

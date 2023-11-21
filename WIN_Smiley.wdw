@@ -1,0 +1,162 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Smiley
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Smiley
+ identifier : 0x257fdd560ac1e680
+ internal_properties : CAAAAAgAAABf0WZYVskAs0hjAEF12+uRQUHKiCp3zLFFxAh+e48LMa7qiTAYOgoKeNiP9OJE0a61y3JyppLvSBWO/522v+BVhfz5RN4RG2y5CMfj3AT2ghwS9LQ/7EwD64+wJBpQws41kog0jTtFN3HVR/Sg9HAC9Z9mPYHSWa16KwWERBZnwMBHvmEFZKULQldmiqTFRSTWbBtRb0cEx7noCYDVnuV8Sn7RYsV3ryxHGLVmVuVz9SxKaQhL2OVCLiqR9+BjpPBJlZM10nEuDellKxd8Ut5ifHx8cld03iW2oBqJJaL5sY/6x19ynchEZSj6IAOF7nIbBkbc2c4zieq++X8elfKZLylx9TKcakw74oAHJCEt4n59H6AmP7Oy1oIH+3GBPUtFN9Bd9RT9eLXMDowIkoX/f8sWgsYUF2fZOFpoP6lFa1s7S02ayWIyWi4Zs/7tkSmOglC2Mf9SICiuhjvWRbXRC/o68HSA4thbTNE8TYUrau5uUPFC1/SwfqsCf7FA+qtXSOMjZW0NsxxZ02XC9iu1Q7xIfX8homhGZJZ7MtrUP0mqkltc1YcQtO7DYiDTd1hc0sAzXut13YyUu2o2yrERIpJk7qF26gp7XIrp+v6YL4u/NasNUyeb6fCstgkiKbPKsnIW45rQ5a28qUqRMi4Oaq4=
+ properties :
+  width : 149
+  height : 112
+  widthClient : 147
+  heightClient : 110
+ controls :
+  -
+    name : ListView_Smiley
+    identifier : 0x257fdd560ac2e680
+    internal_properties : CAAAAAgAAABQy3sxCI2zS9kmWgxoQuCDICGuT90wAWjt/RPoJdwQ2qqbeu8orgGRDXlifYn3h+hJunv7zuui4ZaolzKLnQXnDdmZR0HvO+4JX1nthT5ihhpkaKYay/LsGH4pT5Z2LOoocdkig95HRtkH12GIB4s2275mNMt+o9eYhPYTYsGSLewlkQXjFMiI9hvi3qvf8eo5Fk7YRkU3TQx/tWb56HWGPgzN7jgVxL23ltstkdBTR7/ik0kGNO3+FAKJSBA4W4sFhEsapESD3DWF43pqwxUOMGyxd72rTfE9XLSMM1cspqPxkYALlcXct5qUV4Z/Ndt0BysGJ+B6rx937s0+nO/1emdK9G+FhVlX3/haMuakYA+GtRgHnK1q5vnHDao+GCVWmOH4TOspckvBdG8HogCtToyKSbh0bDsDYU7jgqUKAhv7p2KQOmuJK5PI5QfFZ/OTE90e3AdQ6xkEUcuRZAVu+AgEErdpoJb2YsYcl7k6vxu8jT+Snn6obmbB8FXH7fZ6mSUxmfIcN5nIZyFnJF+AQ0j7Y0xdj2nagpO2vm8LpJVuOGsmi92p2h3fVUrMl5o4QJcth3ZISymNnTox1J/DhroB4ld+3ebZehMQh37Q/lwSTvqL4LZOMbQK2aqioWWhiGcqDhDvCNRWEqQYK+IcRpQu0x7OGQMM34zu0TBJQj2RwhJrJJ7B5iEF16C8mFJtdnxukCLz59cAtjnLg7nacy9O1qYd9DP9Poye4IzjvEaHOuyq5DxXOcpQ2aprFYLV7BudTwO157sxSKVJHu1e7RLrlAH7hIvPkWMo5d4NnGUTBq6hjeeHOnEucTH5zavuU3tWTdlo+FKLnn2VLIDsPkEZZRrH1+WpUNZIVfpUq4ncjbqjeJyvtGn8P5ZcazG1no6lx5jaRXq2zBNRFoXXxyNi2SKLVt+nSi0CsHtpSLEMeDCXLmUkPNwKgh/GPWQDhd3N7AwbuGxcRDBBIQX/QUiaxoL9aLGESPAgX5gHO6gWjlJ02edMVXFw9CzPAA9gg1m7DOxv94IE7bO4G3PXmoDDm0qo4uS7F8lr8bKT5h681lqWA7fTkSwx4VWkdsoObWYjpl5r1LlvwPp2ZBnaiqUmxxu1eJCNgh4ZeQ+qQd4mPJEZgCtzyl2Lz9Sy09pirIsirx04KCCWHbhnoLkcTiDAys6tAdEDmLVAQ9UN8EszGZHrvnP/niKdalDEqZ3G4SuAypFF1V77B8HJyX7k8cdK/vEj33d7Q77sQIWEZL5JsivMLaF8Yo49avcwRoSZCf+L3HSqgQ3XNd4IYOg6wlRGodAqUZ5Cqd6kwGPN8tRmZVyATXGjiUp+qhoCyZ638/TiZ2XYMIbWNp/Hk0rc/2h7sfG5F0AEtgHCnoKnJe4iTRJORGlegM6NyVX6cZ3wahGiZSZwgXsz4rmP0Y6cw6FQ+0IPqG4ZKbblVQLAnH2CDfRyBK+VDTVFMPwBMUXU
+    properties :
+     x : 2
+     y : 1
+     width : 145
+     height : 111
+    type : 27
+    code_elements :
+     type_code : 59
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         
+        type : 21
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        internal_properties : CAAAAAgAAACmoVLMw6IVaNN+EzbCZ6RfCxh5pVzFPCZhG88znScG1z/Y/PkdJeeP3irLcbXCN5RHeNd369Fx6IvEJqGLFE9HzBcOG+6ib4SBPfY0gUSlaVKJGNF5IaHvg1Ejosjz6t2GLW9jk83MVZZ/lw==
+        code : |1+
+         // defines the return value
+         gfsReturnedValue = MySelf[MySelf]
+         
+         
+         Close(WIN_Smiley,gfsReturnedValue)
+         
+         
+        type : 66051
+  -
+    name : img_smile
+    identifier : 0x257fdd560ac3e680
+    internal_properties : CAAAAAgAAAAGCDjTZ0z9EzyXrO7qQdWw1LMkKqjPULGpx4uDT91FOSgyBawmx2EAmUCM/ST4BMH98YO/hw/w6NE7ykNNxaqkPK5F4rp9PufmAiCKg60mnJCDQD6zfpv0OCJ2yW96e66/ce4WC84tzKnCEyVBxIzlJeApNErZgtRqR1MPtYs9PBYf/NMXu3Kh12ZGM0yCr7cMzJpig6PsdL+QNqS0Ju4c/P1C53rzHyPuaD+WRpMSPqMUbg/SANX+Ggp+k/S5OvKDCYEYjQa1gr/wAde9WHL91FbiSeDn6wAC9RoSWx8/V8va5qoMtfE4JEE4bGndd2gxc+qGHoiuu8AZJ0GNVhVzYBxytZ17iS1uwpY82HyULfZjVd/bCzLIsA9V32+NPrneqK4LBqBv8zpEay4oWXeWyZoKghntu6ahvOA1XrNQnPLPQ9u0omoFHAI6JX7TQJE5hgwQdm4O5+BV+iQcAevJRykIlqet5Sc1IL9z+YBgrpnZzu1fGfLH8S5N0CT1pw3+QulTQBOO+ooQC9cas47tCJEtA4B3+AqpRmNQ9fcCM0a6vyVL73lQRbDfq0J3JBg984guK+S4jzRjBp4McTFQdfSJzzzZByqvBVt4cI5Uq5v3V+sB0GsFhmL9VNW6I76aUC076nNBReAU6T9QThjzB2/k05wfFhZC/uad4Kp5jIe8mj1Vbw4OPnjGlrv4HTzxt6lsZks6yprI94wt/rYQLL+5S+EfPjJWOx3XEVn4YxhPx1A8qU8NFdidnA3fRjOJBT/1IQtA2ZhPfsNRNvz7MP6TIwCanK0Pu3LVo8DCUwIwL0K+5W+lc2MRyhVm1Ohn6FktBDDFaYUR6mgFnXurTD1267SFQqqt1XORww9e4mBzpqef
+    properties :
+     x : 222
+     y : 20
+     width : 19
+     height : 19
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2680c88a1474e71b
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACONobfQCEV4p6lM/kPXky3b2lHfZiLHiTI/0eF9S8FdwWTJyiMO8dwsgUWA+Dwve4L+O//lUe1RpHijPj5DiD40S7394ZnKSV2oeyZDKuO0GIqfbVCfbQNNSLE5By5
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADoX9MLfGfWKwayS7h3VU0IxYS1fW9zlSB2kZU1q9ocHwiflE/MXMw7jrvAUMb9rvXxetcSO4tMZt/hlnkyfCGjngzjkA==
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      gfsReturnedValue is string = ""
+   -
+     code : |1+
+      i is int = 1
+      
+      bAdded is boolean
+      HReadFirst(Smiley,SmileyID)
+      SmileyTab is array dynamic of 1 strings
+      gLinkActivate(ListView_Smiley,True)
+      nDimension is int 
+      
+      WHILE NOT HOut(Smiley)
+      	
+      	nDimension = Dimension(SmileyTab)
+      	FOR i = 1 TO nDimension
+      		img_smile = Smiley.SmileyImage
+      		IF SmileyTab[i] = Crypt(dSaveImageBMP(img_smile,inMemory),"",cryptNone,True) THEN
+      			bAdded  = True
+      			BREAK
+      		END
+      	END
+      	IF bAdded = False THEN
+      		// Add the smiley into the list
+      		ListAdd(ListView_Smiley,gLink(Smiley.SmileyID),Smiley.SmileyImage)
+      		ArrayAdd(SmileyTab,Crypt(dSaveImageBMP(img_smile,inMemory),"",cryptNone,True))
+      	END
+      	bAdded = False
+      	HReadNext(Smiley,SmileyID)
+      END
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1-
+      
+      RESULT gfsReturnedValue
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenSmiley
+resources :
+ string_res :
+  identifier : 0x10110e3a001e1615
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
